@@ -4,7 +4,7 @@
 
 Software developer, professional and open-source enthusiast.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jannael-orlando-44604a349)[![Academics](https://img.shields.io/badge/Academics-9C27B0?style=flat&logo=education&logoColor=white)](https://github.com/Jannael/Jannael/tree/main/academics)![Languages](https://img.shields.io/badge/English-4A90D9)![Languages](https://img.shields.io/badge/Spanish-E63946)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jannael-orlando-44604a349)[![Github](https://img.shields.io/badge/Github-000000.svg?style=flat&logo=Github&logoColor=ffffff)](https://github.com/jannael)[![Academics](https://img.shields.io/badge/Academics-9C27B0?style=flat&logo=education&logoColor=white)](https://github.com/Jannael/Jannael/tree/main/academics)![Languages](https://img.shields.io/badge/English-4A90D9)![Languages](https://img.shields.io/badge/Spanish-E63946)
 
 ## Professional Experience
 

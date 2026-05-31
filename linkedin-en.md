@@ -49,4 +49,5 @@ Python | OpenCV | Raspberry Pi | Arduino | TypeScript | Bun | Astro | Zod | Pupp
 ## Let's connect
 
 - LinkedIn: https://www.linkedin.com/in/jannael-orlando-44604a349
+- Github: https://github.com/jannael
 - Github Profile: https://github.com/Jannael
