@@ -1,121 +1,314 @@
 {
   "defaultLang": "en",
-  "site": "https://devsync.work",
-  "name": "Your Full Name",
-  "department": "Your Department or Team",
-  "img": "https://your-image-url.com/your-image.jpg",
+  "site": "https://jannael.com",
+  "name": "Jannael Orlando",
+  "img": "/profile.png",
   "socialMedia": [
     {
       "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/your-linkedin-handle",
+      "url": "https://www.linkedin.com/in/jannael-orlando-44604a349",
       "icon": "/icons/linkedin.svg",
       "mdBadge": "![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)"
     }
   ],
-  "githubUserName": "your-github-username",
-  "address": "Your City, Country",
-  "email": "your-email@example.com",
-  "phone": "+1 123 456 7890",
+  "githubUserName": "Jannael",
+  "phone": "+52 56 3368 3040",
+  "address": "Ciudad de México, México",
+  "email": "orlandojannael@gmail.com",
   "en": {
-    "description": "Write a short professional summary about yourself. Example: Full-stack developer focused on developer experience, performance, and product quality.",
-    "jobTitle": "Your Current Job Title",
+    "description": "Software developer, professional and open-source enthusiast.",
+    "jobTitle": "Software Developer",
     "status": {
-      "status": "your-status",
-      "badge": "![Status](https://img.shields.io/badge/Status-Your%20Status-blue)"
+      "status": "Looking for work",
+      "badge": "![Status](https://img.shields.io/badge/Looking%20for%20work-brightgreen?style=flat)"
     },
     "languages": [
       {
-        "name": "Your Language 1 / Your Language 2",
-        "mdBadge": "![Languages](https://img.shields.io/badge/Languages-Your%20Languages-1f6feb)",
+        "name": "English",
+        "mdBadge": "![Languages](https://img.shields.io/badge/English-4A90D9)",
+        "icon": "https://cdn.simpleicons.org/googletranslate"
+      },
+      {
+        "name": "Spanish",
+        "mdBadge": "![Languages](https://img.shields.io/badge/Spanish-E63946)",
         "icon": "https://cdn.simpleicons.org/googletranslate"
       }
     ],
     "experience": [
       {
-        "company": "Your Company Name",
-        "position": "Your Position Title",
-        "img": "https://your-image-url.com/company-image.jpg",
-        "web": "https://your-company-website.com",
-        "description": "Describe your role and impact in one concise sentence.",
-        "date": "MM/YY - Present",
+        "company": "Universidad Tecnológica Fidel Velázquez",
+        "position": "Dual Education Student",
+        "img": "https://imgs.search.brave.com/RuIC75wZGFDm9xsUgRv6bSZzEXp6XtlLl0E0QSyQ11s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RzLzQwNC8x/ZGNmZDQxNDQ4ODQy/MjUuWTNKdmNDdzFO/elV6TERRMU1EQXNN/VE15TkN3dy5wbmc",
+        "web": "http://casautfv.net/",
+        "description": "Developed automation and hardware/software integration projects, culminating in a smart greenhouse controlled by computer vision.",
+        "date": "MM/YY - MM/YY",
         "links": [
           {
-            "name": "Company Website",
-            "url": "https://your-company-website.com",
-            "mdBadge": "![Company](https://img.shields.io/badge/Company-Website-0ea5e9)",
+            "name": "Website",
+            "url": "http://casautfv.net/",
+            "mdBadge": "![Web](https://img.shields.io/badge/Web-000000?logo=googlechrome&logoColor=fff)",
             "icon": "https://cdn.simpleicons.org/googlechrome"
+          },
+          {
+            "name": "Recommendation Letter EN",
+            "url": "https://github.com/jannael/jannael/raw/main/academics/Juan%20Carlos%20Corte%20-%20en.pdf",
+            "mdBadge": "![Recommendation Letter](https://img.shields.io/badge/Recommendation%20Letter-0A66C2?logo=linkedin&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/linkedin"
+          },
+          {
+            "name": "Recommendation Letter ES",
+            "url": "https://github.com/jannael/jannael/raw/main/academics/Juan%20Carlos%20Corte%20-%20es.pdf",
+            "mdBadge": "![Recommendation Letter](https://img.shields.io/badge/Recommendation%20Letter-0A66C2?logo=linkedin&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/linkedin"
           }
         ],
         "list": {
-          "title": "key-achievements",
+          "title": "Featured Projects",
           "items": [
             {
-              "highlight": "Achievement headline",
-              "description": "Describe one measurable result you delivered (performance, revenue, growth, reliability, etc.)."
+              "highlight": "Greenhouse with computer vision",
+              "description": "Developed a plant monitoring system with Python and OpenCV on Raspberry Pi, controlling temperature and humidity via serial communication with Arduino."
+            },
+            {
+              "highlight": "Real-time control interface",
+              "description": "Built a GUI with Tkinter to operate greenhouse sensors and actuators, allowing environment parameter adjustments without manual intervention."
+            },
+            {
+              "highlight": "RetoPY international contest",
+              "description": "Represented the institution in an international Python programming contest, obtaining first place as team leader."
             }
           ]
         },
         "skills": [
           {
-            "name": "Your Key Skill",
-            "mdBadge": "![Skill](https://img.shields.io/badge/Skill-Your%20Skill-339933)",
-            "icon": "https://cdn.simpleicons.org/codeforces"
+            "name": "Python",
+            "mdBadge": "![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/python"
+          },
+          {
+            "name": "OpenCV",
+            "mdBadge": "![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/opencv"
+          },
+          {
+            "name": "Raspberry Pi",
+            "mdBadge": "![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/raspberrypi"
+          },
+          {
+            "name": "Arduino",
+            "mdBadge": "![Arduino](https://img.shields.io/badge/Arduino-00878A?logo=arduino&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/arduino"
           }
         ]
       }
     ],
     "projects": [
       {
-        "name": "Your Project Name",
-        "img": "https://your-image-url.com/project-image.jpg",
-        "web": "https://your-project-url.com",
+        "name": "Devsync",
+        "img": "https://github.com/jannael/devsync/raw/main/apps/web/public/og.png",
+        "web": "https://devsync.work",
         "links": [
           {
             "name": "GitHub",
-            "url": "https://github.com/your-github-username/your-project-repo",
-            "mdBadge": "![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github&logoColor=white)",
-            "icon": "/icons/github.svg"
+            "url": "https://github.com/jannael/devsync",
+            "mdBadge": "![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)",
+            "icon": "https://cdn.simpleicons.org/github"
+          },
+          {
+            "name": "Demo",
+            "url": "https://devsync.work",
+            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-22c55e)",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Describe what the project does and why it matters.",
+        "description": "Tool to sync all your job-seeking documents: GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history.",
         "list": {
-          "title": "project-highlights",
+          "title": "Features",
           "items": [
             {
-              "highlight": "Technical highlight",
-              "description": "Describe one concrete technical decision or outcome from this project."
+              "highlight": "Hexagonal architecture",
+              "description": "Each command's logic (init, build, create-template) is isolated in domain/app/infra layers, sharing common infrastructure through the mixin pattern."
+            },
+            {
+              "highlight": "Single source of truth",
+              "description": "A single DEVSYNC.json keeps your PDF CV, GitHub profile, LinkedIn summary, and academic history in sync."
+            },
+            {
+              "highlight": "PDF generation with Puppeteer",
+              "description": "Renders the CV as HTML and exports it to PDF per language, with no external dependencies or third-party services."
+            },
+            {
+              "highlight": "Native internationalization",
+              "description": "Each section supports multiple languages; the build generates separate artifacts (CV, LinkedIn) per configured lang."
+            },
+            {
+              "highlight": "GitHub Actions",
+              "description": "A ready-to-use workflow detects changes in DEVSYNC.json and automatically regenerates and commits all artifacts."
+            },
+            {
+              "highlight": "Template system",
+              "description": "Create and publish fully customizable templates on GitHub; anyone can initialize their portfolio from them with a single command."
+            },
+            {
+              "highlight": "Zod validation",
+              "description": "The DEVSYNC.json schema is typed and validated with descriptive errors for each required profile field."
+            },
+            {
+              "highlight": "Supply chain security",
+              "description": "3-day minimumReleaseAge in bunfig.toml blocks recently published packages, protecting against dependency chain attacks."
             }
           ]
         },
         "skills": [
           {
-            "name": "Project Skill",
-            "mdBadge": "![Skill](https://img.shields.io/badge/Skill-Project%20Skill-61DAFB)",
-            "icon": "https://cdn.simpleicons.org/git"
+            "name": "TypeScript",
+            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/typescript"
+          },
+          {
+            "name": "Bun",
+            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-fbf0df?logo=bun&logoColor=000)",
+            "icon": "https://cdn.simpleicons.org/bun"
+          },
+          {
+            "name": "Astro",
+            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/astro"
+          },
+          {
+            "name": "Zod",
+            "mdBadge": "![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/zod"
+          },
+          {
+            "name": "Puppeteer",
+            "mdBadge": "![Puppeteer](https://img.shields.io/badge/Puppeteer-4285F4?logo=puppeteer&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/puppeteer"
+          },
+          {
+            "name": "Vitest",
+            "mdBadge": "![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/vitest"
+          },
+          {
+            "name": "GitHub Actions",
+            "mdBadge": "![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/githubactions"
+          },
+          {
+            "name": "Tailwind CSS",
+            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/tailwindcss"
+          },
+          {
+            "name": "Cloudflare Pages",
+            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?logo=cloudflare&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ]
+      },
+      {
+        "name": "Glinter",
+        "img": "https://github.com/Jannael/glinter/raw/main/apps/web/public/og.png",
+        "web": "https://glinter.jannael.com",
+        "links": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/jannael/glinter",
+            "mdBadge": "![Glinter](https://glinter.jannael.com/badge.svg)",
+            "icon": "https://cdn.simpleicons.org/github"
+          },
+          {
+            "name": "Demo",
+            "url": "https://glinter.jannael.com",
+            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-22c55e)",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ],
+        "description": "Tool to improve the development experience using git.",
+        "list": {
+          "title": "Features",
+          "items": [
+            {
+              "highlight": "Transparent proxy",
+              "description": "Uses Bun.spawn with stdio: 'inherit' to connect Git streams directly to the terminal, preserving colors, interactive prompts, and the full native UX."
+            },
+            {
+              "highlight": "Hexagonal architecture",
+              "description": "Each command (add, commit, switch, setup) is organized into independent domain/app/infra layers, with interfaces as ports and Bun as the adapter."
+            },
+            {
+              "highlight": "Interactive staging",
+              "description": "g add without arguments opens a multiselect with @clack/prompts showing only modified files, automatically filtering .env and node_modules."
+            },
+            {
+              "highlight": "Porcelain parsing",
+              "description": "Parses git status --porcelain -z with NUL splitting for 100% reliable file detection across Git versions, system languages, and special characters."
+            },
+            {
+              "highlight": "Interactive switch",
+              "description": "g switch lists local and remote branches in a navigable selector, running checkout without needing to remember the exact branch name."
+            },
+            {
+              "highlight": "Cross-platform alias",
+              "description": "The setup command configures the g alias on Unix and Windows automatically, with separate infrastructure implementations per OS."
+            }
+          ]
+        },
+        "skills": [
+          {
+            "name": "TypeScript",
+            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/typescript"
+          },
+          {
+            "name": "Bun",
+            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-fbf0df?logo=bun&logoColor=000)",
+            "icon": "https://cdn.simpleicons.org/bun"
+          },
+          {
+            "name": "Astro",
+            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/astro"
+          },
+          {
+            "name": "Vitest",
+            "mdBadge": "![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/vitest"
+          },
+          {
+            "name": "Cloudflare Pages",
+            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?logo=cloudflare&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ]
       }
     ],
     "education": [
       {
-        "name": "Your University or Institution",
-        "degree": "Your Degree / Program",
-        "img": "https://your-image-url.com/education-image.jpg",
+        "name": "CECYTEM",
+        "degree": "Mechatronics Technician",
+        "img": "https://imgs.search.brave.com/LuxiAr7VkeTK02oRr8o4WQ6IhDa-o1Ea9X0oPMN26RU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzI0LzIvY2VjeXRl/bS1sb2dvLXBuZ19z/ZWVrbG9nby0yNDcw/MjQucG5n",
         "date": "MM/YY - MM/YY",
         "links": [
           {
-            "name": "Program URL",
-            "url": "https://your-program-link.com",
-            "mdBadge": "![Program](https://img.shields.io/badge/Program-Details-b45309)",
+            "name": "Website",
+            "url": "https://cecytem.edomex.gob.mx/nicolas_romero_ii",
+            "mdBadge": "![Web](https://img.shields.io/badge/Web-000000?logo=googlechrome&logoColor=fff)",
             "icon": "https://cdn.simpleicons.org/googlechrome"
           }
         ],
         "list": {
-          "title": "education-highlights",
+          "title": "Achievements",
           "items": [
             {
-              "highlight": "Academic highlight",
-              "description": "Describe a relevant course, thesis, capstone, or achievement."
+              "highlight": "International Python contest",
+              "description": "Won a contest as leader of a two-person team solving Python challenges."
+            },
+            {
+              "highlight": "National top GPA",
+              "description": "Recognized as the best GPA nationwide in my major."
             }
           ]
         }
@@ -123,22 +316,570 @@
     ],
     "certifications": [
       {
-        "name": "Your Certification Name",
-        "url": "https://your-certification-url.com",
+        "name": "AWS Cloud Practitioner Essentials Santander",
+        "url": "https://github.com/jannael/jannael/raw/main/academics/Constancia%20AWS%20Cloud%20Practitioner%20Essentials.pdf",
         "list": {
-          "title": "what-this-validates",
+          "title": "What I learned",
           "items": [
             {
-              "highlight": "Validated area",
-              "description": "Describe what this certification validates for your profile."
+              "highlight": "AWS essentials",
+              "description": "Managing AWS services such as IAM, S3, EC2, RDS, CloudFront, Lambda, etc."
+            },
+            {
+              "highlight": "CloudFront",
+              "description": "Using CloudFront to distribute static content worldwide for instant loading."
+            },
+            {
+              "highlight": "Billing",
+              "description": "Using the Billing service to manage and monitor AWS resource costs."
             }
           ]
         },
         "skills": [
           {
-            "name": "Certification Skill",
-            "mdBadge": "![Certification Skill](https://img.shields.io/badge/Skill-Certification-232F3E)",
-            "icon": "https://cdn.simpleicons.org/coursera"
+            "name": "AWS",
+            "mdBadge": "![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/amazonwebservices"
+          },
+          {
+            "name": "Amazon S3",
+            "mdBadge": "![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/amazons3"
+          },
+          {
+            "name": "Amazon EC2",
+            "mdBadge": "![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/amazonec2"
+          },
+          {
+            "name": "AWS Lambda",
+            "mdBadge": "![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/awslambda"
+          },
+          {
+            "name": "CloudFront",
+            "mdBadge": "![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?logo=amazonwebservices&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/amazonwebservices"
+          }
+        ]
+      },
+      {
+        "name": "Claude Code in Action",
+        "url": "https://github.com/jannael/jannael/raw/main/academics/Claude%20code%20in%20action.pdf",
+        "list": {
+          "title": "What I learned",
+          "items": [
+            {
+              "highlight": "Agentic coding",
+              "description": "Using Claude Code to delegate complex development tasks, from implementation to refactoring, with full project context."
+            },
+            {
+              "highlight": "Prompt engineering",
+              "description": "Structuring effective instructions to obtain precise and consistent results in automated development workflows."
+            },
+            {
+              "highlight": "AI workflows",
+              "description": "Integrating Claude Code into the real development cycle, combining code review, generation, and assisted debugging."
+            }
+          ]
+        },
+        "skills": [
+          {
+            "name": "Claude Code",
+            "mdBadge": "![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/anthropic"
+          },
+          {
+            "name": "Anthropic",
+            "mdBadge": "![Anthropic](https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/anthropic"
+          }
+        ]
+      },
+      {
+        "name": "Academia STEM Participation Certificate - RetoPY",
+        "url": "https://github.com/jannael/jannael/raw/main/academics/Constacia%20de%20Participacion%20Academia%20STEM.pdf",
+        "list": {
+          "title": "What it was",
+          "items": [
+            {
+              "highlight": "RetoPY",
+              "description": "International programming contest organized by Academia STEM, where I obtained first place."
+            }
+          ]
+        },
+        "skills": []
+      },
+      {
+        "name": "React Junior Developer - Certificates.dev",
+        "url": "https://github.com/jannael/jannael/raw/main/academics/React%20Junior%20Developer.pdf",
+        "list": {
+          "title": "What I learned",
+          "items": [
+            {
+              "highlight": "React essentials",
+              "description": "Mastering JSX, component composition, props, children, and the fundamental rules of React's component model."
+            },
+            {
+              "highlight": "Hooks and state",
+              "description": "Managing state with useState, understanding the render cycle, state snapshots, and when to use useRef to avoid unnecessary re-renders."
+            },
+            {
+              "highlight": "Forms and events",
+              "description": "Handling interactions with React's event system, implementing controlled and uncontrolled forms."
+            }
+          ]
+        },
+        "skills": [
+          {
+            "name": "React",
+            "mdBadge": "![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)",
+            "icon": "https://cdn.simpleicons.org/react"
+          },
+          {
+            "name": "JavaScript",
+            "mdBadge": "![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)",
+            "icon": "https://cdn.simpleicons.org/javascript"
+          },
+          {
+            "name": "Vite",
+            "mdBadge": "![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/vite"
+          }
+        ]
+      }
+    ]
+  },
+  "es": {
+    "description": "Desarrollador de software, profesional y apasionado del open-source.",
+    "jobTitle": "Desarrollador de software",
+    "status": {
+      "status": "Buscando trabajo",
+      "badge": "![Estado](https://img.shields.io/badge/Buscando%20trabajo-brightgreen?style=flat)"
+    },
+    "languages": [
+      {
+        "name": "Inglés",
+        "mdBadge": "![Idiomas](https://img.shields.io/badge/Inglés-4A90D9)",
+        "icon": "https://cdn.simpleicons.org/googletranslate"
+      },
+      {
+        "name": "Español",
+        "mdBadge": "![Idiomas](https://img.shields.io/badge/Español-E63946)",
+        "icon": "https://cdn.simpleicons.org/googletranslate"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Universidad Tecnológica Fidel Velázquez",
+        "position": "Estudiante de Educación Dual",
+        "img": "https://imgs.search.brave.com/RuIC75wZGFDm9xsUgRv6bSZzEXp6XtlLl0E0QSyQ11s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RzLzQwNC8x/ZGNmZDQxNDQ4ODQy/MjUuWTNKdmNDdzFO/elV6TERRMU1EQXNN/VE15TkN3dy5wbmc",
+        "web": "http://casautfv.net/",
+        "description": "Desarrollé proyectos de automatización e integración de hardware/software, culminando en un invernadero inteligente controlado por visión artificial.",
+        "date": "MM/YY - MM/YY",
+        "links": [
+          {
+            "name": "Website",
+            "url": "http://casautfv.net/",
+            "mdBadge": "![Web](https://img.shields.io/badge/Web-000000?logo=googlechrome&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/googlechrome"
+          },
+          {
+            "name": "Carta de Recomendación EN",
+            "url": "https://github.com/jannael/jannael/raw/main/academics/Juan%20Carlos%20Corte%20-%20en.pdf",
+            "mdBadge": "![Carta de Recomendación](https://img.shields.io/badge/Carta%20de%20Recomendación-0A66C2?logo=linkedin&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/linkedin"
+          },
+          {
+            "name": "Carta de Recomendación ES",
+            "url": "https://github.com/jannael/jannael/raw/main/academics/Juan%20Carlos%20Corte%20-%20es.pdf",
+            "mdBadge": "![Carta de Recomendación](https://img.shields.io/badge/Carta%20de%20Recomendación-0A66C2?logo=linkedin&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/linkedin"
+          }
+        ],
+        "list": {
+          "title": "Proyectos destacados",
+          "items": [
+            {
+              "highlight": "Invernadero con visión artificial",
+              "description": "Desarrollé un sistema de monitoreo de plantas con Python y OpenCV sobre Raspberry Pi, controlando temperatura y humedad mediante comunicación serial con Arduino."
+            },
+            {
+              "highlight": "Interfaz de control en tiempo real",
+              "description": "Construí una GUI con Tkinter para operar sensores y actuadores del invernadero, permitiendo ajustar parámetros del ambiente sin intervención manual."
+            },
+            {
+              "highlight": "Concurso internacional RetoPY",
+              "description": "Representé a la institución en un concurso internacional de programación en Python, obteniendo el primer lugar como líder de equipo."
+            }
+          ]
+        },
+        "skills": [
+          {
+            "name": "Python",
+            "mdBadge": "![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/python"
+          },
+          {
+            "name": "OpenCV",
+            "mdBadge": "![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/opencv"
+          },
+          {
+            "name": "Raspberry Pi",
+            "mdBadge": "![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/raspberrypi"
+          },
+          {
+            "name": "Arduino",
+            "mdBadge": "![Arduino](https://img.shields.io/badge/Arduino-00878A?logo=arduino&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/arduino"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Devsync",
+        "img": "https://github.com/jannael/devsync/raw/main/apps/web/public/og.png",
+        "web": "https://devsync.work",
+        "links": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/jannael/devsync",
+            "mdBadge": "![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)",
+            "icon": "https://cdn.simpleicons.org/github"
+          },
+          {
+            "name": "Demo",
+            "url": "https://devsync.work",
+            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-22c55e)",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ],
+        "description": "herramienta para sincronizar todos tus documentos para buscar trabajo, github, linkedin, curriculum (con formato hardvard), portafolio y historial académico.",
+        "list": {
+          "title": "Caracteristicas",
+          "items": [
+            {
+              "highlight": "Arquitectura hexagonal",
+              "description": "La lógica de cada comando (init, build, create-template) está aislada en capas domain/app/infra, compartiendo infraestructura común a través del patrón mixin."
+            },
+            {
+              "highlight": "Una sola fuente de datos",
+              "description": "Un único DEVSYNC.json mantiene sincronizados el CV en PDF, el perfil de GitHub, el resumen de LinkedIn y el historial académico."
+            },
+            {
+              "highlight": "Generación de PDF con Puppeteer",
+              "description": "Renderiza el CV en HTML y lo exporta a PDF por idioma, sin dependencias externas ni servicios de terceros."
+            },
+            {
+              "highlight": "Internacionalización nativa",
+              "description": "Cada sección soporta múltiples idiomas; el build genera artefactos separados (CV, LinkedIn) por cada lang configurado."
+            },
+            {
+              "highlight": "GitHub Actions",
+              "description": "Un workflow listo para usar, detecta cambios en DEVSYNC.json y regenera y commitea automáticamente todos los artefactos."
+            },
+            {
+              "highlight": "Sistema de plantillas",
+              "description": "Crea y publica plantillas completamente personalizables en GitHub; cualquiera puede inicializar su portafolio desde ellas con un solo comando."
+            },
+            {
+              "highlight": "Validación con Zod",
+              "description": "El schema de DEVSYNC.json está tipado y validado con errores descriptivos para cada campo requerido del perfil."
+            },
+            {
+              "highlight": "Supply chain security",
+              "description": "minimumReleaseAge de 3 días en bunfig.toml bloquea paquetes recién publicados, protegiendo contra ataques a la cadena de dependencias."
+            }
+          ]
+        },
+       "skills": [
+          {
+            "name": "TypeScript",
+            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/typescript"
+          },
+          {
+            "name": "Bun",
+            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-fbf0df?logo=bun&logoColor=000)",
+            "icon": "https://cdn.simpleicons.org/bun"
+          },
+          {
+            "name": "Astro",
+            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/astro"
+          },
+          {
+            "name": "Zod",
+            "mdBadge": "![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/zod"
+          },
+          {
+            "name": "Puppeteer",
+            "mdBadge": "![Puppeteer](https://img.shields.io/badge/Puppeteer-4285F4?logo=puppeteer&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/puppeteer"
+          },
+          {
+            "name": "Vitest",
+            "mdBadge": "![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/vitest"
+          },
+          {
+            "name": "GitHub Actions",
+            "mdBadge": "![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/githubactions"
+          },
+          {
+            "name": "Tailwind CSS",
+            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/tailwindcss"
+          },
+          {
+            "name": "Cloudflare Pages",
+            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?logo=cloudflare&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ]
+      },
+      {
+        "name": "Glinter",
+        "img": "https://github.com/Jannael/glinter/raw/main/apps/web/public/og.png",
+        "web": "https://glinter.jannael.com",
+        "links": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/jannael/glinter",
+            "mdBadge": "![Glinter](https://glinter.jannael.com/badge.svg)",
+            "icon": "https://cdn.simpleicons.org/github"
+          },
+          {
+            "name": "Demo",
+            "url": "https://glinter.jannael.com",
+            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-22c55e)",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ],
+        "description": "herramienta para mejorar la experiencia de desarrollo utilizando git.",
+        "list": {
+          "title": "Caracteristicas",
+          "items": [
+            {
+              "highlight": "Transparent proxy",
+              "description": "Usa Bun.spawn con stdio: 'inherit' para conectar los streams de Git directamente al terminal, preservando colores, prompts interactivos y toda la UX nativa."
+            },
+            {
+              "highlight": "Arquitectura hexagonal",
+              "description": "Cada comando (add, commit, switch, setup) está organizado en capas domain/app/infra independientes, con interfaces como puertos y Bun como adaptador."
+            },
+            {
+              "highlight": "Staging interactivo",
+              "description": "g add sin argumentos abre un multiselect con @clack/prompts mostrando solo los archivos modificados, filtrando automáticamente .env y node_modules."
+            },
+            {
+              "highlight": "Porcelain parsing",
+              "description": "Parsea git status --porcelain -z con split por NUL para detección de archivos 100% confiable entre versiones de Git, idiomas de sistema y caracteres especiales."
+            },
+            {
+              "highlight": "Switch interactivo",
+              "description": "g switch lista ramas locales y remotas en un selector navegable, ejecutando el checkout sin necesidad de recordar el nombre exacto de la rama."
+            },
+            {
+              "highlight": "Alias multiplataforma",
+              "description": "El comando setup configura el alias g en Unix y Windows de forma automática, con implementaciones de infra separadas por sistema operativo."
+            }
+          ]
+        },
+      "skills": [
+          {
+            "name": "TypeScript",
+            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/typescript"
+          },
+          {
+            "name": "Bun",
+            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-fbf0df?logo=bun&logoColor=000)",
+            "icon": "https://cdn.simpleicons.org/bun"
+          },
+          {
+            "name": "Astro",
+            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/astro"
+          },
+          {
+            "name": "Vitest",
+            "mdBadge": "![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/vitest"
+          },
+          {
+            "name": "Cloudflare Pages",
+            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?logo=cloudflare&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "name": "CECYTEM",
+        "degree": "Tecnico en Mecatronica",
+        "img": "https://imgs.search.brave.com/LuxiAr7VkeTK02oRr8o4WQ6IhDa-o1Ea9X0oPMN26RU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzI0LzIvY2VjeXRl/bS1sb2dvLXBuZ19z/ZWVrbG9nby0yNDcw/MjQucG5n",
+        "date": "MM/YY - MM/YY",
+        "links": [
+          {
+            "name": "Website",
+            "url": "https://cecytem.edomex.gob.mx/nicolas_romero_ii",
+            "mdBadge": "![Web](https://img.shields.io/badge/Web-000000?logo=googlechrome&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/googlechrome"
+          }
+        ],
+        "list": {
+          "title": "logros",
+          "items": [
+            {
+              "highlight": "Concurso internacional de python",
+              "description": "Gane un concurso como lider de un equipo de dos personas desarrollando retos en python."
+            },
+            {
+              "highlight": "Promedio nacional",
+              "description": "Fui reconocido como el mejor promedio a nivel nacional de mi carrera."
+            }
+          ]
+        }
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Constancia AWS Cloud Practitioner Essentials Santander",
+        "url": "https://github.com/jannael/jannael/raw/main/academics/Constancia%20AWS%20Cloud%20Practitioner%20Essentials.pdf",
+        "list": {
+          "title": "¿Que aprendi?",
+          "items": [
+            {
+              "highlight": "AWS esenciales",
+              "description": "Manejar los servicios de AWS, como IAM, S3, EC2, RDS, CloudFront, Lambda, etc."
+            },
+            {
+              "highlight": "Cloudfront",
+              "description": "Utilizar el servicio de Cloudfront para distribuir contenido estático atraves del mundo, para una carga instantánea."
+            },
+            {
+              "highlight": "Billing",
+              "description": "Utilizar el servicio de Billing para gestionar y monitorear los costos de los recursos de AWS."
+            }
+          ]
+        },
+        "skills": [
+          {
+            "name": "AWS",
+            "mdBadge": "![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/amazonwebservices"
+          },
+          {
+            "name": "Amazon S3",
+            "mdBadge": "![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/amazons3"
+          },
+          {
+            "name": "Amazon EC2",
+            "mdBadge": "![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/amazonec2"
+          },
+          {
+            "name": "AWS Lambda",
+            "mdBadge": "![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/awslambda"
+          },
+          {
+            "name": "CloudFront",
+            "mdBadge": "![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?logo=amazonwebservices&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/amazonwebservices"
+          }
+        ]
+      },
+      {
+        "name": "Claude Code in Action",
+        "url": "https://github.com/jannael/jannael/raw/main/academics/Claude%20code%20in%20action.pdf",
+        "list": {
+          "title": "¿Que aprendi?",
+          "items": [
+            {
+              "highlight": "Agentic coding",
+              "description": "Utilizar Claude Code para delegar tareas de desarrollo complejas, desde implementación hasta refactoring, con contexto completo del proyecto."
+            },
+            {
+              "highlight": "Prompt engineering",
+              "description": "Estructurar instrucciones efectivas para obtener resultados precisos y consistentes en flujos de desarrollo automatizados."
+            },
+            {
+              "highlight": "Flujos de trabajo con IA",
+              "description": "Integrar Claude Code en el ciclo de desarrollo real, combinando revisión de código, generación y debugging asistido."
+            }
+          ]
+        },
+        "skills": [
+          {
+            "name": "Claude Code",
+            "mdBadge": "![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/anthropic"
+          },
+          {
+            "name": "Anthropic",
+            "mdBadge": "![Anthropic](https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/anthropic"
+          }
+        ]
+      },
+      {
+        "name": "Constancia de Participación Academia STEM - RetoPY",
+        "url": "https://github.com/jannael/jannael/raw/main/academics/Constacia%20de%20Participacion%20Academia%20STEM.pdf",
+        "list": {
+          "title": "¿Que fue?",
+          "items": [
+            {
+              "highlight": "RetoPY",
+              "description": "Concurso internacional de programación organizado por Academia STEM, en el que obtuve el primer lugar."
+            }
+          ]
+        },
+        "skills": []
+      },
+      {
+        "name": "React Junior Developer - Certificates.dev",
+        "url": "https://github.com/jannael/jannael/raw/main/academics/React%20Junior%20Developer.pdf",
+        "list": {
+          "title": "¿Que aprendi?",
+          "items": [
+            {
+              "highlight": "React esenciales",
+              "description": "Dominar JSX, composición de componentes, props, children y las reglas fundamentales del modelo de componentes de React."
+            },
+            {
+              "highlight": "Hooks y estado",
+              "description": "Gestionar el estado con useState, entender el ciclo de renderizado, snapshots de estado y cuándo usar useRef para evitar re-renders innecesarios."
+            },
+            {
+              "highlight": "Formularios y eventos",
+              "description": "Manejar interacciones con el sistema de eventos de React, implementar formularios controlados y no controlados."
+            }
+          ]
+        },
+        "skills": [
+          {
+            "name": "React",
+            "mdBadge": "![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)",
+            "icon": "https://cdn.simpleicons.org/react"
+          },
+          {
+            "name": "JavaScript",
+            "mdBadge": "![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)",
+            "icon": "https://cdn.simpleicons.org/javascript"
+          },
+          {
+            "name": "Vite",
+            "mdBadge": "![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)",
+            "icon": "https://cdn.simpleicons.org/vite"
           }
         ]
       }
