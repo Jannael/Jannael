@@ -9,6 +9,12 @@
       "url": "https://www.linkedin.com/in/jannael-orlando-44604a349",
       "icon": "/icons/linkedin.svg",
       "mdBadge": "![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/jannael",
+      "icon": "/icons/github.svg",
+      "mdBadge": "![Github](https://img.shields.io/badge/Github-000000.svg?style=flat&logo=Github&logoColor=ffffff)"
     }
   ],
   "githubUserName": "Jannael",
