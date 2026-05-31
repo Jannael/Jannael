@@ -6,7 +6,7 @@ Software developer, professional and open-source enthusiast.
 
 ## Professional Experience
 
-- **Dual Education Student** at **Universidad Tecnológica Fidel Velázquez** (MM/YY - MM/YY)
+- **Dual Education Student** at **Universidad Tecnológica Fidel Velázquez** (08/23 - 08/24)
 - Developed automation and hardware/software integration projects, culminating in a smart greenhouse controlled by computer vision.
 - Greenhouse with computer vision: Developed a plant monitoring system with Python and OpenCV on Raspberry Pi, controlling temperature and humidity via serial communication with Arduino.
 - Real-time control interface: Built a GUI with Tkinter to operate greenhouse sensors and actuators, allowing environment parameter adjustments without manual intervention.
