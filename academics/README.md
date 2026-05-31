@@ -3,7 +3,7 @@
 <table>
       <tr>
         <td>
-          <h3>CECYTEM | Mechatronics Technician | MM/YY - MM/YY</h3>
+          <h3>CECYTEM | Mechatronics Technician | 08/21 - 07/24</h3>
 
 [![Web](https://img.shields.io/badge/Web-000000?logo=googlechrome&logoColor=fff)](https://cecytem.edomex.gob.mx/nicolas_romero_ii)
 <br>
