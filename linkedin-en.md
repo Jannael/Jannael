@@ -13,13 +13,11 @@ Software developer, professional and open-source enthusiast.
 ## Selected projects
 
 - **Devsync**
-- Tool to sync GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history. Allows you to keep your entire professional presence automatically updated through a single configuration file.
+- Tool to sync GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history. Allows you to keep your entire professional presence automatically updated through a single configuration file that supports multiple languages.
 - PDF generation with Puppeteer: Renders the CV as HTML and exports it to PDF per language.
-- Native internationalization: Each section supports multiple languages; the build generates separate artifacts (CV, LinkedIn) for each configured lang.
 - Links: https://github.com/jannael/devsync | https://devsync.work
 - **Glinter**
-- Tool to enhance the development experience using git. Glinter acts as a transparent proxy for git commands, intercepting execution and providing enhancements like interactive staging, branch switching with a selector, reliable repository status parsing, among other features designed to optimize the development workflow without sacrificing git's native UX.
-- Porcelain parsing: Parses git status --porcelain -z with NUL splitting for 100% reliable file detection.
+- Transparent proxy for git commands, intercepting execution and providing enhancements like interactive staging, branch switching with a selector, reliable repository status parsing, among other features designed to optimize the development workflow without sacrificing git's native UX.
 - Cross-platform aliases: The setup command configures aliases on Unix and Windows automatically.
 - Links: https://github.com/jannael/glinter | https://glinter.jannael.com
 

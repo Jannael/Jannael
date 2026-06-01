@@ -42,22 +42,22 @@ const userLanguages = profile.languages ?? []
     </style>
   </head>
   <body class="bg-white text-slate-900 antialiased">
-    <main class="mx-auto max-w-4xl px-6 py-5 print:max-w-none print:px-0 print:py-0">
-      <header class="border-b border-slate-300 pb-5">
+    <main class="mx-auto max-w-4xl px-5 py-4 print:max-w-none print:px-0 print:py-0">
+      <header class="border-b border-slate-300 pb-4">
         <h1 class="text-3xl font-bold tracking-tight">
           {(devsync.name ?? 'Candidate Name') + (profile.jobTitle ? ' | ' + profile.jobTitle : '')}
         </h1>
-        {profile.description && <p class="mt-3 text-sm leading-6">{profile.description}</p>}
+        {profile.description && <p class="mt-2 text-sm leading-6">{profile.description}</p>}
         {
           (devsync.address || devsync.email || devsync.phone) && (
-            <p class="mt-2 text-sm leading-6">
+            <p class="mt-1.5 text-sm leading-6">
               {[devsync.address, devsync.email, devsync.phone].filter(Boolean).join(' | ')}
             </p>
           )
         }
         {
           socialMedia.length > 0 && (
-            <div class="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-sm leading-6">
+            <div class="mt-3 flex flex-wrap gap-x-5 gap-y-2 text-sm leading-6">
               {socialMedia.map((item) => (
                 <p>
                   <span class="font-semibold">{item.name}:</span>{' '}
@@ -73,22 +73,22 @@ const userLanguages = profile.languages ?? []
 
       {
         devsync.coreSkills && devsync.coreSkills?.length > 0 && (
-          <section class="mt-5">
+          <section class="mt-4">
             <h2 class="text-base font-semibold tracking-wider uppercase">
               {translations[lang]['Core Skills']}
             </h2>
-            <p class="mt-2 text-sm leading-6">{devsync.coreSkills?.join(' | ')}</p>
+            <p class="mt-1.5 text-sm leading-6">{devsync.coreSkills?.join(' | ')}</p>
           </section>
         )
       }
 
       {
         Array.isArray(experience) && experience.length > 0 && (
-          <section class="mt-7">
+          <section class="mt-5">
             <h2 class="text-base font-semibold tracking-wider uppercase">
               {translations[lang]['Professional Experience']}
             </h2>
-            <div class="mt-3 space-y-6">
+            <div class="mt-2 space-y-5">
               {experience.map((item) => (
                 <article>
                   <div class="flex flex-wrap items-baseline justify-between gap-2">
@@ -97,9 +97,9 @@ const userLanguages = profile.languages ?? []
                     </h3>
                     <p class="text-sm">{item.date ?? ''}</p>
                   </div>
-                  {item.description && <p class="mt-2 text-sm leading-6">{item.description}</p>}
+                  {item.description && <p class="mt-1.5 text-sm leading-6">{item.description}</p>}
                   {item.list?.items && item.list.items.length > 0 && (
-                    <ul class="mt-2 list-disc space-y-1 pl-5 text-sm leading-6">
+                    <ul class="mt-1.5 list-disc space-y-1 pl-5 text-sm leading-6">
                       {item.list.items.map((entry: { highlight: string; description: string }) => (
                         <li>
                           <span class="font-semibold">{entry.highlight}:</span> {entry.description}
@@ -116,17 +116,17 @@ const userLanguages = profile.languages ?? []
 
       {
         Array.isArray(projects) && projects.length > 0 && (
-          <section class="mt-7">
+          <section class="mt-5">
             <h2 class="text-base font-semibold tracking-wider uppercase">
               {translations[lang]['Projects']}
             </h2>
-            <div class="mt-3 space-y-6">
+            <div class="mt-2 space-y-5">
               {projects.map((item) => (
                 <article>
                   <h3 class="text-base font-semibold">{item.name ?? 'Project'}</h3>
-                  {item.description && <p class="mt-2 text-sm leading-6">{item.description}</p>}
+                  {item.description && <p class="mt-1.5 text-sm leading-6">{item.description}</p>}
                   {item.list?.items && item.list.items.length > 0 && (
-                    <ul class="mt-2 list-disc space-y-1 pl-5 text-sm leading-6">
+                    <ul class="mt-1.5 list-disc space-y-1 pl-5 text-sm leading-6">
                       {item.list.items.map((entry: { highlight: string; description: string }) => (
                         <li>
                           <span class="font-semibold">{entry.highlight}:</span> {entry.description}
@@ -135,7 +135,7 @@ const userLanguages = profile.languages ?? []
                     </ul>
                   )}
                   {item.links && item.links.length > 0 && (
-                    <div class="mt-2 space-y-1 text-sm leading-6">
+                    <div class="mt-1.5 space-y-1 text-sm leading-6">
                       {item.links.map((link: { name: string; url: string }) => (
                         <p>
                           <span class="font-semibold">{link.name}:</span>{' '}
@@ -158,7 +158,7 @@ const userLanguages = profile.languages ?? []
 
       {
         Array.isArray(userLanguages) && userLanguages.length > 0 && (
-          <section class="mt-7 flex items-center">
+          <section class="mt-5 flex items-center">
             <h2 class="text-base font-semibold tracking-wider uppercase">
               {translations[lang]['Languages']}
             </h2>

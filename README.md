@@ -41,10 +41,10 @@ Key achievements
           <h3>Devsync</h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=ffffff)](https://github.com/jannael/devsync)[![Demo](https://img.shields.io/badge/Demo-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)](https://devsync.work)
-<p>Tool to sync GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history. Allows you to keep your entire professional presence automatically updated through a single configuration file.</p>
+<p>Tool to sync GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history. Allows you to keep your entire professional presence automatically updated through a single configuration file that supports multiple languages.</p>
 Features
 <ul>
-<li><strong>PDF generation with Puppeteer</strong> Renders the CV as HTML and exports it to PDF per language.</li><li><strong>Native internationalization</strong> Each section supports multiple languages; the build generates separate artifacts (CV, LinkedIn) for each configured lang.</li>
+<li><strong>PDF generation with Puppeteer</strong> Renders the CV as HTML and exports it to PDF per language.</li>
 </ul>
 </br>
 
@@ -64,10 +64,10 @@ Features
           <h3>Glinter</h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ffffff.svg?style=flat&logo=GitHub&logoColor=000000)](https://github.com/jannael/glinter)[![Demo](https://img.shields.io/badge/Demo-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)](https://glinter.jannael.com)
-<p>Tool to enhance the development experience using git. Glinter acts as a transparent proxy for git commands, intercepting execution and providing enhancements like interactive staging, branch switching with a selector, reliable repository status parsing, among other features designed to optimize the development workflow without sacrificing git's native UX.</p>
+<p>Transparent proxy for git commands, intercepting execution and providing enhancements like interactive staging, branch switching with a selector, reliable repository status parsing, among other features designed to optimize the development workflow without sacrificing git's native UX.</p>
 Features
 <ul>
-<li><strong>Porcelain parsing</strong> Parses git status --porcelain -z with NUL splitting for 100% reliable file detection.</li><li><strong>Cross-platform aliases</strong> The setup command configures aliases on Unix and Windows automatically.</li>
+<li><strong>Cross-platform aliases</strong> The setup command configures aliases on Unix and Windows automatically.</li>
 </ul>
 </br>
 
