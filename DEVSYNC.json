@@ -8,13 +8,13 @@
       "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/jannael-orlando-44604a349",
       "icon": "/icons/linkedin.svg",
-      "mdBadge": "![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)"
+      "mdBadge": "![linkedin](https://img.shields.io/badge/linkedin-000000.svg?style=flat&logo=linkedin&logoColor=ffffff)"
     },
     {
       "name": "Github",
       "url": "https://github.com/jannael",
       "icon": "/icons/github.svg",
-      "mdBadge": "![Github](https://img.shields.io/badge/Github-000000.svg?style=flat&logo=Github&logoColor=ffffff)"
+      "mdBadge": "![Github](https://img.shields.io/badge/Github-ffffff.svg?style=flat&logo=Github&logoColor=000000)"
     }
   ],
   "githubUserName": "Jannael",
@@ -321,41 +321,13 @@
             {
               "highlight": "AWS esenciales",
               "description": "Manejar los servicios de AWS, como IAM, S3, EC2, RDS, CloudFront, Lambda, etc."
-            },
-            {
-              "highlight": "Cloudfront",
-              "description": "Utilizar el servicio de Cloudfront para distribuir contenido estático atraves del mundo, para una carga instantánea."
-            },
-            {
-              "highlight": "Billing",
-              "description": "Utilizar el servicio de Billing para gestionar y monitorear los costos de los recursos de AWS."
             }
           ]
         },
         "skills": [
           {
             "name": "AWS",
-            "mdBadge": "![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=fff)",
-            "icon": "https://cdn.simpleicons.org/amazonwebservices"
-          },
-          {
-            "name": "Amazon S3",
-            "mdBadge": "![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff)",
-            "icon": "https://cdn.simpleicons.org/amazons3"
-          },
-          {
-            "name": "Amazon EC2",
-            "mdBadge": "![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2&logoColor=fff)",
-            "icon": "https://cdn.simpleicons.org/amazonec2"
-          },
-          {
-            "name": "AWS Lambda",
-            "mdBadge": "![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=fff)",
-            "icon": "https://cdn.simpleicons.org/awslambda"
-          },
-          {
-            "name": "CloudFront",
-            "mdBadge": "![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?logo=amazonwebservices&logoColor=fff)",
+            "mdBadge": ".",
             "icon": "https://cdn.simpleicons.org/amazonwebservices"
           }
         ]
@@ -368,22 +340,14 @@
           "items": [
             {
               "highlight": "Agentic coding",
-              "description": "Utilizar Claude Code para delegar tareas de desarrollo complejas, desde implementación hasta refactoring, con contexto completo del proyecto."
-            },
-            {
-              "highlight": "Prompt engineering",
-              "description": "Estructurar instrucciones efectivas para obtener resultados precisos y consistentes en flujos de desarrollo automatizados."
-            },
-            {
-              "highlight": "Flujos de trabajo con IA",
-              "description": "Integrar Claude Code en el ciclo de desarrollo real, combinando revisión de código, generación y debugging asistido."
+              "description": "Hooks, manejo de contexto, herramientas del agente, etc."
             }
           ]
         },
         "skills": [
           {
             "name": "Claude Code",
-            "mdBadge": "![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=fff)",
+            "mdBadge": ".",
             "icon": "https://cdn.simpleicons.org/anthropic"
           }
         ]
@@ -401,44 +365,6 @@
           ]
         },
         "skills": []
-      },
-      {
-        "name": "React Junior Developer - Certificates.dev",
-        "url": "https://github.com/jannael/jannael/raw/main/academics/React%20Junior%20Developer.pdf",
-        "list": {
-          "title": "¿Que aprendi?",
-          "items": [
-            {
-              "highlight": "React esenciales",
-              "description": "Dominar JSX, composición de componentes, props, children y las reglas fundamentales del modelo de componentes de React."
-            },
-            {
-              "highlight": "Hooks y estado",
-              "description": "Gestionar el estado con useState, entender el ciclo de renderizado, snapshots de estado y cuándo usar useRef para evitar re-renders innecesarios."
-            },
-            {
-              "highlight": "Formularios y eventos",
-              "description": "Manejar interacciones con el sistema de eventos de React, implementar formularios controlados y no controlados."
-            }
-          ]
-        },
-        "skills": [
-          {
-            "name": "React",
-            "mdBadge": "![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)",
-            "icon": "https://cdn.simpleicons.org/react"
-          },
-          {
-            "name": "JavaScript",
-            "mdBadge": "![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)",
-            "icon": "https://cdn.simpleicons.org/javascript"
-          },
-          {
-            "name": "Vite",
-            "mdBadge": "![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)",
-            "icon": "https://cdn.simpleicons.org/vite"
-          }
-        ]
       }
     ]
   },
@@ -447,17 +373,17 @@
     "jobTitle": "Software Developer",
     "status": {
       "status": "Looking for work",
-      "badge": "![Looking for a job](https://img.shields.io/badge/Looking%20for%20a%20job-000000.svg?style=for-the-badge&logo=Looking%20for%20a%20job&logoColor=ffffff)"
+      "badge": "![Looking for a job](https://img.shields.io/badge/Looking%20for%20a%20job-000000.svg?style=flat&logo=Looking%20for%20a%20job&logoColor=ffffff)"
     },
     "languages": [
       {
         "name": "English",
-        "mdBadge": "![English](https://img.shields.io/badge/English-000000.svg?style=for-the-badge&logo=English&logoColor=ffffff)",
+        "mdBadge": "![English](https://img.shields.io/badge/English-000000.svg?style=flat&logo=English&logoColor=ffffff)",
         "icon": "https://cdn.simpleicons.org/googletranslate"
       },
       {
         "name": "Spanish",
-        "mdBadge": "![Spanish](https://img.shields.io/badge/Spanish-ffffff.svg?style=for-the-badge&logo=Spanish&logoColor=ffffff)",
+        "mdBadge": "![Spanish](https://img.shields.io/badge/Spanish-ffffff.svg?style=flat&logo=Spanish&logoColor=ffffff)",
         "icon": "https://cdn.simpleicons.org/googletranslate"
       }
     ],
@@ -473,7 +399,7 @@
           {
             "name": "Letter of Recommendation",
             "url": "https://github.com/jannael/jannael/raw/main/academics/Juan%20Carlos%20Corte%20-%20en.pdf",
-            "mdBadge": "![Letter of Recomendation](https://img.shields.io/badge/Letter%20of%20Recomendation-000000.svg?style=for-the-badge&logo=Letter%20of%20Recomendation&logoColor=ffffff)",
+            "mdBadge": "![Letter of Recomendation](https://img.shields.io/badge/Letter%20of%20Recomendation-000000.svg?style=flat&logo=Letter%20of%20Recomendation&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/linkedin"
           }
         ],
@@ -497,22 +423,22 @@
         "skills": [
           {
             "name": "Python",
-            "mdBadge": "![Python](https://img.shields.io/badge/Python-000000.svg?style=for-the-badge&logo=Python&logoColor=ffffff)",
+            "mdBadge": "![Python](https://img.shields.io/badge/Python-000000.svg?style=flat&logo=Python&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/python"
           },
           {
             "name": "OpenCV",
-            "mdBadge": "![OpenCV](https://img.shields.io/badge/OpenCV-ffffff.svg?style=for-the-badge&logo=OpenCV&logoColor=000000)",
+            "mdBadge": "![OpenCV](https://img.shields.io/badge/OpenCV-ffffff.svg?style=flat&logo=OpenCV&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/opencv"
           },
           {
             "name": "Raspberry Pi",
-            "mdBadge": "![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000000.svg?style=for-the-badge&logo=RaspberryPi&logoColor=ffffff)",
+            "mdBadge": "![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000000.svg?style=flat&logo=RaspberryPi&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/raspberrypi"
           },
           {
             "name": "Arduino",
-            "mdBadge": "![Arduino](https://img.shields.io/badge/Arduino-ffffff.svg?style=for-the-badge&logo=Arduino&logoColor=000000)",
+            "mdBadge": "![Arduino](https://img.shields.io/badge/Arduino-ffffff.svg?style=flat&logo=Arduino&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/arduino"
           }
         ]
@@ -527,13 +453,13 @@
           {
             "name": "GitHub",
             "url": "https://github.com/jannael/devsync",
-            "mdBadge": "![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub&logoColor=ffffff)",
+            "mdBadge": "![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/github"
           },
           {
             "name": "Demo",
             "url": "https://devsync.work",
-            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-ffffff.svg?style=for-the-badge&logo=Cloudflare&logoColor=000000)",
+            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
@@ -570,47 +496,47 @@
         "skills": [
           {
             "name": "TypeScript",
-            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?style=for-the-badge&logo=TypeScript&logoColor=ffffff)",
+            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?style=flat&logo=TypeScript&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/typescript"
           },
           {
             "name": "Bun",
-            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-ffffff.svg?style=for-the-badge&logo=Bun&logoColor=000000)",
+            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-ffffff.svg?style=flat&logo=Bun&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/bun"
           },
           {
             "name": "Astro",
-            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-000000.svg?style=for-the-badge&logo=Astro&logoColor=ffffff)",
+            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-000000.svg?style=flat&logo=Astro&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/astro"
           },
           {
             "name": "Zod",
-            "mdBadge": "![Zod](https://img.shields.io/badge/Zod-ffffff.svg?style=for-the-badge&logo=Zod&logoColor=000000)",
+            "mdBadge": "![Zod](https://img.shields.io/badge/Zod-ffffff.svg?style=flat&logo=Zod&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/zod"
           },
           {
             "name": "Puppeteer",
-            "mdBadge": "![Puppeteer](https://img.shields.io/badge/Puppeteer-000000.svg?style=for-the-badge&logo=Puppeteer&logoColor=ffffff)",
+            "mdBadge": "![Puppeteer](https://img.shields.io/badge/Puppeteer-000000.svg?style=flat&logo=Puppeteer&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/puppeteer"
           },
           {
             "name": "Vitest",
-            "mdBadge": "![Vitest](https://img.shields.io/badge/Vitest-ffffff.svg?style=for-the-badge&logo=Vitest&logoColor=000000)",
+            "mdBadge": "![Vitest](https://img.shields.io/badge/Vitest-ffffff.svg?style=flat&logo=Vitest&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/vitest"
           },
           {
             "name": "GitHub Actions",
-            "mdBadge": "![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000.svg?style=for-the-badge&logo=GitHubActions&logoColor=ffffff)",
+            "mdBadge": "![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000.svg?style=flat&logo=GitHubActions&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/githubactions"
           },
           {
             "name": "Tailwind CSS",
-            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=for-the-badge&logo=TailwindCSS&logoColor=000000)",
+            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=flat&logo=TailwindCSS&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/tailwindcss"
           },
           {
             "name": "Cloudflare Pages",
-            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=for-the-badge&logo=Cloudflare&logoColor=ffffff)",
+            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ]
@@ -623,13 +549,13 @@
           {
             "name": "GitHub",
             "url": "https://github.com/jannael/glinter",
-            "mdBadge": "![GitHub](https://img.shields.io/badge/GitHub-ffffff.svg?style=for-the-badge&logo=GitHub&logoColor=000000)",
+            "mdBadge": "![GitHub](https://img.shields.io/badge/GitHub-ffffff.svg?style=flat&logo=GitHub&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/github"
           },
           {
             "name": "Demo",
             "url": "https://glinter.jannael.com",
-            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-000000.svg?style=for-the-badge&logo=Cloudflare&logoColor=ffffff)",
+            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
@@ -666,27 +592,27 @@
         "skills": [
           {
             "name": "TypeScript",
-            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-ffffff.svg?style=for-the-badge&logo=TypeScript&logoColor=000000)",
+            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-ffffff.svg?style=flat&logo=TypeScript&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/typescript"
           },
           {
             "name": "Bun",
-            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-000000.svg?style=for-the-badge&logo=Bun&logoColor=ffffff)",
+            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-000000.svg?style=flat&logo=Bun&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/bun"
           },
           {
             "name": "Astro",
-            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-ffffff.svg?style=for-the-badge&logo=Astro&logoColor=000000)",
+            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-ffffff.svg?style=flat&logo=Astro&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/astro"
           },
           {
             "name": "Vitest",
-            "mdBadge": "![Vitest](https://img.shields.io/badge/Vitest-000000.svg?style=for-the-badge&logo=Vitest&logoColor=ffffff)",
+            "mdBadge": "![Vitest](https://img.shields.io/badge/Vitest-000000.svg?style=flat&logo=Vitest&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/vitest"
           },
           {
             "name": "Cloudflare Pages",
-            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-ffffff.svg?style=for-the-badge&logo=Cloudflare&logoColor=000000)",
+            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ]
@@ -702,7 +628,7 @@
           {
             "name": "Website",
             "url": "https://cecytem.edomex.gob.mx/nicolas_romero_ii",
-            "mdBadge": "![Website](https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=GoogleChrome&logoColor=ffffff)",
+            "mdBadge": "![Website](https://img.shields.io/badge/Website-000000.svg?style=flat&logo=GoogleChrome&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/googlechrome"
           }
         ],
@@ -731,41 +657,13 @@
             {
               "highlight": "AWS essentials",
               "description": "Manage AWS services such as IAM, S3, EC2, RDS, CloudFront, Lambda, etc."
-            },
-            {
-              "highlight": "CloudFront",
-              "description": "Use CloudFront to distribute static content worldwide for instant loading."
-            },
-            {
-              "highlight": "Billing",
-              "description": "Use AWS Billing to manage and monitor resource costs."
             }
           ]
         },
         "skills": [
           {
             "name": "AWS",
-            "mdBadge": "![AWS](https://img.shields.io/badge/AWS-000000.svg?style=for-the-badge&logo=AmazonWebServices&logoColor=ffffff)",
-            "icon": "https://cdn.simpleicons.org/amazonwebservices"
-          },
-          {
-            "name": "Amazon S3",
-            "mdBadge": "![Amazon S3](https://img.shields.io/badge/Amazon%20S3-ffffff.svg?style=for-the-badge&logo=AmazonS3&logoColor=ffffff)",
-            "icon": "https://cdn.simpleicons.org/amazons3"
-          },
-          {
-            "name": "Amazon EC2",
-            "mdBadge": "![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-000000.svg?style=for-the-badge&logo=AmazonEC2&logoColor=ffffff)",
-            "icon": "https://cdn.simpleicons.org/amazonec2"
-          },
-          {
-            "name": "AWS Lambda",
-            "mdBadge": "![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-ffffff.svg?style=for-the-badge&logo=AWS%20Lambda&logoColor=ffffff)",
-            "icon": "https://cdn.simpleicons.org/awslambda"
-          },
-          {
-            "name": "CloudFront",
-            "mdBadge": "![CloudFront](https://img.shields.io/badge/CloudFront-000000.svg?style=for-the-badge&logo=aws&logoColor=ffffff)",
+            "mdBadge": "![AWS](https://img.shields.io/badge/AWS-000000.svg?style=flat&logo=AmazonWebServices&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/amazonwebservices"
           }
         ]
@@ -778,22 +676,14 @@
           "items": [
             {
               "highlight": "Agentic coding",
-              "description": "Use Claude Code to delegate complex development tasks, from implementation to refactoring, with full project context."
-            },
-            {
-              "highlight": "Prompt engineering",
-              "description": "Structure effective instructions to get precise and consistent results in automated development workflows."
-            },
-            {
-              "highlight": "AI workflows",
-              "description": "Integrate Claude Code into the real development cycle, combining code review, generation, and assisted debugging."
+              "description": "Hooks, context, agent tools, etc."
             }
           ]
         },
         "skills": [
           {
             "name": "Claude Code",
-            "mdBadge": "![Claude Code](https://img.shields.io/badge/Claude%20Code-ffffff.svg?style=for-the-badge&logo=Anthropic&logoColor=000000)",
+            "mdBadge": "![Claude Code](https://img.shields.io/badge/Claude%20Code-ffffff.svg?style=flat&logo=Anthropic&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/anthropic"
           }
         ]
@@ -811,44 +701,6 @@
           ]
         },
         "skills": []
-      },
-      {
-        "name": "React Junior Developer - Certificates.dev",
-        "url": "https://github.com/jannael/jannael/raw/main/academics/React%20Junior%20Developer.pdf",
-        "list": {
-          "title": "What I learned",
-          "items": [
-            {
-              "highlight": "React essentials",
-              "description": "Master JSX, component composition, props, children, and the fundamental rules of React's component model."
-            },
-            {
-              "highlight": "Hooks and state",
-              "description": "Manage state with useState, understand the render cycle, state snapshots, and when to use useRef to avoid unnecessary re-renders."
-            },
-            {
-              "highlight": "Forms and events",
-              "description": "Handle interactions with React's event system, implement controlled and uncontrolled forms."
-            }
-          ]
-        },
-        "skills": [
-          {
-            "name": "React",
-            "mdBadge": "![React](https://img.shields.io/badge/React-ffffff.svg?style=for-the-badge&logo=React&logoColor=ffffff)",
-            "icon": "https://cdn.simpleicons.org/react"
-          },
-          {
-            "name": "JavaScript",
-            "mdBadge": "![JavaScript](https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=JavaScript&logoColor=ffffff)",
-            "icon": "https://cdn.simpleicons.org/javascript"
-          },
-          {
-            "name": "Vite",
-            "mdBadge": "![Vite](https://img.shields.io/badge/Vite-ffffff.svg?style=for-the-badge&logo=Vite&logoColor=ffffff)",
-            "icon": "https://cdn.simpleicons.org/vite"
-          }
-        ]
       }
     ]
   }
