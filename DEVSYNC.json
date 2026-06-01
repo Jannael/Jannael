@@ -119,17 +119,13 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "herramienta para sincronizar github, linkedin, curriculum (con formato hardvard), portafolio y historial académico. Permite mantener toda tu presencia profesional actualizada de forma automática a través de un solo archivo de configuración.",
+        "description": "herramienta para sincronizar github, linkedin, curriculum (con formato hardvard), portafolio y historial académico. Permite mantener toda tu presencia profesional actualizada de forma automática a través de un solo archivo de configuración que soporta múltiples idiomas.",
         "list": {
           "title": "Caracteristicas",
           "items": [
             {
               "highlight": "Generación de PDF con Puppeteer",
               "description": "Renderiza el CV en HTML y lo exporta a PDF por idioma."
-            },
-            {
-              "highlight": "Internacionalización nativa",
-              "description": "Cada sección soporta múltiples idiomas; el build genera artefactos separados (CV, LinkedIn) por cada lang configurado."
             }
           ]
         },
@@ -199,14 +195,10 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "herramienta para mejorar la experiencia de desarrollo utilizando git. Glinter actúa como un proxy transparente para los comandos de git, interceptando la ejecución y proporcionando mejoras como staging interactivo, switch de ramas con selector, parsing confiable del estado del repositorio, entre otras características diseñadas para optimizar el flujo de trabajo de desarrollo sin sacrificar la UX nativa de git.",
+        "description": "Proxy transparente para los comandos de git, interceptando la ejecución y proporcionando mejoras como staging interactivo, switch de ramas con selector, parsing confiable del estado del repositorio, entre otras características diseñadas para optimizar el flujo de trabajo de desarrollo sin sacrificar la UX nativa de git.",
         "list": {
           "title": "Caracteristicas",
           "items": [
-            {
-              "highlight": "Porcelain parsing",
-              "description": "Parsea git status --porcelain -z con split por NUL para detección de archivos 100% confiable."
-            },
             {
               "highlight": "Alias multiplataforma",
               "description": "El comando setup configura alias en Unix y Windows de forma automática."
@@ -415,17 +407,13 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Tool to sync GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history. Allows you to keep your entire professional presence automatically updated through a single configuration file.",
+        "description": "Tool to sync GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history. Allows you to keep your entire professional presence automatically updated through a single configuration file that supports multiple languages.",
         "list": {
           "title": "Features",
           "items": [
             {
               "highlight": "PDF generation with Puppeteer",
               "description": "Renders the CV as HTML and exports it to PDF per language."
-            },
-            {
-              "highlight": "Native internationalization",
-              "description": "Each section supports multiple languages; the build generates separate artifacts (CV, LinkedIn) for each configured lang."
             }
           ]
         },
@@ -495,14 +483,10 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Tool to enhance the development experience using git. Glinter acts as a transparent proxy for git commands, intercepting execution and providing enhancements like interactive staging, branch switching with a selector, reliable repository status parsing, among other features designed to optimize the development workflow without sacrificing git's native UX.",
+        "description": "Transparent proxy for git commands, intercepting execution and providing enhancements like interactive staging, branch switching with a selector, reliable repository status parsing, among other features designed to optimize the development workflow without sacrificing git's native UX.",
         "list": {
           "title": "Features",
           "items": [
-            {
-              "highlight": "Porcelain parsing",
-              "description": "Parses git status --porcelain -z with NUL splitting for 100% reliable file detection."
-            },
             {
               "highlight": "Cross-platform aliases",
               "description": "The setup command configures aliases on Unix and Windows automatically."
