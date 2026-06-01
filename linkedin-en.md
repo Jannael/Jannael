@@ -1,6 +1,6 @@
 # Software Developer
 
-I am Jannael Orlando.
+I am Jannael Orlando Hernández Macedo.
 
 Software developer, professional and open-source enthusiast.
 
@@ -8,36 +8,34 @@ Software developer, professional and open-source enthusiast.
 
 - **Dual Education Student** at **Universidad Tecnológica Fidel Velázquez** (08/23 - 08/24)
 - Developed automation and hardware/software integration projects, culminating in a smart greenhouse controlled by computer vision.
-- Greenhouse with computer vision: Developed a plant monitoring system with Python and OpenCV on Raspberry Pi, controlling temperature and humidity via serial communication with Arduino.
-- Real-time control interface: Built a GUI with Tkinter to operate greenhouse sensors and actuators, allowing environment parameter adjustments without manual intervention.
-- RetoPY international contest: Represented the institution in an international Python programming contest, obtaining first place as team leader.
+- Smart greenhouse with computer vision: Plant monitoring system using Python and OpenCV on Raspberry Pi, controlling temperature and humidity via serial communication with Arduino.
+- Real-time control interface: Built a GUI with Tkinter to operate greenhouse sensors and actuators.
+- International RetoPY competition: First place as team leader.
 
 ## Selected projects
 
 - **Devsync**
-- Tool to sync all your job-seeking documents: GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history.
-- Hexagonal architecture: Each command's logic (init, build, create-template) is isolated in domain/app/infra layers, sharing common infrastructure through the mixin pattern.
-- Single source of truth: A single DEVSYNC.json keeps your PDF CV, GitHub profile, LinkedIn summary, and academic history in sync.
-- PDF generation with Puppeteer: Renders the CV as HTML and exports it to PDF per language, with no external dependencies or third-party services.
-- Native internationalization: Each section supports multiple languages; the build generates separate artifacts (CV, LinkedIn) per configured lang.
-- GitHub Actions: A ready-to-use workflow detects changes in DEVSYNC.json and automatically regenerates and commits all artifacts.
-- Template system: Create and publish fully customizable templates on GitHub; anyone can initialize their portfolio from them with a single command.
-- Zod validation: The DEVSYNC.json schema is typed and validated with descriptive errors for each required profile field.
-- Supply chain security: 3-day minimumReleaseAge in bunfig.toml blocks recently published packages, protecting against dependency chain attacks.
+- Tool to sync GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history.
+- Hexagonal architecture:
+- PDF generation with Puppeteer: Renders the CV as HTML and exports it to PDF per language.
+- Native internationalization: Each section supports multiple languages; the build generates separate artifacts (CV, LinkedIn) for each configured lang.
+- GitHub Actions: Detects changes in DEVSYNC.json and automatically regenerates and commits all artifacts.
+- Template system:
+- Supply chain security:
 - Links: https://github.com/jannael/devsync | https://devsync.work
 - **Glinter**
-- Tool to improve the development experience using git.
-- Transparent proxy: Uses Bun.spawn with stdio: 'inherit' to connect Git streams directly to the terminal, preserving colors, interactive prompts, and the full native UX.
-- Hexagonal architecture: Each command (add, commit, switch, setup) is organized into independent domain/app/infra layers, with interfaces as ports and Bun as the adapter.
-- Interactive staging: g add without arguments opens a multiselect with @clack/prompts showing only modified files, automatically filtering .env and node_modules.
-- Porcelain parsing: Parses git status --porcelain -z with NUL splitting for 100% reliable file detection across Git versions, system languages, and special characters.
-- Interactive switch: g switch lists local and remote branches in a navigable selector, running checkout without needing to remember the exact branch name.
-- Cross-platform alias: The setup command configures the g alias on Unix and Windows automatically, with separate infrastructure implementations per OS.
+- Tool to enhance the development experience using git.
+- Transparent proxy: Uses Bun.spawn with stdio: 'inherit' to connect Git streams directly to the terminal, preserving colors, interactive prompts, and the entire native UX.
+- Hexagonal architecture:
+- Interactive staging: g add with no arguments opens a multiselect with @clack/prompts showing only modified files, automatically filtering .env and node_modules.
+- Porcelain parsing: Parses git status --porcelain -z with NUL splitting for 100% reliable file detection.
+- Interactive switch: g switch lists local and remote branches in a navigable selector.
+- Cross-platform aliases: The setup command configures aliases on Unix and Windows automatically.
 - Links: https://github.com/jannael/glinter | https://glinter.jannael.com
 
 ## Core Skills
 
-Python | OpenCV | Raspberry Pi | Arduino | TypeScript | Bun | Astro | Zod | Puppeteer | Vitest | GitHub Actions | Tailwind CSS | Cloudflare Pages | AWS | Amazon S3 | Amazon EC2 | AWS Lambda | CloudFront | Claude Code | Anthropic | React | JavaScript | Vite
+Python | OpenCV | Raspberry Pi | Arduino | TypeScript | Bun | Astro | Zod | Puppeteer | Vitest | GitHub Actions | Tailwind CSS | Cloudflare Pages | AWS | Amazon S3 | Amazon EC2 | AWS Lambda | CloudFront | Claude Code | React | JavaScript | Vite
 
 ## Certifications
 
