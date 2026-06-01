@@ -20,14 +20,6 @@ const education = profile.education ?? []
 const certifications = profile.certifications ?? []
 const socialMedia = devsync.socialMedia ?? []
 const userLanguages = profile.languages ?? []
-
-const skillsFromSkillBlocks = [
-  ...experience.flatMap((item) => (item.skills ?? []).map((skill) => skill.name)),
-  ...projects.flatMap((item) => (item.skills ?? []).map((skill) => skill.name)),
-  ...certifications.flatMap((item) => (item.skills ?? []).map((skill) => skill.name)),
-]
-
-const coreSkills = [...new Set(skillsFromSkillBlocks)].filter(Boolean)
 ---
 
 <html lang={lang} class="bg-white">
@@ -80,7 +72,7 @@ const coreSkills = [...new Set(skillsFromSkillBlocks)].filter(Boolean)
       </header>
 
       {
-        coreSkills.length > 0 && (
+        profile.coreSkills?.length > 0 && (
           <section class="mt-5">
             <h2 class="text-base font-semibold tracking-wider uppercase">
               {translations[lang]['Core Skills']}
