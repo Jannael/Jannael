@@ -72,12 +72,12 @@ const userLanguages = profile.languages ?? []
       </header>
 
       {
-        profile.coreSkills && profile.coreSkills?.length > 0 && (
+        devsync.coreSkills && devsync.coreSkills?.length > 0 && (
           <section class="mt-5">
             <h2 class="text-base font-semibold tracking-wider uppercase">
               {translations[lang]['Core Skills']}
             </h2>
-            <p class="mt-2 text-sm leading-6">{profile.coreSkills?.join(' | ')}</p>
+            <p class="mt-2 text-sm leading-6">{devsync.coreSkills?.join(' | ')}</p>
           </section>
         )
       }
