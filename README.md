@@ -13,7 +13,7 @@ Software developer, professional and open-source enthusiast.
         <td>
           <h3>Universidad Tecnológica Fidel Velázquez</h3>
 
-[![Letter of Recomendation](https://img.shields.io/badge/Letter%20of%20Recomendation-000000.svg?style=flat&logo=Letter%20of%20Recomendation&logoColor=ffffff)](https://github.com/jannael/jannael/raw/main/academics/Juan%20Carlos%20Corte%20-%20en.pdf)
+[![Letter of Recomendation](https://img.shields.io/badge/Letter%20of%20Recomendation-000000.svg?style=flat&logo=Letter%20of%20Recomendation&logoColor=ffffff)](https://github.com/Jannael/Jannael/raw/main/academics/Recommendation%20letter/Juan%20Carlos%20Corte%20-%20en.pdf)
 <p>Developed automation and hardware/software integration projects, culminating in a smart greenhouse controlled by computer vision. Used tools like Python, OpenCV, Raspberry Pi, and Arduino to create real-time monitoring and control systems, also achieving first place in the international RetoPY competition as team leader.</p>
 Key achievements
 <ul>
