@@ -57,7 +57,7 @@
         "position": "Estudiante de Educación Dual",
         "img": "https://imgs.search.brave.com/RuIC75wZGFDm9xsUgRv6bSZzEXp6XtlLl0E0QSyQ11s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RzLzQwNC8x/ZGNmZDQxNDQ4ODQy/MjUuWTNKdmNDdzFO/elV6TERRMU1EQXNN/VE15TkN3dy5wbmc",
         "web": "https://www.gob.mx/sep/articulos/boletin-265-estudiantes-de-cecytem-estado-de-mexico-triunfan-en-torneo-internacional-de-robotica-vex-2023",
-        "description": "Desarrollé proyectos de automatización e integración de hardware/software, culminando en un invernadero inteligente controlado por visión artificial.",
+        "description": "Desarrollé proyectos de automatización e integración de hardware/software, culminando en un invernadero inteligente controlado por visión artificial. Utilize herramientas como Python, OpenCV, Raspberry Pi y Arduino para crear sistemas de monitoreo y control en tiempo real, ademas de lograr el primer lugar en el concurso internacional RetoPY como líder de equipo.",
         "date": "08/23 - 08/24",
         "links": [
           {
@@ -73,14 +73,6 @@
             {
               "highlight": "Invernadero con visión artificial",
               "description": "Sistema de monitoreo de plantas con Python y OpenCV sobre Raspberry Pi, controlando temperatura y humedad mediante comunicación serial con Arduino."
-            },
-            {
-              "highlight": "Interfaz de control en tiempo real",
-              "description": "Construí una GUI con Tkinter para operar sensores y actuadores del invernadero."
-            },
-            {
-              "highlight": "Concurso internacional RetoPY",
-              "description": "Primer lugar como líder de equipo."
             }
           ]
         },
@@ -127,14 +119,10 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "herramienta para sincronizar github, linkedin, curriculum (con formato hardvard), portafolio y historial académico.",
+        "description": "herramienta para sincronizar github, linkedin, curriculum (con formato hardvard), portafolio y historial académico. Permite mantener toda tu presencia profesional actualizada de forma automática a través de un solo archivo de configuración.",
         "list": {
           "title": "Caracteristicas",
           "items": [
-            {
-              "highlight": "Arquitectura hexagonal",
-              "description": ""
-            },
             {
               "highlight": "Generación de PDF con Puppeteer",
               "description": "Renderiza el CV en HTML y lo exporta a PDF por idioma."
@@ -142,18 +130,6 @@
             {
               "highlight": "Internacionalización nativa",
               "description": "Cada sección soporta múltiples idiomas; el build genera artefactos separados (CV, LinkedIn) por cada lang configurado."
-            },
-            {
-              "highlight": "GitHub Actions",
-              "description": "Detecta cambios en DEVSYNC.json y regenera y commitea automáticamente todos los artefactos."
-            },
-            {
-              "highlight": "Sistema de plantillas",
-              "description": ""
-            },
-            {
-              "highlight": "Supply chain security",
-              "description": ""
             }
           ]
         },
@@ -223,29 +199,13 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "herramienta para mejorar la experiencia de desarrollo utilizando git.",
+        "description": "herramienta para mejorar la experiencia de desarrollo utilizando git. Glinter actúa como un proxy transparente para los comandos de git, interceptando la ejecución y proporcionando mejoras como staging interactivo, switch de ramas con selector, parsing confiable del estado del repositorio, entre otras características diseñadas para optimizar el flujo de trabajo de desarrollo sin sacrificar la UX nativa de git.",
         "list": {
           "title": "Caracteristicas",
           "items": [
             {
-              "highlight": "Transparent proxy",
-              "description": "Usa Bun.spawn con stdio: 'inherit' para conectar los streams de Git directamente al terminal, preservando colores, prompts interactivos y toda la UX nativa."
-            },
-            {
-              "highlight": "Arquitectura hexagonal",
-              "description": ""
-            },
-            {
-              "highlight": "Staging interactivo",
-              "description": "g add sin argumentos abre un multiselect con @clack/prompts mostrando solo los archivos modificados, filtrando automáticamente .env y node_modules."
-            },
-            {
               "highlight": "Porcelain parsing",
               "description": "Parsea git status --porcelain -z con split por NUL para detección de archivos 100% confiable."
-            },
-            {
-              "highlight": "Switch interactivo",
-              "description": "g switch lista ramas locales y remotas en un selector navegable."
             },
             {
               "highlight": "Alias multiplataforma",
