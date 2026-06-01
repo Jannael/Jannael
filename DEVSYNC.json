@@ -9,6 +9,12 @@
       "url": "https://www.linkedin.com/in/jannael-orlando-44604a349",
       "icon": "/icons/linkedin.svg",
       "mdBadge": "![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/jannael",
+      "icon": "/icons/github.svg",
+      "mdBadge": "![Github](https://img.shields.io/badge/Github-000000.svg?style=flat&logo=Github&logoColor=ffffff)"
     }
   ],
   "githubUserName": "Jannael",
@@ -42,7 +48,7 @@
         "img": "https://imgs.search.brave.com/RuIC75wZGFDm9xsUgRv6bSZzEXp6XtlLl0E0QSyQ11s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RzLzQwNC8x/ZGNmZDQxNDQ4ODQy/MjUuWTNKdmNDdzFO/elV6TERRMU1EQXNN/VE15TkN3dy5wbmc",
         "web": "http://casautfv.net/",
         "description": "Developed automation and hardware/software integration projects, culminating in a smart greenhouse controlled by computer vision.",
-        "date": "MM/YY - MM/YY",
+        "date": "08/23 - 08/24",
         "links": [
           {
             "name": "Website",
@@ -291,7 +297,7 @@
         "name": "CECYTEM",
         "degree": "Mechatronics Technician",
         "img": "https://imgs.search.brave.com/LuxiAr7VkeTK02oRr8o4WQ6IhDa-o1Ea9X0oPMN26RU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzI0LzIvY2VjeXRl/bS1sb2dvLXBuZ19z/ZWVrbG9nby0yNDcw/MjQucG5n",
-        "date": "MM/YY - MM/YY",
+        "date": "08/21 - 07/24",
         "links": [
           {
             "name": "Website",
@@ -477,7 +483,7 @@
         "img": "https://imgs.search.brave.com/RuIC75wZGFDm9xsUgRv6bSZzEXp6XtlLl0E0QSyQ11s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RzLzQwNC8x/ZGNmZDQxNDQ4ODQy/MjUuWTNKdmNDdzFO/elV6TERRMU1EQXNN/VE15TkN3dy5wbmc",
         "web": "http://casautfv.net/",
         "description": "Desarrollé proyectos de automatización e integración de hardware/software, culminando en un invernadero inteligente controlado por visión artificial.",
-        "date": "MM/YY - MM/YY",
+        "date": "08/23 - 08/24",
         "links": [
           {
             "name": "Website",
@@ -726,7 +732,7 @@
         "name": "CECYTEM",
         "degree": "Tecnico en Mecatronica",
         "img": "https://imgs.search.brave.com/LuxiAr7VkeTK02oRr8o4WQ6IhDa-o1Ea9X0oPMN26RU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzI0LzIvY2VjeXRl/bS1sb2dvLXBuZ19z/ZWVrbG9nby0yNDcw/MjQucG5n",
-        "date": "MM/YY - MM/YY",
+        "date": "08/21 - 07/24",
         "links": [
           {
             "name": "Website",
