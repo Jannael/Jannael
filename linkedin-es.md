@@ -7,29 +7,19 @@ Desarrollador de software, profesional y apasionado del open-source.
 ## Experiencia profesional
 
 - **Estudiante de Educación Dual** at **Universidad Tecnológica Fidel Velázquez** (08/23 - 08/24)
-- Desarrollé proyectos de automatización e integración de hardware/software, culminando en un invernadero inteligente controlado por visión artificial.
+- Desarrollé proyectos de automatización e integración de hardware/software, culminando en un invernadero inteligente controlado por visión artificial. Utilize herramientas como Python, OpenCV, Raspberry Pi y Arduino para crear sistemas de monitoreo y control en tiempo real, ademas de lograr el primer lugar en el concurso internacional RetoPY como líder de equipo.
 - Invernadero con visión artificial: Sistema de monitoreo de plantas con Python y OpenCV sobre Raspberry Pi, controlando temperatura y humedad mediante comunicación serial con Arduino.
-- Interfaz de control en tiempo real: Construí una GUI con Tkinter para operar sensores y actuadores del invernadero.
-- Concurso internacional RetoPY: Primer lugar como líder de equipo.
 
 ## Proyectos destacados
 
 - **Devsync**
-- herramienta para sincronizar github, linkedin, curriculum (con formato hardvard), portafolio y historial académico.
-- Arquitectura hexagonal:
+- herramienta para sincronizar github, linkedin, curriculum (con formato hardvard), portafolio y historial académico. Permite mantener toda tu presencia profesional actualizada de forma automática a través de un solo archivo de configuración.
 - Generación de PDF con Puppeteer: Renderiza el CV en HTML y lo exporta a PDF por idioma.
 - Internacionalización nativa: Cada sección soporta múltiples idiomas; el build genera artefactos separados (CV, LinkedIn) por cada lang configurado.
-- GitHub Actions: Detecta cambios en DEVSYNC.json y regenera y commitea automáticamente todos los artefactos.
-- Sistema de plantillas:
-- Supply chain security:
 - Enlaces: https://github.com/jannael/devsync | https://devsync.work
 - **Glinter**
-- herramienta para mejorar la experiencia de desarrollo utilizando git.
-- Transparent proxy: Usa Bun.spawn con stdio: 'inherit' para conectar los streams de Git directamente al terminal, preservando colores, prompts interactivos y toda la UX nativa.
-- Arquitectura hexagonal:
-- Staging interactivo: g add sin argumentos abre un multiselect con @clack/prompts mostrando solo los archivos modificados, filtrando automáticamente .env y node_modules.
+- herramienta para mejorar la experiencia de desarrollo utilizando git. Glinter actúa como un proxy transparente para los comandos de git, interceptando la ejecución y proporcionando mejoras como staging interactivo, switch de ramas con selector, parsing confiable del estado del repositorio, entre otras características diseñadas para optimizar el flujo de trabajo de desarrollo sin sacrificar la UX nativa de git.
 - Porcelain parsing: Parsea git status --porcelain -z con split por NUL para detección de archivos 100% confiable.
-- Switch interactivo: g switch lista ramas locales y remotas en un selector navegable.
 - Alias multiplataforma: El comando setup configura alias en Unix y Windows de forma automática.
 - Enlaces: https://github.com/jannael/glinter | https://glinter.jannael.com
 

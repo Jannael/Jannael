@@ -14,10 +14,10 @@ Software developer, professional and open-source enthusiast.
           <h3>Universidad Tecnológica Fidel Velázquez</h3>
 
 [![Letter of Recomendation](https://img.shields.io/badge/Letter%20of%20Recomendation-000000.svg?style=flat&logo=Letter%20of%20Recomendation&logoColor=ffffff)](https://github.com/jannael/jannael/raw/main/academics/Juan%20Carlos%20Corte%20-%20en.pdf)
-<p>Developed automation and hardware/software integration projects, culminating in a smart greenhouse controlled by computer vision.</p>
+<p>Developed automation and hardware/software integration projects, culminating in a smart greenhouse controlled by computer vision. Used tools like Python, OpenCV, Raspberry Pi, and Arduino to create real-time monitoring and control systems, also achieving first place in the international RetoPY competition as team leader.</p>
 Key achievements
 <ul>
-<li><strong>Smart greenhouse with computer vision</strong> Plant monitoring system using Python and OpenCV on Raspberry Pi, controlling temperature and humidity via serial communication with Arduino.</li><li><strong>Real-time control interface</strong> Built a GUI with Tkinter to operate greenhouse sensors and actuators.</li><li><strong>International RetoPY competition</strong> First place as team leader.</li>
+<li><strong>Smart greenhouse with computer vision</strong> Plant monitoring system using Python and OpenCV on Raspberry Pi, controlling temperature and humidity via serial communication with Arduino.</li>
 </ul>
 </br>
 
@@ -41,10 +41,10 @@ Key achievements
           <h3>Devsync</h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=ffffff)](https://github.com/jannael/devsync)[![Demo](https://img.shields.io/badge/Demo-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)](https://devsync.work)
-<p>Tool to sync GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history.</p>
+<p>Tool to sync GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history. Allows you to keep your entire professional presence automatically updated through a single configuration file.</p>
 Features
 <ul>
-<li><strong>Hexagonal architecture</strong> </li><li><strong>PDF generation with Puppeteer</strong> Renders the CV as HTML and exports it to PDF per language.</li><li><strong>Native internationalization</strong> Each section supports multiple languages; the build generates separate artifacts (CV, LinkedIn) for each configured lang.</li><li><strong>GitHub Actions</strong> Detects changes in DEVSYNC.json and automatically regenerates and commits all artifacts.</li><li><strong>Template system</strong> </li><li><strong>Supply chain security</strong> </li>
+<li><strong>PDF generation with Puppeteer</strong> Renders the CV as HTML and exports it to PDF per language.</li><li><strong>Native internationalization</strong> Each section supports multiple languages; the build generates separate artifacts (CV, LinkedIn) for each configured lang.</li>
 </ul>
 </br>
 
@@ -64,10 +64,10 @@ Features
           <h3>Glinter</h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ffffff.svg?style=flat&logo=GitHub&logoColor=000000)](https://github.com/jannael/glinter)[![Demo](https://img.shields.io/badge/Demo-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)](https://glinter.jannael.com)
-<p>Tool to enhance the development experience using git.</p>
+<p>Tool to enhance the development experience using git. Glinter acts as a transparent proxy for git commands, intercepting execution and providing enhancements like interactive staging, branch switching with a selector, reliable repository status parsing, among other features designed to optimize the development workflow without sacrificing git's native UX.</p>
 Features
 <ul>
-<li><strong>Transparent proxy</strong> Uses Bun.spawn with stdio: 'inherit' to connect Git streams directly to the terminal, preserving colors, interactive prompts, and the entire native UX.</li><li><strong>Hexagonal architecture</strong> </li><li><strong>Interactive staging</strong> g add with no arguments opens a multiselect with @clack/prompts showing only modified files, automatically filtering .env and node_modules.</li><li><strong>Porcelain parsing</strong> Parses git status --porcelain -z with NUL splitting for 100% reliable file detection.</li><li><strong>Interactive switch</strong> g switch lists local and remote branches in a navigable selector.</li><li><strong>Cross-platform aliases</strong> The setup command configures aliases on Unix and Windows automatically.</li>
+<li><strong>Porcelain parsing</strong> Parses git status --porcelain -z with NUL splitting for 100% reliable file detection.</li><li><strong>Cross-platform aliases</strong> The setup command configures aliases on Unix and Windows automatically.</li>
 </ul>
 </br>
 
