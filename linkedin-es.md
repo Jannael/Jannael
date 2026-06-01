@@ -35,14 +35,13 @@ Desarrollador de software, profesional y apasionado del open-source.
 
 ## Habilidades principales
 
-Python | OpenCV | Raspberry Pi | Arduino | TypeScript | Bun | Astro | Zod | Puppeteer | Vitest | GitHub Actions | Tailwind CSS | Cloudflare Pages | AWS | Amazon S3 | Amazon EC2 | AWS Lambda | CloudFront | Claude Code | React | JavaScript | Vite
+Python | OpenCV | Raspberry Pi | Arduino | TypeScript | Bun | Astro | Zod | Puppeteer | Vitest | GitHub Actions | Tailwind CSS | Cloudflare Pages | AWS | Claude Code
 
 ## Certificaciones
 
 - Constancia AWS Cloud Practitioner Essentials Santander — https://github.com/jannael/jannael/raw/main/academics/Constancia%20AWS%20Cloud%20Practitioner%20Essentials.pdf
 - Claude Code in Action — https://github.com/jannael/jannael/raw/main/academics/Claude%20code%20in%20action.pdf
 - Constancia de Participación Academia STEM - RetoPY — https://github.com/jannael/jannael/raw/main/academics/Constacia%20de%20Participacion%20Academia%20STEM.pdf
-- React Junior Developer - Certificates.dev — https://github.com/jannael/jannael/raw/main/academics/React%20Junior%20Developer.pdf
 
 ## Conectemos
 
