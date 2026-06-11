@@ -213,17 +213,17 @@
           },
           {
             "name": "GitHub Actions",
-            "mdBadge": "![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000.svg?style=flat&logo=GitHubActions&logoColor=ffffff)",
+            "mdBadge": "![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-ffffff.svg?style=flat&logo=GitHubActions&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/githubactions"
           },
           {
             "name": "Tailwind CSS",
-            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=flat&logo=TailwindCSS&logoColor=000000)",
+            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000.svg?style=flat&logo=TailwindCSS&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/tailwindcss"
           },
           {
             "name": "Cloudflare Pages",
-            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
+            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ]
