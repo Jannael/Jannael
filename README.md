@@ -71,7 +71,7 @@ Features
 </ul>
 </br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?style=flat&logo=TypeScript&logoColor=ffffff)![Bun](https://img.shields.io/badge/Bun-ffffff.svg?style=flat&logo=Bun&logoColor=000000)![Astro](https://img.shields.io/badge/Astro-000000.svg?style=flat&logo=Astro&logoColor=ffffff)![Zod](https://img.shields.io/badge/Zod-ffffff.svg?style=flat&logo=Zod&logoColor=000000)![Puppeteer](https://img.shields.io/badge/Puppeteer-000000.svg?style=flat&logo=Puppeteer&logoColor=ffffff)![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000.svg?style=flat&logo=GitHubActions&logoColor=ffffff)![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=flat&logo=TailwindCSS&logoColor=000000)![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?style=flat&logo=TypeScript&logoColor=ffffff)![Bun](https://img.shields.io/badge/Bun-ffffff.svg?style=flat&logo=Bun&logoColor=000000)![Astro](https://img.shields.io/badge/Astro-000000.svg?style=flat&logo=Astro&logoColor=ffffff)![Zod](https://img.shields.io/badge/Zod-ffffff.svg?style=flat&logo=Zod&logoColor=000000)![Puppeteer](https://img.shields.io/badge/Puppeteer-000000.svg?style=flat&logo=Puppeteer&logoColor=ffffff)![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-ffffff.svg?style=flat&logo=GitHubActions&logoColor=000000)![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000.svg?style=flat&logo=TailwindCSS&logoColor=ffffff)![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)
 </td>
 
 <td width="40%">
