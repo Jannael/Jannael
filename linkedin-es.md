@@ -14,6 +14,7 @@ Desarrollador de software, profesional y apasionado del open-source.
 
 - **Config**
 - Configuración global; permite configurar linter, formateador, ajustes de VSCode, husky y lint-staged con un solo comando, con soporte para muchas tecnologías, linters y formateadores.
+- Configuración con un solo comando: Un solo comando configura linter, formateador, ajustes de VSCode, husky y lint-staged.
 - Enlaces: https://github.com/jannael/config | https://config.jannael.com
 - **Devsync**
 - herramienta para sincronizar github, linkedin, curriculum (con formato hardvard), portafolio y historial académico. Permite mantener toda tu presencia profesional actualizada de forma automática a través de un solo archivo de configuración que soporta múltiples idiomas.

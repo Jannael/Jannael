@@ -14,6 +14,7 @@ Software developer, professional and open-source enthusiast.
 
 - **Config**
 - Global configuration tool, allows you to configure linter, formatter, vscode settings, husky and lint-staged with one command, with support for many technologies, linters and formatters.
+- Single-command setup: One command configures linter, formatter, VSCode settings, husky, and lint-staged.
 - Links: https://github.com/jannael/config | https://config.jannael.com
 - **Devsync**
 - Tool to sync GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history. Allows you to keep your entire professional presence automatically updated through a single configuration file that supports multiple languages.
