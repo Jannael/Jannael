@@ -274,7 +274,7 @@
           },
           {
             "name": "Cloudflare Pages",
-            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)",
+            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ]
