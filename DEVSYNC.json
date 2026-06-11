@@ -120,6 +120,15 @@
           }
         ],
         "description": "Global configuration tool, allows you to configure linter, formatter, vscode settings, husky and lint-staged with one command, with support for many technologies, linters and formatters.",
+        "list": {
+          "title": "Features",
+          "items": [
+            {
+              "highlight": "Single-command setup",
+              "description": "One command configures linter, formatter, VSCode settings, husky, and lint-staged."
+            }
+          ]
+        },
         "skills": [
           {
             "name": "TypeScript",
@@ -445,6 +454,15 @@
           }
         ],
         "description": "Configuración global; permite configurar linter, formateador, ajustes de VSCode, husky y lint-staged con un solo comando, con soporte para muchas tecnologías, linters y formateadores.",
+        "list": {
+          "title": "Caracteristicas",
+          "items": [
+            {
+              "highlight": "Configuración con un solo comando",
+              "description": "Un solo comando configura linter, formateador, ajustes de VSCode, husky y lint-staged."
+            }
+          ]
+        },
         "skills": [
           {
             "name": "TypeScript",
