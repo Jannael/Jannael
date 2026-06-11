@@ -32,294 +32,6 @@
   "phone": "+52 56 3368 3040",
   "address": "Estado de México, México",
   "email": "orlandojannael@gmail.com",
-  "es": {
-    "description": "Desarrollador de software, profesional y apasionado del open-source.",
-    "jobTitle": "Desarrollador de software",
-    "status": {
-      "status": "Buscando trabajo",
-      "badge": "."
-    },
-    "languages": [
-      {
-        "name": "Inglés",
-        "mdBadge": ".",
-        "icon": "https://cdn.simpleicons.org/googletranslate"
-      },
-      {
-        "name": "Español",
-        "mdBadge": ".",
-        "icon": "https://cdn.simpleicons.org/googletranslate"
-      }
-    ],
-    "experience": [
-      {
-        "company": "Universidad Tecnológica Fidel Velázquez",
-        "position": "Estudiante de Educación Dual",
-        "img": "https://imgs.search.brave.com/RuIC75wZGFDm9xsUgRv6bSZzEXp6XtlLl0E0QSyQ11s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RzLzQwNC8x/ZGNmZDQxNDQ4ODQy/MjUuWTNKdmNDdzFO/elV6TERRMU1EQXNN/VE15TkN3dy5wbmc",
-        "web": "https://www.gob.mx/sep/articulos/boletin-265-estudiantes-de-cecytem-estado-de-mexico-triunfan-en-torneo-internacional-de-robotica-vex-2023",
-        "description": "Desarrollé proyectos de automatización e integración de hardware/software, culminando en un invernadero inteligente controlado por visión artificial. Utilize herramientas como Python, OpenCV, Raspberry Pi y Arduino para crear sistemas de monitoreo y control en tiempo real, ademas de lograr el primer lugar en el concurso internacional RetoPY como líder de equipo.",
-        "date": "08/23 - 08/24",
-        "links": [
-          {
-            "name": "Carta de Recomendación",
-            "url": "https://github.com/Jannael/Jannael/raw/main/academics/Recommendation%20letter/Juan%20Carlos%20Corte%20-%20es.pdf",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/linkedin"
-          }
-        ],
-        "list": {
-          "title": "Proyectos destacados",
-          "items": [
-            {
-              "highlight": "Invernadero con visión artificial",
-              "description": "Sistema de monitoreo de plantas con Python y OpenCV sobre Raspberry Pi, controlando temperatura y humedad mediante comunicación serial con Arduino."
-            }
-          ]
-        },
-        "skills": [
-          {
-            "name": "Python",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/python"
-          },
-          {
-            "name": "OpenCV",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/opencv"
-          },
-          {
-            "name": "Raspberry Pi",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/raspberrypi"
-          },
-          {
-            "name": "Arduino",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/arduino"
-          }
-        ]
-      }
-    ],
-    "projects": [
-      {
-        "name": "Devsync",
-        "img": "https://github.com/jannael/devsync/raw/main/apps/web/public/og.png",
-        "web": "https://devsync.work",
-        "links": [
-          {
-            "name": "GitHub",
-            "url": "https://github.com/jannael/devsync",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/github"
-          },
-          {
-            "name": "Demo",
-            "url": "https://devsync.work",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/cloudflare"
-          }
-        ],
-        "description": "herramienta para sincronizar github, linkedin, curriculum (con formato hardvard), portafolio y historial académico. Permite mantener toda tu presencia profesional actualizada de forma automática a través de un solo archivo de configuración que soporta múltiples idiomas.",
-        "list": {
-          "title": "Caracteristicas",
-          "items": [
-            {
-              "highlight": "Generación de PDF con Puppeteer",
-              "description": "Renderiza el CV en HTML y lo exporta a PDF por idioma."
-            }
-          ]
-        },
-        "skills": [
-          {
-            "name": "TypeScript",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/typescript"
-          },
-          {
-            "name": "Bun",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/bun"
-          },
-          {
-            "name": "Astro",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/astro"
-          },
-          {
-            "name": "Zod",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/zod"
-          },
-          {
-            "name": "Puppeteer",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/puppeteer"
-          },
-          {
-            "name": "Vitest",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/vitest"
-          },
-          {
-            "name": "GitHub Actions",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/githubactions"
-          },
-          {
-            "name": "Tailwind CSS",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/tailwindcss"
-          },
-          {
-            "name": "Cloudflare Pages",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/cloudflare"
-          }
-        ]
-      },
-      {
-        "name": "Glinter",
-        "img": "https://github.com/Jannael/glinter/raw/main/apps/web/public/og.png",
-        "web": "https://glinter.jannael.com",
-        "links": [
-          {
-            "name": "GitHub",
-            "url": "https://github.com/jannael/glinter",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/github"
-          },
-          {
-            "name": "Demo",
-            "url": "https://glinter.jannael.com",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/cloudflare"
-          }
-        ],
-        "description": "Proxy transparente para los comandos de git, interceptando la ejecución y proporcionando mejoras como staging interactivo, switch de ramas con selector, parsing confiable del estado del repositorio, entre otras características diseñadas para optimizar el flujo de trabajo de desarrollo sin sacrificar la UX nativa de git.",
-        "list": {
-          "title": "Caracteristicas",
-          "items": [
-            {
-              "highlight": "Alias multiplataforma",
-              "description": "El comando setup configura alias en Unix y Windows de forma automática."
-            }
-          ]
-        },
-        "skills": [
-          {
-            "name": "TypeScript",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/typescript"
-          },
-          {
-            "name": "Bun",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/bun"
-          },
-          {
-            "name": "Astro",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/astro"
-          },
-          {
-            "name": "Vitest",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/vitest"
-          },
-          {
-            "name": "Cloudflare Pages",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/cloudflare"
-          }
-        ]
-      }
-    ],
-    "education": [
-      {
-        "name": "CECYTEM",
-        "degree": "Tecnico en Mecatronica",
-        "img": "https://imgs.search.brave.com/LuxiAr7VkeTK02oRr8o4WQ6IhDa-o1Ea9X0oPMN26RU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzI0LzIvY2VjeXRl/bS1sb2dvLXBuZ19z/ZWVrbG9nby0yNDcw/MjQucG5n",
-        "date": "08/21 - 07/24",
-        "links": [
-          {
-            "name": "Website",
-            "url": "https://cecytem.edomex.gob.mx/nicolas_romero_ii",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/googlechrome"
-          }
-        ],
-        "list": {
-          "title": "logros",
-          "items": [
-            {
-              "highlight": "Concurso internacional de python",
-              "description": "Gane un concurso como lider de un equipo de dos personas desarrollando retos en python."
-            },
-            {
-              "highlight": "Promedio nacional",
-              "description": "Fui reconocido como el mejor promedio a nivel nacional de mi carrera."
-            }
-          ]
-        }
-      }
-    ],
-    "certifications": [
-      {
-        "name": "Constancia AWS Cloud Practitioner Essentials Santander",
-        "url": "https://github.com/jannael/jannael/raw/main/academics/Constancia%20AWS%20Cloud%20Practitioner%20Essentials.pdf",
-        "list": {
-          "title": "¿Que aprendi?",
-          "items": [
-            {
-              "highlight": "AWS esenciales",
-              "description": "Manejar los servicios de AWS, como IAM, S3, EC2, RDS, CloudFront, Lambda, etc."
-            }
-          ]
-        },
-        "skills": [
-          {
-            "name": "AWS",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/amazonwebservices"
-          }
-        ]
-      },
-      {
-        "name": "Claude Code in Action",
-        "url": "https://github.com/jannael/jannael/raw/main/academics/Claude%20code%20in%20action.pdf",
-        "list": {
-          "title": "¿Que aprendi?",
-          "items": [
-            {
-              "highlight": "Agentic coding",
-              "description": "Hooks, manejo de contexto, herramientas del agente, etc."
-            }
-          ]
-        },
-        "skills": [
-          {
-            "name": "Claude Code",
-            "mdBadge": ".",
-            "icon": "https://cdn.simpleicons.org/anthropic"
-          }
-        ]
-      },
-      {
-        "name": "Constancia de Participación Academia STEM - RetoPY",
-        "url": "https://github.com/jannael/jannael/raw/main/academics/Constacia%20de%20Participacion%20Academia%20STEM.pdf",
-        "list": {
-          "title": "¿Que fue?",
-          "items": [
-            {
-              "highlight": "RetoPY",
-              "description": "Concurso internacional de programación organizado por Academia STEM, en el que obtuve el primer lugar."
-            }
-          ]
-        },
-        "skills": []
-      }
-    ]
-  },
   "en": {
     "description": "Software developer, professional and open-source enthusiast.",
     "jobTitle": "Software Developer",
@@ -390,6 +102,53 @@
     ],
     "projects": [
       {
+        "name": "Config",
+        "img": "https://github.com/jannael/config/raw/main/apps/web/public/og.png",
+        "web": "https://config.jannael.com",
+        "links": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/jannael/config",
+            "mdBadge": "![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=ffffff)",
+            "icon": "https://cdn.simpleicons.org/github"
+          },
+          {
+            "name": "Demo",
+            "url": "https://config.jannael.com",
+            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ],
+        "description": "Global configuration tool, allows you to configure linter, formatter, vscode settings, husky and lint-staged with one command, with support for many technologies, linters and formatters.",
+        "skills": [
+          {
+            "name": "TypeScript",
+            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?style=flat&logo=TypeScript&logoColor=ffffff)",
+            "icon": "https://cdn.simpleicons.org/typescript"
+          },
+          {
+            "name": "Bun",
+            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-ffffff.svg?style=flat&logo=Bun&logoColor=000000)",
+            "icon": "https://cdn.simpleicons.org/bun"
+          },
+          {
+            "name": "Astro",
+            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-000000.svg?style=flat&logo=Astro&logoColor=ffffff)",
+            "icon": "https://cdn.simpleicons.org/astro"
+          },
+          {
+            "name": "Tailwind CSS",
+            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=flat&logo=TailwindCSS&logoColor=000000)",
+            "icon": "https://cdn.simpleicons.org/tailwindcss"
+          },
+          {
+            "name": "Cloudflare Pages",
+            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ]
+      },
+      {
         "name": "Devsync",
         "img": "https://github.com/jannael/devsync/raw/main/apps/web/public/og.png",
         "web": "https://devsync.work",
@@ -442,11 +201,6 @@
             "name": "Puppeteer",
             "mdBadge": "![Puppeteer](https://img.shields.io/badge/Puppeteer-000000.svg?style=flat&logo=Puppeteer&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/puppeteer"
-          },
-          {
-            "name": "Vitest",
-            "mdBadge": "![Vitest](https://img.shields.io/badge/Vitest-ffffff.svg?style=flat&logo=Vitest&logoColor=000000)",
-            "icon": "https://cdn.simpleicons.org/vitest"
           },
           {
             "name": "GitHub Actions",
@@ -508,11 +262,6 @@
             "name": "Astro",
             "mdBadge": "![Astro](https://img.shields.io/badge/Astro-ffffff.svg?style=flat&logo=Astro&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/astro"
-          },
-          {
-            "name": "Vitest",
-            "mdBadge": "![Vitest](https://img.shields.io/badge/Vitest-000000.svg?style=flat&logo=Vitest&logoColor=ffffff)",
-            "icon": "https://cdn.simpleicons.org/vitest"
           },
           {
             "name": "Cloudflare Pages",
@@ -601,6 +350,331 @@
             {
               "highlight": "RetoPY",
               "description": "International programming competition organized by Academia STEM, where I won first place."
+            }
+          ]
+        },
+        "skills": []
+      }
+    ]
+  },
+  "es": {
+    "description": "Desarrollador de software, profesional y apasionado del open-source.",
+    "jobTitle": "Desarrollador de software",
+    "status": {
+      "status": "Buscando trabajo",
+      "badge": "."
+    },
+    "languages": [
+      {
+        "name": "Inglés",
+        "mdBadge": ".",
+        "icon": "https://cdn.simpleicons.org/googletranslate"
+      },
+      {
+        "name": "Español",
+        "mdBadge": ".",
+        "icon": "https://cdn.simpleicons.org/googletranslate"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Universidad Tecnológica Fidel Velázquez",
+        "position": "Estudiante de Educación Dual",
+        "img": "https://imgs.search.brave.com/RuIC75wZGFDm9xsUgRv6bSZzEXp6XtlLl0E0QSyQ11s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RzLzQwNC8x/ZGNmZDQxNDQ4ODQy/MjUuWTNKdmNDdzFO/elV6TERRMU1EQXNN/VE15TkN3dy5wbmc",
+        "web": "https://www.gob.mx/sep/articulos/boletin-265-estudiantes-de-cecytem-estado-de-mexico-triunfan-en-torneo-internacional-de-robotica-vex-2023",
+        "description": "Desarrollé proyectos de automatización e integración de hardware/software, culminando en un invernadero inteligente controlado por visión artificial. Utilize herramientas como Python, OpenCV, Raspberry Pi y Arduino para crear sistemas de monitoreo y control en tiempo real, ademas de lograr el primer lugar en el concurso internacional RetoPY como líder de equipo.",
+        "date": "08/23 - 08/24",
+        "links": [
+          {
+            "name": "Carta de Recomendación",
+            "url": "https://github.com/Jannael/Jannael/raw/main/academics/Recommendation%20letter/Juan%20Carlos%20Corte%20-%20es.pdf",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/linkedin"
+          }
+        ],
+        "list": {
+          "title": "Proyectos destacados",
+          "items": [
+            {
+              "highlight": "Invernadero con visión artificial",
+              "description": "Sistema de monitoreo de plantas con Python y OpenCV sobre Raspberry Pi, controlando temperatura y humedad mediante comunicación serial con Arduino."
+            }
+          ]
+        },
+        "skills": [
+          {
+            "name": "Python",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/python"
+          },
+          {
+            "name": "OpenCV",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/opencv"
+          },
+          {
+            "name": "Raspberry Pi",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/raspberrypi"
+          },
+          {
+            "name": "Arduino",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/arduino"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Config",
+        "img": "https://github.com/jannael/config/raw/main/apps/web/public/og.png",
+        "web": "https://config.jannael.com",
+        "links": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/jannael/config",
+            "mdBadge": "![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=ffffff)",
+            "icon": "https://cdn.simpleicons.org/github"
+          },
+          {
+            "name": "Demo",
+            "url": "https://config.jannael.com",
+            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ],
+        "description": "Configuración global; permite configurar linter, formateador, ajustes de VSCode, husky y lint-staged con un solo comando, con soporte para muchas tecnologías, linters y formateadores.",
+        "skills": [
+          {
+            "name": "TypeScript",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/typescript"
+          },
+          {
+            "name": "Bun",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/bun"
+          },
+          {
+            "name": "Astro",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/astro"
+          },
+          {
+            "name": "Tailwind CSS",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/tailwindcss"
+          },
+          {
+            "name": "Cloudflare Pages",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ]
+      },
+      {
+        "name": "Devsync",
+        "img": "https://github.com/jannael/devsync/raw/main/apps/web/public/og.png",
+        "web": "https://devsync.work",
+        "links": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/jannael/devsync",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/github"
+          },
+          {
+            "name": "Demo",
+            "url": "https://devsync.work",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ],
+        "description": "herramienta para sincronizar github, linkedin, curriculum (con formato hardvard), portafolio y historial académico. Permite mantener toda tu presencia profesional actualizada de forma automática a través de un solo archivo de configuración que soporta múltiples idiomas.",
+        "list": {
+          "title": "Caracteristicas",
+          "items": [
+            {
+              "highlight": "Generación de PDF con Puppeteer",
+              "description": "Renderiza el CV en HTML y lo exporta a PDF por idioma."
+            }
+          ]
+        },
+        "skills": [
+          {
+            "name": "TypeScript",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/typescript"
+          },
+          {
+            "name": "Bun",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/bun"
+          },
+          {
+            "name": "Astro",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/astro"
+          },
+          {
+            "name": "Zod",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/zod"
+          },
+          {
+            "name": "Puppeteer",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/puppeteer"
+          },
+          {
+            "name": "GitHub Actions",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/githubactions"
+          },
+          {
+            "name": "Tailwind CSS",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/tailwindcss"
+          },
+          {
+            "name": "Cloudflare Pages",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ]
+      },
+      {
+        "name": "Glinter",
+        "img": "https://github.com/Jannael/glinter/raw/main/apps/web/public/og.png",
+        "web": "https://glinter.jannael.com",
+        "links": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/jannael/glinter",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/github"
+          },
+          {
+            "name": "Demo",
+            "url": "https://glinter.jannael.com",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ],
+        "description": "Proxy transparente para los comandos de git, interceptando la ejecución y proporcionando mejoras como staging interactivo, switch de ramas con selector, parsing confiable del estado del repositorio, entre otras características diseñadas para optimizar el flujo de trabajo de desarrollo sin sacrificar la UX nativa de git.",
+        "list": {
+          "title": "Caracteristicas",
+          "items": [
+            {
+              "highlight": "Alias multiplataforma",
+              "description": "El comando setup configura alias en Unix y Windows de forma automática."
+            }
+          ]
+        },
+        "skills": [
+          {
+            "name": "TypeScript",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/typescript"
+          },
+          {
+            "name": "Bun",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/bun"
+          },
+          {
+            "name": "Astro",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/astro"
+          },
+          {
+            "name": "Cloudflare Pages",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "name": "CECYTEM",
+        "degree": "Tecnico en Mecatronica",
+        "img": "https://imgs.search.brave.com/LuxiAr7VkeTK02oRr8o4WQ6IhDa-o1Ea9X0oPMN26RU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzI0LzIvY2VjeXRl/bS1sb2dvLXBuZ19z/ZWVrbG9nby0yNDcw/MjQucG5n",
+        "date": "08/21 - 07/24",
+        "links": [
+          {
+            "name": "Website",
+            "url": "https://cecytem.edomex.gob.mx/nicolas_romero_ii",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/googlechrome"
+          }
+        ],
+        "list": {
+          "title": "logros",
+          "items": [
+            {
+              "highlight": "Concurso internacional de python",
+              "description": "Gane un concurso como lider de un equipo de dos personas desarrollando retos en python."
+            },
+            {
+              "highlight": "Promedio nacional",
+              "description": "Fui reconocido como el mejor promedio a nivel nacional de mi carrera."
+            }
+          ]
+        }
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Constancia AWS Cloud Practitioner Essentials Santander",
+        "url": "https://github.com/jannael/jannael/raw/main/academics/Constancia%20AWS%20Cloud%20Practitioner%20Essentials.pdf",
+        "list": {
+          "title": "¿Que aprendi?",
+          "items": [
+            {
+              "highlight": "AWS esenciales",
+              "description": "Manejar los servicios de AWS, como IAM, S3, EC2, RDS, CloudFront, Lambda, etc."
+            }
+          ]
+        },
+        "skills": [
+          {
+            "name": "AWS",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/amazonwebservices"
+          }
+        ]
+      },
+      {
+        "name": "Claude Code in Action",
+        "url": "https://github.com/jannael/jannael/raw/main/academics/Claude%20code%20in%20action.pdf",
+        "list": {
+          "title": "¿Que aprendi?",
+          "items": [
+            {
+              "highlight": "Agentic coding",
+              "description": "Hooks, manejo de contexto, herramientas del agente, etc."
+            }
+          ]
+        },
+        "skills": [
+          {
+            "name": "Claude Code",
+            "mdBadge": ".",
+            "icon": "https://cdn.simpleicons.org/anthropic"
+          }
+        ]
+      },
+      {
+        "name": "Constancia de Participación Academia STEM - RetoPY",
+        "url": "https://github.com/jannael/jannael/raw/main/academics/Constacia%20de%20Participacion%20Academia%20STEM.pdf",
+        "list": {
+          "title": "¿Que fue?",
+          "items": [
+            {
+              "highlight": "RetoPY",
+              "description": "Concurso internacional de programación organizado por Academia STEM, en el que obtuve el primer lugar."
             }
           ]
         },
