@@ -94,7 +94,7 @@ Features
 </ul>
 </br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-ffffff.svg?style=flat&logo=TypeScript&logoColor=000000)![Bun](https://img.shields.io/badge/Bun-000000.svg?style=flat&logo=Bun&logoColor=ffffff)![Astro](https://img.shields.io/badge/Astro-ffffff.svg?style=flat&logo=Astro&logoColor=000000)![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff.svg?style=flat&logo=TypeScript&logoColor=000000)![Bun](https://img.shields.io/badge/Bun-000000.svg?style=flat&logo=Bun&logoColor=ffffff)![Astro](https://img.shields.io/badge/Astro-ffffff.svg?style=flat&logo=Astro&logoColor=000000)![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)
 </td>
 
 <td width="40%">
