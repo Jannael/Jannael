@@ -12,6 +12,9 @@ Software developer, professional and open-source enthusiast.
 
 ## Selected projects
 
+- **Config**
+- Global configuration tool, allows you to configure linter, formatter, vscode settings, husky and lint-staged with one command, with support for many technologies, linters and formatters.
+- Links: https://github.com/jannael/config | https://config.jannael.com
 - **Devsync**
 - Tool to sync GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history. Allows you to keep your entire professional presence automatically updated through a single configuration file that supports multiple languages.
 - PDF generation with Puppeteer: Renders the CV as HTML and exports it to PDF per language.
@@ -23,7 +26,7 @@ Software developer, professional and open-source enthusiast.
 
 ## Core Skills
 
-Python | OpenCV | Raspberry Pi | Arduino | TypeScript | Bun | Astro | Zod | Puppeteer | Vitest | GitHub Actions | Tailwind CSS | Cloudflare Pages | AWS | Claude Code
+Python | OpenCV | Raspberry Pi | Arduino | TypeScript | Bun | Astro | Tailwind CSS | Cloudflare Pages | Zod | Puppeteer | GitHub Actions | AWS | Claude Code
 
 ## Certifications
 

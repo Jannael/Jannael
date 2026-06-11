@@ -14,7 +14,6 @@ Software developer, professional and open-source enthusiast.
           <h3>Universidad Tecnológica Fidel Velázquez</h3>
 
 [![Letter of Recomendation](https://img.shields.io/badge/Letter%20of%20Recomendation-000000.svg?style=flat&logo=Letter%20of%20Recomendation&logoColor=ffffff)](https://github.com/Jannael/Jannael/raw/main/academics/Recommendation%20letter/Juan%20Carlos%20Corte%20-%20en.pdf)
-
 <p>Developed automation and hardware/software integration projects, culminating in a smart greenhouse controlled by computer vision. Used tools like Python, OpenCV, Raspberry Pi, and Arduino to create real-time monitoring and control systems, also achieving first place in the international RetoPY competition as team leader.</p>
 Key achievements
 <ul>
@@ -23,7 +22,6 @@ Key achievements
 </br>
 
 ![Python](https://img.shields.io/badge/Python-000000.svg?style=flat&logo=Python&logoColor=ffffff)![OpenCV](https://img.shields.io/badge/OpenCV-ffffff.svg?style=flat&logo=OpenCV&logoColor=000000)![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000000.svg?style=flat&logo=RaspberryPi&logoColor=ffffff)![Arduino](https://img.shields.io/badge/Arduino-ffffff.svg?style=flat&logo=Arduino&logoColor=000000)
-
 </td>
 
 <td width="40%">
@@ -40,10 +38,32 @@ Key achievements
 <table>
       <tr>
         <td>
+          <h3>Config</h3>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=ffffff)](https://github.com/jannael/config)[![Demo](https://img.shields.io/badge/Demo-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)](https://config.jannael.com)
+<p>Global configuration tool, allows you to configure linter, formatter, vscode settings, husky and lint-staged with one command, with support for many technologies, linters and formatters.</p>
+----------------------------------------------------------------------------------------------------
+<ul>
+
+          </ul>
+          </br>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?style=flat&logo=TypeScript&logoColor=ffffff)![Bun](https://img.shields.io/badge/Bun-ffffff.svg?style=flat&logo=Bun&logoColor=000000)![Astro](https://img.shields.io/badge/Astro-000000.svg?style=flat&logo=Astro&logoColor=ffffff)![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=flat&logo=TailwindCSS&logoColor=000000)![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)
+</td>
+
+<td width="40%">
+  <a href="https://config.jannael.com" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <img alt="Config" src="https://github.com/jannael/config/raw/main/apps/web/public/og.png" width="100%"/>
+    </picture>
+  </a>
+</td>
+      </tr>
+      <tr>
+        <td>
           <h3>Devsync</h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=ffffff)](https://github.com/jannael/devsync)[![Demo](https://img.shields.io/badge/Demo-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)](https://devsync.work)
-
 <p>Tool to sync GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history. Allows you to keep your entire professional presence automatically updated through a single configuration file that supports multiple languages.</p>
 Features
 <ul>
@@ -51,8 +71,7 @@ Features
 </ul>
 </br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?style=flat&logo=TypeScript&logoColor=ffffff)![Bun](https://img.shields.io/badge/Bun-ffffff.svg?style=flat&logo=Bun&logoColor=000000)![Astro](https://img.shields.io/badge/Astro-000000.svg?style=flat&logo=Astro&logoColor=ffffff)![Zod](https://img.shields.io/badge/Zod-ffffff.svg?style=flat&logo=Zod&logoColor=000000)![Puppeteer](https://img.shields.io/badge/Puppeteer-000000.svg?style=flat&logo=Puppeteer&logoColor=ffffff)![Vitest](https://img.shields.io/badge/Vitest-ffffff.svg?style=flat&logo=Vitest&logoColor=000000)![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000.svg?style=flat&logo=GitHubActions&logoColor=ffffff)![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=flat&logo=TailwindCSS&logoColor=000000)![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?style=flat&logo=TypeScript&logoColor=ffffff)![Bun](https://img.shields.io/badge/Bun-ffffff.svg?style=flat&logo=Bun&logoColor=000000)![Astro](https://img.shields.io/badge/Astro-000000.svg?style=flat&logo=Astro&logoColor=ffffff)![Zod](https://img.shields.io/badge/Zod-ffffff.svg?style=flat&logo=Zod&logoColor=000000)![Puppeteer](https://img.shields.io/badge/Puppeteer-000000.svg?style=flat&logo=Puppeteer&logoColor=ffffff)![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000.svg?style=flat&logo=GitHubActions&logoColor=ffffff)![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=flat&logo=TailwindCSS&logoColor=000000)![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)
 </td>
 
 <td width="40%">
@@ -68,7 +87,6 @@ Features
           <h3>Glinter</h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ffffff.svg?style=flat&logo=GitHub&logoColor=000000)](https://github.com/jannael/glinter)[![Demo](https://img.shields.io/badge/Demo-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)](https://glinter.jannael.com)
-
 <p>Transparent proxy for git commands, intercepting execution and providing enhancements like interactive staging, branch switching with a selector, reliable repository status parsing, among other features designed to optimize the development workflow without sacrificing git's native UX.</p>
 Features
 <ul>
@@ -76,8 +94,7 @@ Features
 </ul>
 </br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-ffffff.svg?style=flat&logo=TypeScript&logoColor=000000)![Bun](https://img.shields.io/badge/Bun-000000.svg?style=flat&logo=Bun&logoColor=ffffff)![Astro](https://img.shields.io/badge/Astro-ffffff.svg?style=flat&logo=Astro&logoColor=000000)![Vitest](https://img.shields.io/badge/Vitest-000000.svg?style=flat&logo=Vitest&logoColor=ffffff)![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff.svg?style=flat&logo=TypeScript&logoColor=000000)![Bun](https://img.shields.io/badge/Bun-000000.svg?style=flat&logo=Bun&logoColor=ffffff)![Astro](https://img.shields.io/badge/Astro-ffffff.svg?style=flat&logo=Astro&logoColor=000000)![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)
 </td>
 
 <td width="40%">

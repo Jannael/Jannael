@@ -12,6 +12,9 @@ Desarrollador de software, profesional y apasionado del open-source.
 
 ## Proyectos destacados
 
+- **Config**
+- Configuración global; permite configurar linter, formateador, ajustes de VSCode, husky y lint-staged con un solo comando, con soporte para muchas tecnologías, linters y formateadores.
+- Enlaces: https://github.com/jannael/config | https://config.jannael.com
 - **Devsync**
 - herramienta para sincronizar github, linkedin, curriculum (con formato hardvard), portafolio y historial académico. Permite mantener toda tu presencia profesional actualizada de forma automática a través de un solo archivo de configuración que soporta múltiples idiomas.
 - Generación de PDF con Puppeteer: Renderiza el CV en HTML y lo exporta a PDF por idioma.
@@ -23,7 +26,7 @@ Desarrollador de software, profesional y apasionado del open-source.
 
 ## Habilidades principales
 
-Python | OpenCV | Raspberry Pi | Arduino | TypeScript | Bun | Astro | Zod | Puppeteer | Vitest | GitHub Actions | Tailwind CSS | Cloudflare Pages | AWS | Claude Code
+Python | OpenCV | Raspberry Pi | Arduino | TypeScript | Bun | Astro | Tailwind CSS | Cloudflare Pages | Zod | Puppeteer | GitHub Actions | AWS | Claude Code
 
 ## Certificaciones
 
