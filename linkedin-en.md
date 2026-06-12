@@ -1,6 +1,6 @@
 # Software Developer
 
-I am Jannael Orlando.
+I am Jannael Entrevista.
 
 Software developer, professional and open-source enthusiast.
 

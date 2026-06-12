@@ -1,6 +1,6 @@
 # Desarrollador de software
 
-Soy Jannael Orlando.
+Soy Jannael Entrevista.
 
 Desarrollador de software, profesional y apasionado del open-source.
 
