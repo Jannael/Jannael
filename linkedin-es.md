@@ -1,6 +1,6 @@
 # Desarrollador de software
 
-Soy Jannael Orlando Hernández Macedo.
+Soy Jannael Orlando.
 
 Desarrollador de software, profesional y apasionado del open-source.
 

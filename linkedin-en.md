@@ -1,6 +1,6 @@
 # Software Developer
 
-I am Jannael Orlando Hernández Macedo.
+I am Jannael Orlando.
 
 Software developer, professional and open-source enthusiast.
 
