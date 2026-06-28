@@ -13,15 +13,15 @@ Desarrollador de software, profesional y apasionado del open-source.
 ## Proyectos destacados
 
 - **Config**
-- Configuración global; permite configurar linter, formateador, ajustes de VSCode, husky y lint-staged con un solo comando, con soporte para muchas tecnologías, linters y formateadores.
+- COnfigura linter, formateador y mas con un solo comando.
 - Configuración con un solo comando: Un solo comando configura linter, formateador, ajustes de VSCode, husky y lint-staged.
 - Enlaces: https://github.com/jannael/config | https://config.jannael.com
 - **Devsync**
-- herramienta para sincronizar github, linkedin, curriculum (con formato hardvard), portafolio y historial académico. Permite mantener toda tu presencia profesional actualizada de forma automática a través de un solo archivo de configuración que soporta múltiples idiomas.
+- Perfil de Github, curriculum, portafolio y mas desde un solo archivo
 - Generación de PDF con Puppeteer: Renderiza el CV en HTML y lo exporta a PDF por idioma.
 - Enlaces: https://github.com/jannael/devsync | https://devsync.work
 - **Glinter**
-- Proxy transparente para los comandos de git, interceptando la ejecución y proporcionando mejoras como staging interactivo, switch de ramas con selector, parsing confiable del estado del repositorio, entre otras características diseñadas para optimizar el flujo de trabajo de desarrollo sin sacrificar la UX nativa de git.
+- Comandos con interactividad para git y configuracion de alias.
 - Alias multiplataforma: El comando setup configura alias en Unix y Windows de forma automática.
 - Enlaces: https://github.com/jannael/glinter | https://glinter.jannael.com
 

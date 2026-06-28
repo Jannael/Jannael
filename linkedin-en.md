@@ -7,21 +7,21 @@ Software developer, professional and open-source enthusiast.
 ## Professional Experience
 
 - **Dual Education Student** at **Universidad Tecnológica Fidel Velázquez** (08/23 - 08/24)
-- Developed automation and hardware/software integration projects, culminating in a smart greenhouse controlled by computer vision. Used tools like Python, OpenCV, Raspberry Pi, and Arduino to create real-time monitoring and control systems, also achieving first place in the international RetoPY competition as team leader.
+- Developed automation and hardware/software integration projects.
 - Smart greenhouse with computer vision: Plant monitoring system using Python and OpenCV on Raspberry Pi, controlling temperature and humidity via serial communication with Arduino.
 
 ## Selected projects
 
 - **Config**
-- Global configuration tool, allows you to configure linter, formatter, vscode settings, husky and lint-staged with one command, with support for many technologies, linters and formatters.
+- Configure linter, formatter and more with one command.
 - Single-command setup: One command configures linter, formatter, VSCode settings, husky, and lint-staged.
 - Links: https://github.com/jannael/config | https://config.jannael.com
 - **Devsync**
-- Tool to sync GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history. Allows you to keep your entire professional presence automatically updated through a single configuration file that supports multiple languages.
+- Github profile, curriculum, portfolio and more from a single file.
 - PDF generation with Puppeteer: Renders the CV as HTML and exports it to PDF per language.
 - Links: https://github.com/jannael/devsync | https://devsync.work
 - **Glinter**
-- Transparent proxy for git commands, intercepting execution and providing enhancements like interactive staging, branch switching with a selector, reliable repository status parsing, among other features designed to optimize the development workflow without sacrificing git's native UX.
+- Interactive git commands and alias setup.
 - Cross-platform aliases: The setup command configures aliases on Unix and Windows automatically.
 - Links: https://github.com/jannael/glinter | https://glinter.jannael.com
 
