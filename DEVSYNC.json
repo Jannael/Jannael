@@ -57,7 +57,7 @@
         "position": "Dual Education Student",
         "img": "https://imgs.search.brave.com/RuIC75wZGFDm9xsUgRv6bSZzEXp6XtlLl0E0QSyQ11s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RzLzQwNC8x/ZGNmZDQxNDQ4ODQy/MjUuWTNKdmNDdzFO/elV6TERRMU1EQXNN/VE15TkN3dy5wbmc",
         "web": "https://www.gob.mx/sep/articulos/boletin-265-estudiantes-de-cecytem-estado-de-mexico-triunfan-en-torneo-internacional-de-robotica-vex-2023",
-        "description": "Developed automation and hardware/software integration projects, culminating in a smart greenhouse controlled by computer vision. Used tools like Python, OpenCV, Raspberry Pi, and Arduino to create real-time monitoring and control systems, also achieving first place in the international RetoPY competition as team leader.",
+        "description": "Developed automation and hardware/software integration projects.",
         "date": "08/23 - 08/24",
         "links": [
           {
@@ -119,7 +119,7 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Global configuration tool, allows you to configure linter, formatter, vscode settings, husky and lint-staged with one command, with support for many technologies, linters and formatters.",
+        "description": "Configure linter, formatter and more with one command.",
         "list": {
           "title": "Features",
           "items": [
@@ -175,7 +175,7 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Tool to sync GitHub, LinkedIn, CV (Harvard format), portfolio, and academic history. Allows you to keep your entire professional presence automatically updated through a single configuration file that supports multiple languages.",
+        "description": "Github profile, curriculum, portfolio and more from a single file.",
         "list": {
           "title": "Features",
           "items": [
@@ -246,7 +246,7 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Transparent proxy for git commands, intercepting execution and providing enhancements like interactive staging, branch switching with a selector, reliable repository status parsing, among other features designed to optimize the development workflow without sacrificing git's native UX.",
+        "description": "Interactive git commands and alias setup.",
         "list": {
           "title": "Features",
           "items": [
@@ -453,7 +453,7 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Configuración global; permite configurar linter, formateador, ajustes de VSCode, husky y lint-staged con un solo comando, con soporte para muchas tecnologías, linters y formateadores.",
+        "description": "COnfigura linter, formateador y mas con un solo comando.",
         "list": {
           "title": "Caracteristicas",
           "items": [
@@ -509,7 +509,7 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "herramienta para sincronizar github, linkedin, curriculum (con formato hardvard), portafolio y historial académico. Permite mantener toda tu presencia profesional actualizada de forma automática a través de un solo archivo de configuración que soporta múltiples idiomas.",
+        "description": "Perfil de Github, curriculum, portafolio y mas desde un solo archivo",
         "list": {
           "title": "Caracteristicas",
           "items": [
@@ -580,7 +580,7 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Proxy transparente para los comandos de git, interceptando la ejecución y proporcionando mejoras como staging interactivo, switch de ramas con selector, parsing confiable del estado del repositorio, entre otras características diseñadas para optimizar el flujo de trabajo de desarrollo sin sacrificar la UX nativa de git.",
+        "description": "Comandos con interactividad para git y configuracion de alias.",
         "list": {
           "title": "Caracteristicas",
           "items": [
