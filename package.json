@@ -30,7 +30,8 @@
     "node": ">=22.12.0"
   },
   "devsync": {
-    "pathToCompiledCV": "./dist/[lang]/cv/index.html"
+    "pathToCompiledCV": "./dist/[lang]/cv/index.html",
+    "githubProfileStyle": "minimal"
   },
   "lint-staged": {
     "*.{astro,js,ts,mjs}": [
