@@ -7,7 +7,7 @@ Desarrollador de software, profesional y apasionado del open-source.
 ## Experiencia profesional
 
 - **Estudiante de Educación Dual** at **Universidad Tecnológica Fidel Velázquez** (08/23 - 08/24)
-- Desarrollé proyectos de automatización e integración de hardware/software, culminando en un invernadero inteligente controlado por visión artificial. Utilize herramientas como Python, OpenCV, Raspberry Pi y Arduino para crear sistemas de monitoreo y control en tiempo real, ademas de lograr el primer lugar en el concurso internacional RetoPY como líder de equipo.
+- Desarrollé proyectos de automatización e integración de hardware/software.
 - Invernadero con visión artificial: Sistema de monitoreo de plantas con Python y OpenCV sobre Raspberry Pi, controlando temperatura y humedad mediante comunicación serial con Arduino.
 
 ## Proyectos destacados
