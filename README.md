@@ -1,6 +1,11 @@
+<div align="center">
+  
 # Jannael
 
 Software developer, professional and open-source enthusiast.
+
+</div>
+
 
 ## Connect
 
