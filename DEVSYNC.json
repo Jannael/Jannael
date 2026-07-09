@@ -72,7 +72,7 @@
           "items": [
             {
               "highlight": "Smart greenhouse with computer vision",
-              "description": "Plant monitoring system using Python and OpenCV on Raspberry Pi, controlling temperature and humidity via serial communication with Arduino."
+              "description": "Plant monitoring system using Python and OpenCV."
             }
           ]
         },
@@ -406,7 +406,7 @@
           "items": [
             {
               "highlight": "Invernadero con visión artificial",
-              "description": "Sistema de monitoreo de plantas con Python y OpenCV sobre Raspberry Pi, controlando temperatura y humedad mediante comunicación serial con Arduino."
+              "description": "Sistema de monitoreo de plantas con Python y OpenCV."
             }
           ]
         },
