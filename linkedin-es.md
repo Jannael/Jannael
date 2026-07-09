@@ -13,7 +13,7 @@ Desarrollador de software, profesional y apasionado del open-source.
 ## Proyectos destacados
 
 - **Config**
-- COnfigura linter, formateador y mas con un solo comando.
+- Configura linter, formateador y mas con un solo comando.
 - Configuración con un solo comando: Un solo comando configura linter, formateador, ajustes de VSCode, husky y lint-staged.
 - Enlaces: https://github.com/jannael/config | https://config.jannael.com
 - **Devsync**
