@@ -8,7 +8,7 @@ Software developer, professional and open-source enthusiast.
 
 - **Dual Education Student** at **Universidad Tecnológica Fidel Velázquez** (08/23 - 08/24)
 - Developed automation and hardware/software integration projects.
-- Smart greenhouse with computer vision: Plant monitoring system using Python and OpenCV on Raspberry Pi, controlling temperature and humidity via serial communication with Arduino.
+- Smart greenhouse with computer vision: Plant monitoring system using Python and OpenCV.
 
 ## Selected projects
 

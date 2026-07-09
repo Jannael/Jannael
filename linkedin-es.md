@@ -8,7 +8,7 @@ Desarrollador de software, profesional y apasionado del open-source.
 
 - **Estudiante de Educación Dual** at **Universidad Tecnológica Fidel Velázquez** (08/23 - 08/24)
 - Desarrollé proyectos de automatización e integración de hardware/software.
-- Invernadero con visión artificial: Sistema de monitoreo de plantas con Python y OpenCV sobre Raspberry Pi, controlando temperatura y humedad mediante comunicación serial con Arduino.
+- Invernadero con visión artificial: Sistema de monitoreo de plantas con Python y OpenCV.
 
 ## Proyectos destacados
 
