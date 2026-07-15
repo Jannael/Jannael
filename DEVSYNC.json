@@ -19,25 +19,27 @@
   ],
   "githubUserName": "Jannael",
   "coreSkills": [
-    "Typescript",
-    "Javascript",
-    "Node.js",
-    "React",
-    "Git",
     "HTML",
     "CSS",
-    "Bun",
-    "Tailwind CSS"
+    "JavaScript",
+    "Git",
+    "Github",
+    "Astro",
+    "React",
+    "Tailwind CSS",
+    "TypeScript",
+    "Node.js",
+    "Bun"
   ],
   "phone": "+52 56 3368 3040",
   "address": "Estado de México, México",
   "email": "orlandojannael@gmail.com",
   "en": {
-    "description": "Software developer, professional and open-source enthusiast.",
-    "jobTitle": "Software Developer",
+    "description": "Frontend developer specialized in high-performance landing pages, SEO and accessibility. HTML, CSS, JavaScript and modern frameworks (Astro, React, Tailwind CSS).",
+    "jobTitle": "Frontend Developer",
     "status": {
-      "status": "Looking for work",
-      "badge": "![Looking for a job](https://img.shields.io/badge/Looking%20for%20a%20job-000000.svg?style=flat&logo=Looking%20for%20a%20job&logoColor=ffffff)"
+      "status": "Available immediately",
+      "badge": "![Available immediately](https://img.shields.io/badge/Available%20immediately-00ff41.svg?style=flat&logoColor=000000)"
     },
     "languages": [
       {
@@ -119,10 +121,14 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Configure linter, formatter and more with one command.",
+        "description": "Configure linter, formatter and more with one command. Static landing page built with Astro and Tailwind CSS.",
         "list": {
           "title": "Features",
           "items": [
+            {
+              "highlight": "Static landing page on Cloudflare Pages",
+              "description": "Astro static output deployed to Cloudflare's edge for sub-second loads."
+            },
             {
               "highlight": "Single-command setup",
               "description": "One command configures linter, formatter, VSCode settings, husky, and lint-staged."
@@ -175,10 +181,14 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Github profile, curriculum, portfolio and more from a single file.",
+        "description": "Github profile, curriculum, portfolio and more from a single file. Deployed on Cloudflare Pages for global edge caching.",
         "list": {
           "title": "Features",
           "items": [
+            {
+              "highlight": "Static-first landing pages on Cloudflare CDN",
+              "description": "Edge-cached HTML/CSS/JS delivers instant first paint worldwide, ready to absorb massive traffic spikes."
+            },
             {
               "highlight": "PDF generation with Puppeteer",
               "description": "Renders the CV as HTML and exports it to PDF per language."
@@ -246,10 +256,14 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Interactive git commands and alias setup.",
+        "description": "Interactive git commands and alias setup. Static Astro frontend deployed on Cloudflare Pages.",
         "list": {
           "title": "Features",
           "items": [
+            {
+              "highlight": "Interactive frontend UX",
+              "description": "Prompts, menus and confirmations built with vanilla JS for a snappy, fluid user experience."
+            },
             {
               "highlight": "Cross-platform aliases",
               "description": "The setup command configures aliases on Unix and Windows automatically."
@@ -367,21 +381,21 @@
     ]
   },
   "es": {
-    "description": "Desarrollador de software, profesional y apasionado del open-source.",
-    "jobTitle": "Desarrollador de software",
+    "description": "Desarrollador Frontend especializado en landing pages de alto rendimiento, SEO y accesibilidad. HTML, CSS, JavaScript y frameworks modernos (Astro, React, Tailwind CSS).",
+    "jobTitle": "Desarrollador Frontend",
     "status": {
-      "status": "Buscando trabajo",
-      "badge": "."
+      "status": "Disponible inmediatamente",
+      "badge": "![Disponible inmediatamente](https://img.shields.io/badge/Disponible%20inmediatamente-00ff41.svg?style=flat&logoColor=000000)"
     },
     "languages": [
       {
         "name": "Inglés",
-        "mdBadge": ".",
+        "mdBadge": "![Inglés](https://img.shields.io/badge/Ingl%C3%A9s-ffffff.svg?style=flat&logoColor=000000)",
         "icon": "https://cdn.simpleicons.org/googletranslate"
       },
       {
         "name": "Español",
-        "mdBadge": ".",
+        "mdBadge": "![Español](https://img.shields.io/badge/Espa%C3%B1ol-000000.svg?style=flat&logoColor=ffffff)",
         "icon": "https://cdn.simpleicons.org/googletranslate"
       }
     ],
@@ -397,7 +411,7 @@
           {
             "name": "Carta de Recomendación",
             "url": "https://github.com/Jannael/Jannael/raw/main/academics/Recommendation%20letter/Juan%20Carlos%20Corte%20-%20es.pdf",
-            "mdBadge": ".",
+            "mdBadge": "![Carta de Recomendación](https://img.shields.io/badge/Carta%20de%20Recomendaci%C3%B3n-000000.svg?style=flat&logo=LinkedIn&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/linkedin"
           }
         ],
@@ -413,22 +427,22 @@
         "skills": [
           {
             "name": "Python",
-            "mdBadge": ".",
+            "mdBadge": "![Python](https://img.shields.io/badge/Python-000000.svg?style=flat&logo=Python&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/python"
           },
           {
             "name": "OpenCV",
-            "mdBadge": ".",
+            "mdBadge": "![OpenCV](https://img.shields.io/badge/OpenCV-ffffff.svg?style=flat&logo=OpenCV&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/opencv"
           },
           {
             "name": "Raspberry Pi",
-            "mdBadge": ".",
+            "mdBadge": "![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000000.svg?style=flat&logo=Raspberry%20Pi&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/raspberrypi"
           },
           {
             "name": "Arduino",
-            "mdBadge": ".",
+            "mdBadge": "![Arduino](https://img.shields.io/badge/Arduino-ffffff.svg?style=flat&logo=Arduino&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/arduino"
           }
         ]
@@ -453,10 +467,14 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Configura linter, formateador y mas con un solo comando.",
+        "description": "Configura linter, formateador y mas con un solo comando. Landing estática construida con Astro y Tailwind CSS.",
         "list": {
-          "title": "Caracteristicas",
+          "title": "Características",
           "items": [
+            {
+              "highlight": "Landing estática en Cloudflare Pages",
+              "description": "Salida estática de Astro desplegada en el edge de Cloudflare para cargas sub-segundo."
+            },
             {
               "highlight": "Configuración con un solo comando",
               "description": "Un solo comando configura linter, formateador, ajustes de VSCode, husky y lint-staged."
@@ -466,27 +484,27 @@
         "skills": [
           {
             "name": "TypeScript",
-            "mdBadge": ".",
+            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?style=flat&logo=TypeScript&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/typescript"
           },
           {
             "name": "Bun",
-            "mdBadge": ".",
+            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-ffffff.svg?style=flat&logo=Bun&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/bun"
           },
           {
             "name": "Astro",
-            "mdBadge": ".",
+            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-000000.svg?style=flat&logo=Astro&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/astro"
           },
           {
             "name": "Tailwind CSS",
-            "mdBadge": ".",
+            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=flat&logo=TailwindCSS&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/tailwindcss"
           },
           {
             "name": "Cloudflare Pages",
-            "mdBadge": ".",
+            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ]
@@ -499,20 +517,24 @@
           {
             "name": "GitHub",
             "url": "https://github.com/jannael/devsync",
-            "mdBadge": ".",
+            "mdBadge": "![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/github"
           },
           {
             "name": "Demo",
             "url": "https://devsync.work",
-            "mdBadge": ".",
+            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Perfil de Github, curriculum, portafolio y mas desde un solo archivo",
+        "description": "Perfil de Github, curriculum, portafolio y mas desde un solo archivo. Desplegado en Cloudflare Pages para caché global en el edge.",
         "list": {
-          "title": "Caracteristicas",
+          "title": "Características",
           "items": [
+            {
+              "highlight": "Landing estática en el CDN de Cloudflare",
+              "description": "HTML/CSS/JS servidos desde el edge para primer paint instantáneo, listo para absorber picos masivos de tráfico."
+            },
             {
               "highlight": "Generación de PDF con Puppeteer",
               "description": "Renderiza el CV en HTML y lo exporta a PDF por idioma."
@@ -522,42 +544,42 @@
         "skills": [
           {
             "name": "TypeScript",
-            "mdBadge": ".",
+            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?style=flat&logo=TypeScript&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/typescript"
           },
           {
             "name": "Bun",
-            "mdBadge": ".",
+            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-ffffff.svg?style=flat&logo=Bun&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/bun"
           },
           {
             "name": "Astro",
-            "mdBadge": ".",
+            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-000000.svg?style=flat&logo=Astro&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/astro"
           },
           {
             "name": "Zod",
-            "mdBadge": ".",
+            "mdBadge": "![Zod](https://img.shields.io/badge/Zod-ffffff.svg?style=flat&logo=Zod&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/zod"
           },
           {
             "name": "Puppeteer",
-            "mdBadge": ".",
+            "mdBadge": "![Puppeteer](https://img.shields.io/badge/Puppeteer-000000.svg?style=flat&logo=Puppeteer&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/puppeteer"
           },
           {
             "name": "GitHub Actions",
-            "mdBadge": ".",
+            "mdBadge": "![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-ffffff.svg?style=flat&logo=GitHubActions&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/githubactions"
           },
           {
             "name": "Tailwind CSS",
-            "mdBadge": ".",
+            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000.svg?style=flat&logo=TailwindCSS&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/tailwindcss"
           },
           {
             "name": "Cloudflare Pages",
-            "mdBadge": ".",
+            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ]
@@ -570,20 +592,24 @@
           {
             "name": "GitHub",
             "url": "https://github.com/jannael/glinter",
-            "mdBadge": ".",
+            "mdBadge": "![GitHub](https://img.shields.io/badge/GitHub-ffffff.svg?style=flat&logo=GitHub&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/github"
           },
           {
             "name": "Demo",
             "url": "https://glinter.jannael.com",
-            "mdBadge": ".",
+            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Comandos con interactividad para git y configuracion de alias.",
+        "description": "Comandos con interactividad para git y configuracion de alias. Frontend estático en Astro desplegado en Cloudflare Pages.",
         "list": {
-          "title": "Caracteristicas",
+          "title": "Características",
           "items": [
+            {
+              "highlight": "UX interactiva en el frontend",
+              "description": "Prompts, menús y confirmaciones construidos con JS vanilla para una experiencia fluida y ágil."
+            },
             {
               "highlight": "Alias multiplataforma",
               "description": "El comando setup configura alias en Unix y Windows de forma automática."
@@ -593,22 +619,22 @@
         "skills": [
           {
             "name": "TypeScript",
-            "mdBadge": ".",
+            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-ffffff.svg?style=flat&logo=TypeScript&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/typescript"
           },
           {
             "name": "Bun",
-            "mdBadge": ".",
+            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-000000.svg?style=flat&logo=Bun&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/bun"
           },
           {
             "name": "Astro",
-            "mdBadge": ".",
+            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-ffffff.svg?style=flat&logo=Astro&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/astro"
           },
           {
             "name": "Cloudflare Pages",
-            "mdBadge": ".",
+            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ]
@@ -624,12 +650,12 @@
           {
             "name": "Website",
             "url": "https://cecytem.edomex.gob.mx/nicolas_romero_ii",
-            "mdBadge": ".",
+            "mdBadge": "![Website](https://img.shields.io/badge/Website-000000.svg?style=flat&logo=GoogleChrome&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/googlechrome"
           }
         ],
         "list": {
-          "title": "logros",
+          "title": "Logros",
           "items": [
             {
               "highlight": "Concurso internacional de python",
@@ -659,7 +685,7 @@
         "skills": [
           {
             "name": "AWS",
-            "mdBadge": ".",
+            "mdBadge": "![AWS](https://img.shields.io/badge/AWS-000000.svg?style=flat&logo=AmazonWebServices&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/amazonwebservices"
           }
         ]
@@ -679,7 +705,7 @@
         "skills": [
           {
             "name": "Claude Code",
-            "mdBadge": ".",
+            "mdBadge": "![Claude Code](https://img.shields.io/badge/Claude%20Code-ffffff.svg?style=flat&logo=Anthropic&logoColor=000000)",
             "icon": "https://cdn.simpleicons.org/anthropic"
           }
         ]
