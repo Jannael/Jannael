@@ -1,6 +1,6 @@
 # Jannael
 
-Software developer, professional and open-source enthusiast.
+Frontend developer specialized in high-performance landing pages, SEO and accessibility. HTML, CSS, JavaScript and modern frameworks (Astro, React, Tailwind CSS).
 
 ## Connect
 
@@ -9,6 +9,6 @@ Software developer, professional and open-source enthusiast.
 
 ## Stuff I made
 
-- [Config](https://config.jannael.com): Configure linter, formatter and more with one command.
-- [Devsync](https://devsync.work): Github profile, curriculum, portfolio and more from a single file.
-- [Glinter](https://glinter.jannael.com): Interactive git commands and alias setup.
+- [Config](https://config.jannael.com): Configure linter, formatter and more with one command. Static landing page built with Astro and Tailwind CSS.
+- [Devsync](https://devsync.work): Github profile, curriculum, portfolio and more from a single file. Deployed on Cloudflare Pages for global edge caching.
+- [Glinter](https://glinter.jannael.com): Interactive git commands and alias setup. Static Astro frontend deployed on Cloudflare Pages.
