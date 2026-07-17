@@ -5,7 +5,6 @@ Frontend developer specialized in high-performance landing pages, SEO and access
 ## Connect
 
 [![linkedin](https://img.shields.io/badge/linkedin-000000.svg?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jannael-orlando-44604a349)
-[![Github](https://img.shields.io/badge/Github-ffffff.svg?style=flat&logo=Github&logoColor=000000)](https://github.com/jannael)
 
 ## Stuff I made
 
