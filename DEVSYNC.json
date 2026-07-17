@@ -294,6 +294,43 @@
         ]
       }
     ],
+    "openSource": [
+      {
+        "name": "Autoskills",
+        "img": "https://autoskills.sh/og.jpg",
+        "web": "https://autoskills.sh/",
+        "links": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/midudev/autoskills",
+            "mdBadge": "![Github](https://img.shields.io/badge/Github-000000.svg?style=flat&logo=Github&logoColor=ffffff)",
+            "icon": "/icons/github.svg"
+          }
+        ],
+        "description": "One command. Your entire AI skill stack. Installed.",
+        "list": {
+          "title": "Contributions",
+          "items": [
+            {
+              "highlight": "Landing page",
+              "description": "Responsive, styles improvement and animation to the main page."
+            }
+          ]
+        },
+        "skills": [
+          {
+            "name": "Astro",
+            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-000000.svg?style=flat&logo=Astro&logoColor=ffffff)",
+            "icon": "https://cdn.simpleicons.org/astro"
+          },
+          {
+            "name": "Tailwind CSS",
+            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=flat&logo=TailwindCSS&logoColor=000000)",
+            "icon": "https://cdn.simpleicons.org/tailwindcss"
+          }
+        ]
+      }
+    ],
     "education": [
       {
         "name": "CECYTEM",
@@ -636,6 +673,43 @@
             "name": "Cloudflare Pages",
             "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
+          }
+        ]
+      }
+    ],
+    "openSource": [
+      {
+        "name": "Autoskills",
+        "img": "https://autoskills.sh/og.jpg",
+        "web": "https://autoskills.sh/",
+        "links": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/midudev/autoskills",
+            "mdBadge": "![Github](https://img.shields.io/badge/Github-000000.svg?style=flat&logo=Github&logoColor=ffffff)",
+            "icon": "/icons/github.svg"
+          }
+        ],
+        "description": "Un comando. Todo tu stack de skills de IA. Instalado.",
+        "list": {
+          "title": "Contribuciones",
+          "items": [
+            {
+              "highlight": "Landing page",
+              "description": "Mejoras de diseño responsive, estilos y animación de la página principal."
+            }
+          ]
+        },
+        "skills": [
+          {
+            "name": "Astro",
+            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-000000.svg?style=flat&logo=Astro&logoColor=ffffff)",
+            "icon": "https://cdn.simpleicons.org/astro"
+          },
+          {
+            "name": "Tailwind CSS",
+            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=flat&logo=TailwindCSS&logoColor=000000)",
+            "icon": "https://cdn.simpleicons.org/tailwindcss"
           }
         ]
       }
