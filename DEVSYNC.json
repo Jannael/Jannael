@@ -42,7 +42,7 @@
   "address": "Estado de México, México",
   "email": "orlandojannael@gmail.com",
   "en": {
-    "description": "Frontend developer. HTML, CSS, JavaScript, TypeScript, modern frameworks and tooling. Passionate about clean, performant and accessible code.",
+    "description": "Frontend developer. open source enthusiastic, love creating tooling.",
     "jobTitle": "Frontend Developer",
     "status": {
       "status": "Working",
@@ -62,11 +62,22 @@
     ],
     "experience": [
       {
+        "company": "Softtek",
+        "position": "Software engineer frontend",
+        "img": "https://imgs.search.brave.com/IBgAAaeTJFsmN-_sxtOsGJuhUwjm6ODXOIz4i-wPP50/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lbmVy/dGljLm9yZy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOS8wNS9T/b2Z0dGVrXy5wbmc",
+        "web": "https://softtek.com",
+        "description": "Frontend developer.",
+        "date": "06/26 - present",
+        "links": [],
+        "list": {},
+        "skills": []
+      },
+      {
         "company": "Universidad Tecnológica Fidel Velázquez",
         "position": "Dual Education Student",
         "img": "https://imgs.search.brave.com/RuIC75wZGFDm9xsUgRv6bSZzEXp6XtlLl0E0QSyQ11s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RzLzQwNC8x/ZGNmZDQxNDQ4ODQy/MjUuWTNKdmNDdzFO/elV6TERRMU1EQXNN/VE15TkN3dy5wbmc",
         "web": "https://www.gob.mx/sep/articulos/boletin-265-estudiantes-de-cecytem-estado-de-mexico-triunfan-en-torneo-internacional-de-robotica-vex-2023",
-        "description": "Developed automation and hardware/software integration projects.",
+        "description": "Developed automation and hardware/software integration for innovation projects.",
         "date": "08/23 - 08/24",
         "links": [
           {
@@ -76,15 +87,7 @@
             "icon": "https://cdn.simpleicons.org/linkedin"
           }
         ],
-        "list": {
-          "title": "Key achievements",
-          "items": [
-            {
-              "highlight": "Smart greenhouse with computer vision",
-              "description": "Plant monitoring system using Python and OpenCV."
-            }
-          ]
-        },
+        "list": {},
         "skills": [
           {
             "name": "Python",
@@ -129,15 +132,7 @@
           }
         ],
         "description": "One-command to setup  linter, formatter and related stuff",
-        "list": {
-          "title": "Features",
-          "items": [
-            {
-              "highlight": "Single-command setup",
-              "description": "One command configures linter, formatter, VSCode settings, husky, and lint-staged."
-            }
-          ]
-        },
+        "list": {},
         "skills": [
           {
             "name": "TypeScript",
@@ -185,15 +180,7 @@
           }
         ],
         "description": "GitHub profile, CV, portfolio and more from a single JSON file.",
-        "list": {
-          "title": "Features",
-          "items": [
-            {
-              "highlight": "PDF generation with Puppeteer",
-              "description": "Renders the CV as HTML and exports it to PDF per language."
-            }
-          ]
-        },
+        "list": {},
         "skills": [
           {
             "name": "TypeScript",
@@ -255,20 +242,8 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Interactive git command runner with alias setup",
-        "list": {
-          "title": "Features",
-          "items": [
-            {
-              "highlight": "Interactive frontend UX",
-              "description": "Prompts, menus and confirmations built with vanilla JS for a snappy, fluid user experience."
-            },
-            {
-              "highlight": "Cross-platform aliases",
-              "description": "The setup command configures aliases on Unix and Windows automatically."
-            }
-          ]
-        },
+        "description": "Interactive git command runner with alias setup, improve git experience and reduce errors while using it",
+        "list": {},
         "skills": [
           {
             "name": "TypeScript",
@@ -306,16 +281,8 @@
             "icon": "/icons/github.svg"
           }
         ],
-        "description": "One command. Your entire AI skill stack. Installed.",
-        "list": {
-          "title": "Contributions",
-          "items": [
-            {
-              "highlight": "Landing page",
-              "description": "Responsive, styles improvement and animation to the main page."
-            }
-          ]
-        },
+        "description": "Contributed to improve performance and animations of the landing page",
+        "list": {},
         "skills": [
           {
             "name": "Astro",
@@ -331,6 +298,14 @@
       }
     ],
     "education": [
+      {
+        "name": "Universidad Tecnologica Fidel Velazquez",
+        "degree": "Multiplatform software developer",
+        "img": "https://imgs.search.brave.com/RuIC75wZGFDm9xsUgRv6bSZzEXp6XtlLl0E0QSyQ11s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RzLzQwNC8x/ZGNmZDQxNDQ4ODQy/MjUuWTNKdmNDdzFO/elV6TERRMU1EQXNN/VE15TkN3dy5wbmc",
+        "date": "08/24 - 08/26",
+        "links": [],
+        "list": {}
+      },
       {
         "name": "CECYTEM",
         "degree": "Mechatronics Technician",
@@ -383,15 +358,7 @@
       {
         "name": "Claude Code in Action",
         "url": "https://github.com/jannael/jannael/raw/main/academics/Claude%20code%20in%20action.pdf",
-        "list": {
-          "title": "What I learned",
-          "items": [
-            {
-              "highlight": "Agentic coding",
-              "description": "Hooks, context, agent tools, etc."
-            }
-          ]
-        },
+        "list": {},
         "skills": [
           {
             "name": "Claude Code",
@@ -403,21 +370,13 @@
       {
         "name": "Academia STEM Participation Certificate - RetoPY",
         "url": "https://github.com/jannael/jannael/raw/main/academics/Constacia%20de%20Participacion%20Academia%20STEM.pdf",
-        "list": {
-          "title": "What it was",
-          "items": [
-            {
-              "highlight": "RetoPY",
-              "description": "International programming competition organized by Academia STEM, where I won first place."
-            }
-          ]
-        },
+        "list": {},
         "skills": []
       }
     ]
   },
   "es": {
-    "description": "Desarrollador Frontend. HTML, CSS, JavaScript, TypeScript, frameworks modernos y herramientas. Apasionado por el código limpio, eficiente y accesible.",
+    "description": "Desarrollador Frontend. Entusiasta del open source, me encanta crear herramientas.",
     "jobTitle": "Desarrollador Frontend",
     "status": {
       "status": "Trabajando",
@@ -437,11 +396,22 @@
     ],
     "experience": [
       {
+        "company": "Softtek",
+        "position": "Ingeniero de software frontend",
+        "img": "https://imgs.search.brave.com/IBgAAaeTJFsmN-_sxtOsGJuhUwjm6ODXOIz4i-wPP50/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lbmVy/dGljLm9yZy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOS8wNS9T/b2Z0dGVrXy5wbmc",
+        "web": "https://softtek.com",
+        "description": "Desarrollador frontend.",
+        "date": "06/26 - presente",
+        "links": [],
+        "list": {},
+        "skills": []
+      },
+      {
         "company": "Universidad Tecnológica Fidel Velázquez",
         "position": "Estudiante de Educación Dual",
         "img": "https://imgs.search.brave.com/RuIC75wZGFDm9xsUgRv6bSZzEXp6XtlLl0E0QSyQ11s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RzLzQwNC8x/ZGNmZDQxNDQ4ODQy/MjUuWTNKdmNDdzFO/elV6TERRMU1EQXNN/VE15TkN3dy5wbmc",
         "web": "https://www.gob.mx/sep/articulos/boletin-265-estudiantes-de-cecytem-estado-de-mexico-triunfan-en-torneo-internacional-de-robotica-vex-2023",
-        "description": "Desarrollé proyectos de automatización e integración de hardware/software.",
+        "description": "Desarrollé proyectos de innovación, automatización e integración de hardware/software.",
         "date": "08/23 - 08/24",
         "links": [
           {
@@ -451,15 +421,7 @@
             "icon": "https://cdn.simpleicons.org/linkedin"
           }
         ],
-        "list": {
-          "title": "Proyectos destacados",
-          "items": [
-            {
-              "highlight": "Invernadero con visión artificial",
-              "description": "Sistema de monitoreo de plantas con Python y OpenCV."
-            }
-          ]
-        },
+        "list": {},
         "skills": [
           {
             "name": "Python",
@@ -504,15 +466,7 @@
           }
         ],
         "description": "Un solo comando para configurar linter, formateador y más",
-        "list": {
-          "title": "Características",
-          "items": [
-            {
-              "highlight": "Configuración con un solo comando",
-              "description": "Un solo comando configura linter, formateador, ajustes de VSCode, husky y lint-staged."
-            }
-          ]
-        },
+        "list": {},
         "skills": [
           {
             "name": "TypeScript",
@@ -560,15 +514,7 @@
           }
         ],
         "description": "Perfil de GitHub, CV, portafolio y más desde un solo archivo JSON.",
-        "list": {
-          "title": "Características",
-          "items": [
-            {
-              "highlight": "Generación de PDF con Puppeteer",
-              "description": "Renderiza el CV en HTML y lo exporta a PDF por idioma."
-            }
-          ]
-        },
+        "list": {},
         "skills": [
           {
             "name": "TypeScript",
@@ -630,20 +576,8 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Comandos interactivos para git y configuración de alias",
-        "list": {
-          "title": "Características",
-          "items": [
-            {
-              "highlight": "UX interactiva frontend",
-              "description": "Prompts, menús y confirmaciones construidos con JS vanilla para una experiencia fluida y ágil."
-            },
-            {
-              "highlight": "Alias multiplataforma",
-              "description": "El comando setup configura alias en Unix y Windows de forma automática."
-            }
-          ]
-        },
+        "description": "Ejecutor de comandos git interactivo con configuración de alias, mejora la experiencia de git y reduce errores al usarlo",
+        "list": {},
         "skills": [
           {
             "name": "TypeScript",
@@ -681,16 +615,8 @@
             "icon": "/icons/github.svg"
           }
         ],
-        "description": "Un comando. Todo tu stack de skills de IA. Instalado.",
-        "list": {
-          "title": "Contribuciones",
-          "items": [
-            {
-              "highlight": "Landing page",
-              "description": "Mejoras de diseño responsive, estilos y animación de la página principal."
-            }
-          ]
-        },
+        "description": "Contribuí a mejorar el rendimiento y las animaciones de la landing page",
+        "list": {},
         "skills": [
           {
             "name": "Astro",
@@ -706,6 +632,14 @@
       }
     ],
     "education": [
+      {
+        "name": "Universidad Tecnológica Fidel Velázquez",
+        "degree": "Desarrollador de software multiplataforma",
+        "img": "https://imgs.search.brave.com/RuIC75wZGFDm9xsUgRv6bSZzEXp6XtlLl0E0QSyQ11s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RzLzQwNC8x/ZGNmZDQxNDQ4ODQy/MjUuWTNKdmNDdzFO/elV6TERRMU1EQXNN/VE15TkN3dy5wbmc",
+        "date": "08/24 - 08/26",
+        "links": [],
+        "list": {}
+      },
       {
         "name": "CECYTEM",
         "degree": "Tecnico en Mecatronica",
@@ -758,15 +692,7 @@
       {
         "name": "Claude Code in Action",
         "url": "https://github.com/jannael/jannael/raw/main/academics/Claude%20code%20in%20action.pdf",
-        "list": {
-          "title": "¿Que aprendi?",
-          "items": [
-            {
-              "highlight": "Agentic coding",
-              "description": "Hooks, manejo de contexto, herramientas del agente, etc."
-            }
-          ]
-        },
+        "list": {},
         "skills": [
           {
             "name": "Claude Code",
@@ -778,15 +704,7 @@
       {
         "name": "Constancia de Participación Academia STEM - RetoPY",
         "url": "https://github.com/jannael/jannael/raw/main/academics/Constacia%20de%20Participacion%20Academia%20STEM.pdf",
-        "list": {
-          "title": "¿Que fue?",
-          "items": [
-            {
-              "highlight": "RetoPY",
-              "description": "Concurso internacional de programación organizado por Academia STEM, en el que obtuve el primer lugar."
-            }
-          ]
-        },
+        "list": {},
         "skills": []
       }
     ]
