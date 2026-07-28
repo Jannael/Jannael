@@ -8,19 +8,19 @@
       "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/jannael-orlando-44604a349",
       "icon": "/icons/linkedin.svg",
-      "mdBadge": "![Linkedin](https://img.shields.io/badge/Linkedin-ffffff.svg?style=flat&logo=Linkedin&logoColor=000000)"
+      "mdBadge": "![Linkedin](https://img.shields.io/badge/Linkedin-000000.svg?style=flat&logo=Linkedin&logoColor=ffffff)"
     },
     {
       "name": "Github",
       "url": "https://github.com/jannael",
       "icon": "/icons/github.svg",
-      "mdBadge": "![Github](https://img.shields.io/badge/Github-ffffff.svg?style=flat&logo=Github&logoColor=000000)"
+      "mdBadge": "![Github](https://img.shields.io/badge/Github-000000.svg?style=flat&logo=Github&logoColor=ffffff)"
     },
     {
       "name": "Academics",
       "url": "https://github.com/jannael/jannael/tree/main/academics/",
       "icon": "/icons/academics.svg",
-      "mdBadge": "![Academics](https://img.shields.io/badge/Academics-ffffff.svg?style=flat&logo=Academics&logoColor=ffffff)"
+      "mdBadge": "![Academics](https://img.shields.io/badge/Academics-000000.svg?style=flat&logo=Academics&logoColor=ffffff)"
     }
   ],
   "githubUserName": "Jannael",
@@ -30,6 +30,7 @@
     "JavaScript",
     "Git",
     "Github",
+    "GitHub Actions",
     "Astro",
     "React",
     "Tailwind CSS",
@@ -41,11 +42,11 @@
   "address": "Estado de México, México",
   "email": "orlandojannael@gmail.com",
   "en": {
-    "description": "Frontend developer specialized in high-performance landing pages, SEO and accessibility. HTML, CSS, JavaScript and modern frameworks (Astro, React, Tailwind CSS).",
+    "description": "Frontend developer. HTML, CSS, JavaScript, TypeScript, modern frameworks and tooling. Passionate about clean, performant and accessible code.",
     "jobTitle": "Frontend Developer",
     "status": {
-      "status": "Available immediately",
-      "badge": "![Available immediately](https://img.shields.io/badge/Available%20immediately-00ff41.svg?style=flat&logoColor=000000)"
+      "status": "Working",
+      "badge": "![working](https://img.shields.io/badge/working-000000.svg?style=flat&logo=working&logoColor=ffffff)"
     },
     "languages": [
       {
@@ -55,7 +56,7 @@
       },
       {
         "name": "Spanish",
-        "mdBadge": "![Spanish](https://img.shields.io/badge/Spanish-ffffff.svg?style=flat&logo=Spanish&logoColor=ffffff)",
+        "mdBadge": "![Spanish](https://img.shields.io/badge/Spanish-000000.svg?style=flat&logo=Spanish&logoColor=ffffff)",
         "icon": "https://cdn.simpleicons.org/googletranslate"
       }
     ],
@@ -92,7 +93,7 @@
           },
           {
             "name": "OpenCV",
-            "mdBadge": "![OpenCV](https://img.shields.io/badge/OpenCV-ffffff.svg?style=flat&logo=OpenCV&logoColor=000000)",
+            "mdBadge": "![OpenCV](https://img.shields.io/badge/OpenCV-000000.svg?style=flat&logo=OpenCV&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/opencv"
           },
           {
@@ -102,7 +103,7 @@
           },
           {
             "name": "Arduino",
-            "mdBadge": "![Arduino](https://img.shields.io/badge/Arduino-ffffff.svg?style=flat&logo=Arduino&logoColor=000000)",
+            "mdBadge": "![Arduino](https://img.shields.io/badge/Arduino-000000.svg?style=flat&logo=Arduino&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/arduino"
           }
         ]
@@ -123,11 +124,11 @@
           {
             "name": "Demo",
             "url": "https://config.jannael.com",
-            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)",
+            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Configure linter, formatter and more with one command. Static landing page built with Astro and Tailwind CSS.",
+        "description": "One-command dev environment setup — linter, formatter, VSCode, husky, lint-staged. Static landing page built with Astro and Tailwind CSS.",
         "list": {
           "title": "Features",
           "items": [
@@ -149,7 +150,7 @@
           },
           {
             "name": "Bun",
-            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-ffffff.svg?style=flat&logo=Bun&logoColor=000000)",
+            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-000000.svg?style=flat&logo=Bun&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/bun"
           },
           {
@@ -159,7 +160,7 @@
           },
           {
             "name": "Tailwind CSS",
-            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=flat&logo=TailwindCSS&logoColor=000000)",
+            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000.svg?style=flat&logo=TailwindCSS&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/tailwindcss"
           },
           {
@@ -183,11 +184,11 @@
           {
             "name": "Demo",
             "url": "https://devsync.work",
-            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)",
+            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Github profile, curriculum, portfolio and more from a single file. Deployed on Cloudflare Pages for global edge caching.",
+        "description": "GitHub profile, CV, portfolio and more from a single JSON file. Static site deployed on Cloudflare Pages.",
         "list": {
           "title": "Features",
           "items": [
@@ -209,7 +210,7 @@
           },
           {
             "name": "Bun",
-            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-ffffff.svg?style=flat&logo=Bun&logoColor=000000)",
+            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-000000.svg?style=flat&logo=Bun&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/bun"
           },
           {
@@ -219,7 +220,7 @@
           },
           {
             "name": "Zod",
-            "mdBadge": "![Zod](https://img.shields.io/badge/Zod-ffffff.svg?style=flat&logo=Zod&logoColor=000000)",
+            "mdBadge": "![Zod](https://img.shields.io/badge/Zod-000000.svg?style=flat&logo=Zod&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/zod"
           },
           {
@@ -229,7 +230,7 @@
           },
           {
             "name": "GitHub Actions",
-            "mdBadge": "![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-ffffff.svg?style=flat&logo=GitHubActions&logoColor=000000)",
+            "mdBadge": "![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000.svg?style=flat&logo=GitHubActions&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/githubactions"
           },
           {
@@ -239,7 +240,7 @@
           },
           {
             "name": "Cloudflare Pages",
-            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)",
+            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ]
@@ -252,7 +253,7 @@
           {
             "name": "GitHub",
             "url": "https://github.com/jannael/glinter",
-            "mdBadge": "![GitHub](https://img.shields.io/badge/GitHub-ffffff.svg?style=flat&logo=GitHub&logoColor=000000)",
+            "mdBadge": "![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/github"
           },
           {
@@ -262,7 +263,7 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Interactive git commands and alias setup. Static Astro frontend deployed on Cloudflare Pages.",
+        "description": "Interactive git command runner with alias setup. Static Astro frontend deployed on Cloudflare Pages.",
         "list": {
           "title": "Features",
           "items": [
@@ -279,7 +280,7 @@
         "skills": [
           {
             "name": "TypeScript",
-            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-ffffff.svg?style=flat&logo=TypeScript&logoColor=000000)",
+            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?style=flat&logo=TypeScript&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/typescript"
           },
           {
@@ -289,7 +290,7 @@
           },
           {
             "name": "Astro",
-            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-ffffff.svg?style=flat&logo=Astro&logoColor=000000)",
+            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-000000.svg?style=flat&logo=Astro&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/astro"
           },
           {
@@ -331,7 +332,7 @@
           },
           {
             "name": "Tailwind CSS",
-            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=flat&logo=TailwindCSS&logoColor=000000)",
+            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000.svg?style=flat&logo=TailwindCSS&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/tailwindcss"
           }
         ]
@@ -402,7 +403,7 @@
         "skills": [
           {
             "name": "Claude Code",
-            "mdBadge": "![Claude Code](https://img.shields.io/badge/Claude%20Code-ffffff.svg?style=flat&logo=Anthropic&logoColor=000000)",
+            "mdBadge": "![Claude Code](https://img.shields.io/badge/Claude%20Code-000000.svg?style=flat&logo=Anthropic&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/anthropic"
           }
         ]
@@ -424,16 +425,16 @@
     ]
   },
   "es": {
-    "description": "Desarrollador Frontend especializado en landing pages de alto rendimiento, SEO y accesibilidad. HTML, CSS, JavaScript y frameworks modernos (Astro, React, Tailwind CSS).",
+    "description": "Desarrollador Frontend. HTML, CSS, JavaScript, TypeScript, frameworks modernos y herramientas. Apasionado por el código limpio, eficiente y accesible.",
     "jobTitle": "Desarrollador Frontend",
     "status": {
-      "status": "Disponible inmediatamente",
-      "badge": "![Disponible inmediatamente](https://img.shields.io/badge/Disponible%20inmediatamente-00ff41.svg?style=flat&logoColor=000000)"
+      "status": "Trabajando",
+      "badge": "![trabajando](https://img.shields.io/badge/trabajando-000000.svg?style=flat&logo=trabajando&logoColor=ffffff)"
     },
     "languages": [
       {
         "name": "Inglés",
-        "mdBadge": "![Inglés](https://img.shields.io/badge/Ingl%C3%A9s-ffffff.svg?style=flat&logoColor=000000)",
+        "mdBadge": "![Inglés](https://img.shields.io/badge/Ingl%C3%A9s-000000.svg?style=flat&logoColor=ffffff)",
         "icon": "https://cdn.simpleicons.org/googletranslate"
       },
       {
@@ -475,7 +476,7 @@
           },
           {
             "name": "OpenCV",
-            "mdBadge": "![OpenCV](https://img.shields.io/badge/OpenCV-ffffff.svg?style=flat&logo=OpenCV&logoColor=000000)",
+            "mdBadge": "![OpenCV](https://img.shields.io/badge/OpenCV-000000.svg?style=flat&logo=OpenCV&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/opencv"
           },
           {
@@ -485,7 +486,7 @@
           },
           {
             "name": "Arduino",
-            "mdBadge": "![Arduino](https://img.shields.io/badge/Arduino-ffffff.svg?style=flat&logo=Arduino&logoColor=000000)",
+            "mdBadge": "![Arduino](https://img.shields.io/badge/Arduino-000000.svg?style=flat&logo=Arduino&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/arduino"
           }
         ]
@@ -506,11 +507,11 @@
           {
             "name": "Demo",
             "url": "https://config.jannael.com",
-            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)",
+            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Configura linter, formateador y mas con un solo comando. Landing estática construida con Astro y Tailwind CSS.",
+        "description": "Configura linter, formateador y más con un solo comando. Landing estática con Astro y Tailwind CSS.",
         "list": {
           "title": "Características",
           "items": [
@@ -532,7 +533,7 @@
           },
           {
             "name": "Bun",
-            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-ffffff.svg?style=flat&logo=Bun&logoColor=000000)",
+            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-000000.svg?style=flat&logo=Bun&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/bun"
           },
           {
@@ -542,7 +543,7 @@
           },
           {
             "name": "Tailwind CSS",
-            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=flat&logo=TailwindCSS&logoColor=000000)",
+            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000.svg?style=flat&logo=TailwindCSS&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/tailwindcss"
           },
           {
@@ -566,11 +567,11 @@
           {
             "name": "Demo",
             "url": "https://devsync.work",
-            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)",
+            "mdBadge": "![Demo](https://img.shields.io/badge/Demo-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Perfil de Github, curriculum, portafolio y mas desde un solo archivo. Desplegado en Cloudflare Pages para caché global en el edge.",
+        "description": "Perfil de GitHub, CV, portafolio y más desde un solo archivo JSON. Sitio estático desplegado en Cloudflare Pages.",
         "list": {
           "title": "Características",
           "items": [
@@ -592,7 +593,7 @@
           },
           {
             "name": "Bun",
-            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-ffffff.svg?style=flat&logo=Bun&logoColor=000000)",
+            "mdBadge": "![Bun](https://img.shields.io/badge/Bun-000000.svg?style=flat&logo=Bun&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/bun"
           },
           {
@@ -602,7 +603,7 @@
           },
           {
             "name": "Zod",
-            "mdBadge": "![Zod](https://img.shields.io/badge/Zod-ffffff.svg?style=flat&logo=Zod&logoColor=000000)",
+            "mdBadge": "![Zod](https://img.shields.io/badge/Zod-000000.svg?style=flat&logo=Zod&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/zod"
           },
           {
@@ -612,7 +613,7 @@
           },
           {
             "name": "GitHub Actions",
-            "mdBadge": "![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-ffffff.svg?style=flat&logo=GitHubActions&logoColor=000000)",
+            "mdBadge": "![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000.svg?style=flat&logo=GitHubActions&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/githubactions"
           },
           {
@@ -622,7 +623,7 @@
           },
           {
             "name": "Cloudflare Pages",
-            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-ffffff.svg?style=flat&logo=Cloudflare&logoColor=000000)",
+            "mdBadge": "![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-000000.svg?style=flat&logo=Cloudflare&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ]
@@ -635,7 +636,7 @@
           {
             "name": "GitHub",
             "url": "https://github.com/jannael/glinter",
-            "mdBadge": "![GitHub](https://img.shields.io/badge/GitHub-ffffff.svg?style=flat&logo=GitHub&logoColor=000000)",
+            "mdBadge": "![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/github"
           },
           {
@@ -645,7 +646,7 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Comandos con interactividad para git y configuracion de alias. Frontend estático en Astro desplegado en Cloudflare Pages.",
+        "description": "Comandos interactivos para git y configuración de alias. Frontend estático en Astro desplegado en Cloudflare Pages.",
         "list": {
           "title": "Características",
           "items": [
@@ -662,7 +663,7 @@
         "skills": [
           {
             "name": "TypeScript",
-            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-ffffff.svg?style=flat&logo=TypeScript&logoColor=000000)",
+            "mdBadge": "![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?style=flat&logo=TypeScript&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/typescript"
           },
           {
@@ -672,7 +673,7 @@
           },
           {
             "name": "Astro",
-            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-ffffff.svg?style=flat&logo=Astro&logoColor=000000)",
+            "mdBadge": "![Astro](https://img.shields.io/badge/Astro-000000.svg?style=flat&logo=Astro&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/astro"
           },
           {
@@ -714,7 +715,7 @@
           },
           {
             "name": "Tailwind CSS",
-            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?style=flat&logo=TailwindCSS&logoColor=000000)",
+            "mdBadge": "![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000.svg?style=flat&logo=TailwindCSS&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/tailwindcss"
           }
         ]
@@ -785,7 +786,7 @@
         "skills": [
           {
             "name": "Claude Code",
-            "mdBadge": "![Claude Code](https://img.shields.io/badge/Claude%20Code-ffffff.svg?style=flat&logo=Anthropic&logoColor=000000)",
+            "mdBadge": "![Claude Code](https://img.shields.io/badge/Claude%20Code-000000.svg?style=flat&logo=Anthropic&logoColor=ffffff)",
             "icon": "https://cdn.simpleicons.org/anthropic"
           }
         ]
