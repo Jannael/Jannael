@@ -13,18 +13,16 @@ Desarrollador Frontend. HTML, CSS, JavaScript, TypeScript, frameworks modernos y
 ## Proyectos destacados
 
 - **Config**
-- Configura linter, formateador y más con un solo comando. Landing estática con Astro y Tailwind CSS.
-- Landing estática en Cloudflare Pages: Salida estática de Astro desplegada en el edge de Cloudflare para cargas sub-segundo.
+- Un solo comando para configurar linter, formateador y más
 - Configuración con un solo comando: Un solo comando configura linter, formateador, ajustes de VSCode, husky y lint-staged.
 - Enlaces: https://github.com/jannael/config | https://config.jannael.com
 - **Devsync**
-- Perfil de GitHub, CV, portafolio y más desde un solo archivo JSON. Sitio estático desplegado en Cloudflare Pages.
-- Landing estática en el CDN de Cloudflare: HTML/CSS/JS servidos desde el edge para primer paint instantáneo, listo para absorber picos masivos de tráfico.
+- Perfil de GitHub, CV, portafolio y más desde un solo archivo JSON.
 - Generación de PDF con Puppeteer: Renderiza el CV en HTML y lo exporta a PDF por idioma.
 - Enlaces: https://github.com/jannael/devsync | https://devsync.work
 - **Glinter**
-- Comandos interactivos para git y configuración de alias. Frontend estático en Astro desplegado en Cloudflare Pages.
-- UX interactiva en el frontend: Prompts, menús y confirmaciones construidos con JS vanilla para una experiencia fluida y ágil.
+- Comandos interactivos para git y configuración de alias
+- UX interactiva frontend: Prompts, menús y confirmaciones construidos con JS vanilla para una experiencia fluida y ágil.
 - Alias multiplataforma: El comando setup configura alias en Unix y Windows de forma automática.
 - Enlaces: https://github.com/jannael/glinter | https://glinter.jannael.com
 

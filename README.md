@@ -9,9 +9,9 @@ Frontend developer. HTML, CSS, JavaScript, TypeScript, modern frameworks and too
 
 ## Stuff I made
 
-- [Config](https://config.jannael.com): One-command dev environment setup — linter, formatter, VSCode, husky, lint-staged. Static landing page built with Astro and Tailwind CSS.
-- [Devsync](https://devsync.work): GitHub profile, CV, portfolio and more from a single JSON file. Static site deployed on Cloudflare Pages.
-- [Glinter](https://glinter.jannael.com): Interactive git command runner with alias setup. Static Astro frontend deployed on Cloudflare Pages.
+- [Config](https://config.jannael.com): One-command to setup linter, formatter and related stuff
+- [Devsync](https://devsync.work): GitHub profile, CV, portfolio and more from a single JSON file.
+- [Glinter](https://glinter.jannael.com): Interactive git command runner with alias setup
 
 ## Open Source Contributions
 
