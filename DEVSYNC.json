@@ -128,14 +128,10 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "One-command dev environment setup — linter, formatter, VSCode, husky, lint-staged. Static landing page built with Astro and Tailwind CSS.",
+        "description": "One-command to setup  linter, formatter and related stuff",
         "list": {
           "title": "Features",
           "items": [
-            {
-              "highlight": "Static landing page on Cloudflare Pages",
-              "description": "Astro static output deployed to Cloudflare's edge for sub-second loads."
-            },
             {
               "highlight": "Single-command setup",
               "description": "One command configures linter, formatter, VSCode settings, husky, and lint-staged."
@@ -188,14 +184,10 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "GitHub profile, CV, portfolio and more from a single JSON file. Static site deployed on Cloudflare Pages.",
+        "description": "GitHub profile, CV, portfolio and more from a single JSON file.",
         "list": {
           "title": "Features",
           "items": [
-            {
-              "highlight": "Static-first landing pages on Cloudflare CDN",
-              "description": "Edge-cached HTML/CSS/JS delivers instant first paint worldwide, ready to absorb massive traffic spikes."
-            },
             {
               "highlight": "PDF generation with Puppeteer",
               "description": "Renders the CV as HTML and exports it to PDF per language."
@@ -263,7 +255,7 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Interactive git command runner with alias setup. Static Astro frontend deployed on Cloudflare Pages.",
+        "description": "Interactive git command runner with alias setup",
         "list": {
           "title": "Features",
           "items": [
@@ -511,14 +503,10 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Configura linter, formateador y más con un solo comando. Landing estática con Astro y Tailwind CSS.",
+        "description": "Un solo comando para configurar linter, formateador y más",
         "list": {
           "title": "Características",
           "items": [
-            {
-              "highlight": "Landing estática en Cloudflare Pages",
-              "description": "Salida estática de Astro desplegada en el edge de Cloudflare para cargas sub-segundo."
-            },
             {
               "highlight": "Configuración con un solo comando",
               "description": "Un solo comando configura linter, formateador, ajustes de VSCode, husky y lint-staged."
@@ -571,14 +559,10 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Perfil de GitHub, CV, portafolio y más desde un solo archivo JSON. Sitio estático desplegado en Cloudflare Pages.",
+        "description": "Perfil de GitHub, CV, portafolio y más desde un solo archivo JSON.",
         "list": {
           "title": "Características",
           "items": [
-            {
-              "highlight": "Landing estática en el CDN de Cloudflare",
-              "description": "HTML/CSS/JS servidos desde el edge para primer paint instantáneo, listo para absorber picos masivos de tráfico."
-            },
             {
               "highlight": "Generación de PDF con Puppeteer",
               "description": "Renderiza el CV en HTML y lo exporta a PDF por idioma."
@@ -646,12 +630,12 @@
             "icon": "https://cdn.simpleicons.org/cloudflare"
           }
         ],
-        "description": "Comandos interactivos para git y configuración de alias. Frontend estático en Astro desplegado en Cloudflare Pages.",
+        "description": "Comandos interactivos para git y configuración de alias",
         "list": {
           "title": "Características",
           "items": [
             {
-              "highlight": "UX interactiva en el frontend",
+              "highlight": "UX interactiva frontend",
               "description": "Prompts, menús y confirmaciones construidos con JS vanilla para una experiencia fluida y ágil."
             },
             {
