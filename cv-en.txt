@@ -46,7 +46,7 @@ Glinter
 EDUCATION
 ------------------------------------------------------------
 
-Multiplatform software developer - Universidad Tecnologica Fidel Velazquez (08/24 - 08/26)
+Multiplatform software developer - Universidad Tecnologica Fidel Velazquez (09/24 - 08/26)
 
 Mechatronics Technician - CECYTEM (08/21 - 07/24)
   - International Python competition: Won a competition as leader of a two-person team solving Python challenges.

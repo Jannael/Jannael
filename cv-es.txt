@@ -46,7 +46,7 @@ Glinter
 EDUCACIÓN
 ------------------------------------------------------------
 
-Desarrollador de software multiplataforma - Universidad Tecnológica Fidel Velázquez (08/24 - 08/26)
+Desarrollador de software multiplataforma - Universidad Tecnológica Fidel Velázquez (09/24 - 08/26)
 
 Tecnico en Mecatronica - CECYTEM (08/21 - 07/24)
   - Concurso internacional de python: Gane un concurso como lider de un equipo de dos personas desarrollando retos en python.

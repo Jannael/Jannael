@@ -3,7 +3,7 @@
 <table>
       <tr>
         <td>
-          <h3>Universidad Tecnologica Fidel Velazquez | Multiplatform software developer | 08/24 - 08/26</h3>
+          <h3>Universidad Tecnologica Fidel Velazquez | Multiplatform software developer | 09/24 - 08/26</h3>
 
           <br>
           ---
