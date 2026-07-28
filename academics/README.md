@@ -13,7 +13,6 @@
           </br>
         </td>
 
-
 <td width="40%">
   <a href="#" target="_blank" rel="noopener noreferrer">
     <picture>
@@ -29,6 +28,7 @@
 [![Website](https://img.shields.io/badge/Website-000000.svg?style=flat&logo=GoogleChrome&logoColor=ffffff)](https://cecytem.edomex.gob.mx/nicolas_romero_ii)
 <br>
 Achievements
+
 <ul>
 <li><strong>International Python competition</strong> Won a competition as leader of a two-person team solving Python challenges.</li><li><strong>National GPA</strong> Recognized as the highest national GPA in my program.</li>
 </ul>

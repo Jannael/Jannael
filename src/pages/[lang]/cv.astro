@@ -125,18 +125,8 @@ const userLanguages = profile.languages ?? []
               {projects.map((item) => (
                 <article>
                   <h3 class="text-base font-semibold">{item.name ?? 'Project'}</h3>
-                  {item.description && <p class="mt-2 text-sm leading-6">{item.description}</p>}
-                  {item.list?.items && item.list.items.length > 0 && (
-                    <ul class="mt-2 list-disc space-y-1 pl-5 text-sm leading-6">
-                      {item.list.items.map((entry: { highlight: string; description: string }) => (
-                        <li>
-                          <span class="font-semibold">{entry.highlight}:</span> {entry.description}
-                        </li>
-                      ))}
-                    </ul>
-                  )}
                   {item.links && item.links.length > 0 && (
-                    <div class="mt-2 space-y-1 text-sm leading-6">
+                    <div class="mt-2 flex gap-3 space-y-1 text-sm leading-6">
                       {item.links.map((link: { name: string; url: string }) => (
                         <p>
                           <span class="font-semibold">{link.name}:</span>{' '}
@@ -149,6 +139,17 @@ const userLanguages = profile.languages ?? []
                         </p>
                       ))}
                     </div>
+                  )}
+
+                  {item.description && <p class="mt-2 text-sm leading-6">{item.description}</p>}
+                  {item.list?.items && item.list.items.length > 0 && (
+                    <ul class="mt-2 list-disc space-y-1 pl-5 text-sm leading-6">
+                      {item.list.items.map((entry: { highlight: string; description: string }) => (
+                        <li>
+                          <span class="font-semibold">{entry.highlight}:</span> {entry.description}
+                        </li>
+                      ))}
+                    </ul>
                   )}
                 </article>
               ))}
