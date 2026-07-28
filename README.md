@@ -1,6 +1,6 @@
 # Jannael
 
-Frontend developer. HTML, CSS, JavaScript, TypeScript, modern frameworks and tooling. Passionate about clean, performant and accessible code.
+Frontend developer. open source enthusiastic, love creating tooling.
 
 ## Connect
 
@@ -11,8 +11,8 @@ Frontend developer. HTML, CSS, JavaScript, TypeScript, modern frameworks and too
 
 - [Config](https://config.jannael.com): One-command to setup linter, formatter and related stuff
 - [Devsync](https://devsync.work): GitHub profile, CV, portfolio and more from a single JSON file.
-- [Glinter](https://glinter.jannael.com): Interactive git command runner with alias setup
+- [Glinter](https://glinter.jannael.com): Interactive git command runner with alias setup, improve git experience and reduce errors while using it
 
 ## Open Source Contributions
 
-- [Autoskills](https://autoskills.sh/): One command. Your entire AI skill stack. Installed.
+- [Autoskills](https://autoskills.sh/): Contributed to improve performance and animations of the landing page

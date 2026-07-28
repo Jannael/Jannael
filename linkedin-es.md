@@ -2,28 +2,25 @@
 
 Soy Jannael Orlando Hernández Macedo.
 
-Desarrollador Frontend. HTML, CSS, JavaScript, TypeScript, frameworks modernos y herramientas. Apasionado por el código limpio, eficiente y accesible.
+Desarrollador Frontend. Entusiasta del open source, me encanta crear herramientas.
 
 ## Experiencia profesional
 
+- **Ingeniero de software frontend** at **Softtek** (06/26 - presente)
+- Desarrollador frontend.
 - **Estudiante de Educación Dual** at **Universidad Tecnológica Fidel Velázquez** (08/23 - 08/24)
-- Desarrollé proyectos de automatización e integración de hardware/software.
-- Invernadero con visión artificial: Sistema de monitoreo de plantas con Python y OpenCV.
+- Desarrollé proyectos de innovación, automatización e integración de hardware/software.
 
 ## Proyectos destacados
 
 - **Config**
 - Un solo comando para configurar linter, formateador y más
-- Configuración con un solo comando: Un solo comando configura linter, formateador, ajustes de VSCode, husky y lint-staged.
 - Enlaces: https://github.com/jannael/config | https://config.jannael.com
 - **Devsync**
 - Perfil de GitHub, CV, portafolio y más desde un solo archivo JSON.
-- Generación de PDF con Puppeteer: Renderiza el CV en HTML y lo exporta a PDF por idioma.
 - Enlaces: https://github.com/jannael/devsync | https://devsync.work
 - **Glinter**
-- Comandos interactivos para git y configuración de alias
-- UX interactiva frontend: Prompts, menús y confirmaciones construidos con JS vanilla para una experiencia fluida y ágil.
-- Alias multiplataforma: El comando setup configura alias en Unix y Windows de forma automática.
+- Ejecutor de comandos git interactivo con configuración de alias, mejora la experiencia de git y reduce errores al usarlo
 - Enlaces: https://github.com/jannael/glinter | https://glinter.jannael.com
 
 ## Habilidades principales

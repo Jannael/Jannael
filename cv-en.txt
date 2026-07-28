@@ -11,15 +11,17 @@ Github Profile: https://github.com/Jannael
 ------------------------------------------------------------
 DESCRIPTION
 ------------------------------------------------------------
-Frontend developer. HTML, CSS, JavaScript, TypeScript, modern frameworks and tooling. Passionate about clean, performant and accessible code.
+Frontend developer. open source enthusiastic, love creating tooling.
 
 ------------------------------------------------------------
 PROFESSIONAL EXPERIENCE
 ------------------------------------------------------------
 
+Software engineer frontend - Softtek (06/26 - present)
+  Frontend developer.
+
 Dual Education Student - Universidad Tecnológica Fidel Velázquez (08/23 - 08/24)
-  Developed automation and hardware/software integration projects.
-  - Smart greenhouse with computer vision: Plant monitoring system using Python and OpenCV.
+  Developed automation and hardware/software integration for innovation projects.
 
 ------------------------------------------------------------
 PROJECTS
@@ -27,26 +29,24 @@ PROJECTS
 
 Config
   One-command to setup  linter, formatter and related stuff
-  - Single-command setup: One command configures linter, formatter, VSCode settings, husky, and lint-staged.
   - GitHub: https://github.com/jannael/config
   - Demo: https://config.jannael.com
 
 Devsync
   GitHub profile, CV, portfolio and more from a single JSON file.
-  - PDF generation with Puppeteer: Renders the CV as HTML and exports it to PDF per language.
   - GitHub: https://github.com/jannael/devsync
   - Demo: https://devsync.work
 
 Glinter
-  Interactive git command runner with alias setup
-  - Interactive frontend UX: Prompts, menus and confirmations built with vanilla JS for a snappy, fluid user experience.
-  - Cross-platform aliases: The setup command configures aliases on Unix and Windows automatically.
+  Interactive git command runner with alias setup, improve git experience and reduce errors while using it
   - GitHub: https://github.com/jannael/glinter
   - Demo: https://glinter.jannael.com
 
 ------------------------------------------------------------
 EDUCATION
 ------------------------------------------------------------
+
+Multiplatform software developer - Universidad Tecnologica Fidel Velazquez (08/24 - 08/26)
 
 Mechatronics Technician - CECYTEM (08/21 - 07/24)
   - International Python competition: Won a competition as leader of a two-person team solving Python challenges.

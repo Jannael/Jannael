@@ -2,28 +2,25 @@
 
 I am Jannael Orlando Hernández Macedo.
 
-Frontend developer. HTML, CSS, JavaScript, TypeScript, modern frameworks and tooling. Passionate about clean, performant and accessible code.
+Frontend developer. open source enthusiastic, love creating tooling.
 
 ## Professional Experience
 
+- **Software engineer frontend** at **Softtek** (06/26 - present)
+- Frontend developer.
 - **Dual Education Student** at **Universidad Tecnológica Fidel Velázquez** (08/23 - 08/24)
-- Developed automation and hardware/software integration projects.
-- Smart greenhouse with computer vision: Plant monitoring system using Python and OpenCV.
+- Developed automation and hardware/software integration for innovation projects.
 
 ## Selected projects
 
 - **Config**
 - One-command to setup linter, formatter and related stuff
-- Single-command setup: One command configures linter, formatter, VSCode settings, husky, and lint-staged.
 - Links: https://github.com/jannael/config | https://config.jannael.com
 - **Devsync**
 - GitHub profile, CV, portfolio and more from a single JSON file.
-- PDF generation with Puppeteer: Renders the CV as HTML and exports it to PDF per language.
 - Links: https://github.com/jannael/devsync | https://devsync.work
 - **Glinter**
-- Interactive git command runner with alias setup
-- Interactive frontend UX: Prompts, menus and confirmations built with vanilla JS for a snappy, fluid user experience.
-- Cross-platform aliases: The setup command configures aliases on Unix and Windows automatically.
+- Interactive git command runner with alias setup, improve git experience and reduce errors while using it
 - Links: https://github.com/jannael/glinter | https://glinter.jannael.com
 
 ## Core Skills
