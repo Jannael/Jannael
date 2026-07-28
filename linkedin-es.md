@@ -2,7 +2,7 @@
 
 Soy Jannael Orlando Hernández Macedo.
 
-Desarrollador Frontend especializado en landing pages de alto rendimiento, SEO y accesibilidad. HTML, CSS, JavaScript y frameworks modernos (Astro, React, Tailwind CSS).
+Desarrollador Frontend. HTML, CSS, JavaScript, TypeScript, frameworks modernos y herramientas. Apasionado por el código limpio, eficiente y accesible.
 
 ## Experiencia profesional
 
@@ -13,17 +13,17 @@ Desarrollador Frontend especializado en landing pages de alto rendimiento, SEO y
 ## Proyectos destacados
 
 - **Config**
-- Configura linter, formateador y mas con un solo comando. Landing estática construida con Astro y Tailwind CSS.
+- Configura linter, formateador y más con un solo comando. Landing estática con Astro y Tailwind CSS.
 - Landing estática en Cloudflare Pages: Salida estática de Astro desplegada en el edge de Cloudflare para cargas sub-segundo.
 - Configuración con un solo comando: Un solo comando configura linter, formateador, ajustes de VSCode, husky y lint-staged.
 - Enlaces: https://github.com/jannael/config | https://config.jannael.com
 - **Devsync**
-- Perfil de Github, curriculum, portafolio y mas desde un solo archivo. Desplegado en Cloudflare Pages para caché global en el edge.
+- Perfil de GitHub, CV, portafolio y más desde un solo archivo JSON. Sitio estático desplegado en Cloudflare Pages.
 - Landing estática en el CDN de Cloudflare: HTML/CSS/JS servidos desde el edge para primer paint instantáneo, listo para absorber picos masivos de tráfico.
 - Generación de PDF con Puppeteer: Renderiza el CV en HTML y lo exporta a PDF por idioma.
 - Enlaces: https://github.com/jannael/devsync | https://devsync.work
 - **Glinter**
-- Comandos con interactividad para git y configuracion de alias. Frontend estático en Astro desplegado en Cloudflare Pages.
+- Comandos interactivos para git y configuración de alias. Frontend estático en Astro desplegado en Cloudflare Pages.
 - UX interactiva en el frontend: Prompts, menús y confirmaciones construidos con JS vanilla para una experiencia fluida y ágil.
 - Alias multiplataforma: El comando setup configura alias en Unix y Windows de forma automática.
 - Enlaces: https://github.com/jannael/glinter | https://glinter.jannael.com

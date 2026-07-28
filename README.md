@@ -1,17 +1,17 @@
 # Jannael
 
-Frontend developer specialized in high-performance landing pages, SEO and accessibility. HTML, CSS, JavaScript and modern frameworks (Astro, React, Tailwind CSS).
+Frontend developer. HTML, CSS, JavaScript, TypeScript, modern frameworks and tooling. Passionate about clean, performant and accessible code.
 
 ## Connect
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-ffffff.svg?style=flat&logo=Linkedin&logoColor=000000)](https://www.linkedin.com/in/jannael-orlando-44604a349)
-[![Academics](https://img.shields.io/badge/Academics-ffffff.svg?style=flat&logo=Academics&logoColor=ffffff)](https://github.com/jannael/jannael/tree/main/academics/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000000.svg?style=flat&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jannael-orlando-44604a349)
+[![Academics](https://img.shields.io/badge/Academics-000000.svg?style=flat&logo=Academics&logoColor=ffffff)](https://github.com/jannael/jannael/tree/main/academics/)
 
 ## Stuff I made
 
-- [Config](https://config.jannael.com): Configure linter, formatter and more with one command. Static landing page built with Astro and Tailwind CSS.
-- [Devsync](https://devsync.work): Github profile, curriculum, portfolio and more from a single file. Deployed on Cloudflare Pages for global edge caching.
-- [Glinter](https://glinter.jannael.com): Interactive git commands and alias setup. Static Astro frontend deployed on Cloudflare Pages.
+- [Config](https://config.jannael.com): One-command dev environment setup — linter, formatter, VSCode, husky, lint-staged. Static landing page built with Astro and Tailwind CSS.
+- [Devsync](https://devsync.work): GitHub profile, CV, portfolio and more from a single JSON file. Static site deployed on Cloudflare Pages.
+- [Glinter](https://glinter.jannael.com): Interactive git command runner with alias setup. Static Astro frontend deployed on Cloudflare Pages.
 
 ## Open Source Contributions
 

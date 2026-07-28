@@ -2,7 +2,7 @@
 
 I am Jannael Orlando Hernández Macedo.
 
-Frontend developer specialized in high-performance landing pages, SEO and accessibility. HTML, CSS, JavaScript and modern frameworks (Astro, React, Tailwind CSS).
+Frontend developer. HTML, CSS, JavaScript, TypeScript, modern frameworks and tooling. Passionate about clean, performant and accessible code.
 
 ## Professional Experience
 
@@ -13,17 +13,17 @@ Frontend developer specialized in high-performance landing pages, SEO and access
 ## Selected projects
 
 - **Config**
-- Configure linter, formatter and more with one command. Static landing page built with Astro and Tailwind CSS.
+- One-command dev environment setup — linter, formatter, VSCode, husky, lint-staged. Static landing page built with Astro and Tailwind CSS.
 - Static landing page on Cloudflare Pages: Astro static output deployed to Cloudflare's edge for sub-second loads.
 - Single-command setup: One command configures linter, formatter, VSCode settings, husky, and lint-staged.
 - Links: https://github.com/jannael/config | https://config.jannael.com
 - **Devsync**
-- Github profile, curriculum, portfolio and more from a single file. Deployed on Cloudflare Pages for global edge caching.
+- GitHub profile, CV, portfolio and more from a single JSON file. Static site deployed on Cloudflare Pages.
 - Static-first landing pages on Cloudflare CDN: Edge-cached HTML/CSS/JS delivers instant first paint worldwide, ready to absorb massive traffic spikes.
 - PDF generation with Puppeteer: Renders the CV as HTML and exports it to PDF per language.
 - Links: https://github.com/jannael/devsync | https://devsync.work
 - **Glinter**
-- Interactive git commands and alias setup. Static Astro frontend deployed on Cloudflare Pages.
+- Interactive git command runner with alias setup. Static Astro frontend deployed on Cloudflare Pages.
 - Interactive frontend UX: Prompts, menus and confirmations built with vanilla JS for a snappy, fluid user experience.
 - Cross-platform aliases: The setup command configures aliases on Unix and Windows automatically.
 - Links: https://github.com/jannael/glinter | https://glinter.jannael.com

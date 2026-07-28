@@ -49,7 +49,7 @@ What I learned
 </ul>
 </br>
 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-ffffff.svg?style=flat&logo=Anthropic&logoColor=000000)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-000000.svg?style=flat&logo=Anthropic&logoColor=ffffff)
 
 </td>
 <td> <a href="https://github.com/jannael/jannael/raw/main/academics/Claude%20code%20in%20action.pdf" target="_blank">View Certificate</a> </td>
