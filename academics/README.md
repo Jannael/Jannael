@@ -1,18 +1,17 @@
 # Academics
 
 <table>
-      <tr>
-        <td>
-          <h3>Universidad Tecnologica Fidel Velazquez | Multiplatform software developer | 09/24 - 08/26</h3>
+<tr>
+<td>
+<h3>Universidad Tecnologica Fidel Velazquez | Multiplatform software developer | 09/24 - 08/26</h3>
 
-          <br>
-          ---
-          <ul>
+## <br>
 
-          </ul>
-          </br>
-        </td>
+<ul>
 
+</ul>
+</br>
+</td>
 
 <td width="40%">
   <a href="#" target="_blank" rel="noopener noreferrer">
@@ -21,14 +20,15 @@
     </picture>
   </a>
 </td>
-      </tr>
-      <tr>
-        <td>
-          <h3>CECYTEM | Mechatronics Technician | 08/21 - 07/24</h3>
+</tr>
+<tr>
+<td>
+<h3>CECYTEM | Mechatronics Technician | 08/21 - 07/24</h3>
 
 [![Website](https://img.shields.io/badge/Website-000000.svg?style=flat&logo=GoogleChrome&logoColor=ffffff)](https://cecytem.edomex.gob.mx/nicolas_romero_ii)
 <br>
 Achievements
+
 <ul>
 <li><strong>International Python competition</strong> Won a competition as leader of a two-person team solving Python challenges.</li><li><strong>National GPA</strong> Recognized as the highest national GPA in my program.</li>
 </ul>
@@ -42,7 +42,7 @@ Achievements
     </picture>
   </a>
 </td>
-      </tr></table>
+</tr></table>
 
 ## Certifications
 
