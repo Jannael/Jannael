@@ -1,4 +1,4 @@
-{
+f{
   "defaultLang": "en",
   "site": "https://jannael.com",
   "name": "Jannael Orlando Hernández Macedo",
@@ -63,7 +63,7 @@
     "experience": [
       {
         "company": "Softtek",
-        "position": "Software engineer frontend",
+        "position": "Software engineer frontend Jr",
         "img": "https://imgs.search.brave.com/IBgAAaeTJFsmN-_sxtOsGJuhUwjm6ODXOIz4i-wPP50/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lbmVy/dGljLm9yZy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOS8wNS9T/b2Z0dGVrXy5wbmc",
         "web": "https://softtek.com",
         "description": "Frontend developer.",
@@ -397,7 +397,7 @@
     "experience": [
       {
         "company": "Softtek",
-        "position": "Ingeniero de software frontend",
+        "position": "Ingeniero de software frontend Jr",
         "img": "https://imgs.search.brave.com/IBgAAaeTJFsmN-_sxtOsGJuhUwjm6ODXOIz4i-wPP50/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lbmVy/dGljLm9yZy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOS8wNS9T/b2Z0dGVrXy5wbmc",
         "web": "https://softtek.com",
         "description": "Desarrollador frontend.",
