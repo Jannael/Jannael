@@ -6,7 +6,7 @@ Desarrollador Frontend. Entusiasta del open source, me encanta crear herramienta
 
 ## Experiencia profesional
 
-- **Ingeniero de software frontend** at **Softtek** (06/26 - presente)
+- **Ingeniero de software frontend Jr** at **Softtek** (06/26 - presente)
 - Desarrollador frontend.
 - **Estudiante de Educación Dual** at **Universidad Tecnológica Fidel Velázquez** (08/23 - 08/24)
 - Desarrollé proyectos de innovación, automatización e integración de hardware/software.
