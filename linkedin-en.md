@@ -6,8 +6,6 @@ Frontend developer. open source enthusiastic, love creating tooling.
 
 ## Professional Experience
 
-- **Software engineer frontend Jr** at **Softtek** (06/26 - present)
-- Frontend developer.
 - **Dual Education Student** at **Universidad Tecnológica Fidel Velázquez** (08/23 - 08/24)
 - Developed automation and hardware/software integration for innovation projects.
 
