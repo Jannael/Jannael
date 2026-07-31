@@ -62,17 +62,6 @@
     ],
     "experience": [
       {
-        "company": "Softtek",
-        "position": "Software engineer frontend Jr",
-        "img": "https://imgs.search.brave.com/IBgAAaeTJFsmN-_sxtOsGJuhUwjm6ODXOIz4i-wPP50/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lbmVy/dGljLm9yZy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOS8wNS9T/b2Z0dGVrXy5wbmc",
-        "web": "https://softtek.com",
-        "description": "Frontend developer.",
-        "date": "06/26 - present",
-        "links": [],
-        "list": {},
-        "skills": []
-      },
-      {
         "company": "Universidad Tecnológica Fidel Velázquez",
         "position": "Dual Education Student",
         "img": "https://imgs.search.brave.com/RuIC75wZGFDm9xsUgRv6bSZzEXp6XtlLl0E0QSyQ11s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RzLzQwNC8x/ZGNmZDQxNDQ4ODQy/MjUuWTNKdmNDdzFO/elV6TERRMU1EQXNN/VE15TkN3dy5wbmc",
@@ -395,17 +384,6 @@
       }
     ],
     "experience": [
-      {
-        "company": "Softtek",
-        "position": "Ingeniero de software frontend Jr",
-        "img": "https://imgs.search.brave.com/IBgAAaeTJFsmN-_sxtOsGJuhUwjm6ODXOIz4i-wPP50/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lbmVy/dGljLm9yZy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOS8wNS9T/b2Z0dGVrXy5wbmc",
-        "web": "https://softtek.com",
-        "description": "Desarrollador frontend.",
-        "date": "06/26 - presente",
-        "links": [],
-        "list": {},
-        "skills": []
-      },
       {
         "company": "Universidad Tecnológica Fidel Velázquez",
         "position": "Estudiante de Educación Dual",
