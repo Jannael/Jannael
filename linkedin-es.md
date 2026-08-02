@@ -1,8 +1,8 @@
-# Desarrollador Frontend
+# Desarrollador de software
 
 Soy Jannael Orlando Hernández Macedo.
 
-Desarrollador Frontend. Entusiasta del open source, me encanta crear herramientas.
+Desarrollador de software. Entusiasta del open source, me encanta crear herramientas.
 
 ## Experiencia profesional
 

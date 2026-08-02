@@ -1,6 +1,6 @@
 ============================================================
 JANNAEL ORLANDO HERNÁNDEZ MACEDO
-Desarrollador Frontend
+Desarrollador de software
 ============================================================
 
 orlandojannael@gmail.com | +52 56 3368 3040 | Estado de México, México | https://jannael.com
@@ -11,7 +11,7 @@ Perfil de Github: https://github.com/Jannael
 ------------------------------------------------------------
 DESCRIPCIÓN
 ------------------------------------------------------------
-Desarrollador Frontend. Entusiasta del open source, me encanta crear herramientas.
+Desarrollador de software. Entusiasta del open source, me encanta crear herramientas.
 
 ------------------------------------------------------------
 EXPERIENCIA PROFESIONAL

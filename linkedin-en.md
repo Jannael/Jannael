@@ -1,8 +1,8 @@
-# Frontend Developer
+# Software developer
 
 I am Jannael Orlando Hernández Macedo.
 
-Frontend developer. open source enthusiastic, love creating tooling.
+Software developer. open source enthusiastic, love creating tooling.
 
 ## Professional Experience
 
