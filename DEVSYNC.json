@@ -42,8 +42,8 @@
   "address": "Estado de México, México",
   "email": "orlandojannael@gmail.com",
   "en": {
-    "description": "Frontend developer. open source enthusiastic, love creating tooling.",
-    "jobTitle": "Frontend Developer",
+    "description": "Software developer. open source enthusiastic, love creating tooling.",
+    "jobTitle": "Software developer",
     "status": {
       "status": "Working",
       "badge": "![working](https://img.shields.io/badge/working-000000.svg?style=flat&logo=working&logoColor=ffffff)"
@@ -365,8 +365,8 @@
     ]
   },
   "es": {
-    "description": "Desarrollador Frontend. Entusiasta del open source, me encanta crear herramientas.",
-    "jobTitle": "Desarrollador Frontend",
+    "description": "Desarrollador de software. Entusiasta del open source, me encanta crear herramientas.",
+    "jobTitle": "Desarrollador de software",
     "status": {
       "status": "Trabajando",
       "badge": "![trabajando](https://img.shields.io/badge/trabajando-000000.svg?style=flat&logo=trabajando&logoColor=ffffff)"
